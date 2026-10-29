@@ -1,0 +1,1635 @@
+{
+ "universe": "harrypotter",
+ "source": "https://harrypotter.fandom.com",
+ "cards": [
+  {
+   "id": "harry-potter",
+   "name": "Harry Potter",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/ce/Harry_Potter_DHF1.jpg/revision/latest?cb=20140603201724",
+   "summary": "Harry James Potter (b. 31 July 1980) was an English half-blood wizard, and one of the most famous wizards of modern times. The only child and son of James and Lily Potter (née Evans), Harry's birth was overshadowed by a prophecy, naming either himself or Neville Longbottom as the one with the power to vanquish his…",
+   "url": "https://harrypotter.fandom.com/wiki/Harry_Potter"
+  },
+  {
+   "id": "albus-dumbledore",
+   "name": "Albus Dumbledore",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/75/Albus_Dumbledore_%28HBPF_promo%29.jpg/revision/latest/scale-to-width-down/375?cb=20150822232849",
+   "summary": "Professor Albus Percival Wulfric Brian Dumbledore, O.M. (First Class), Grand Sorc., D. Wiz., X.J. (sorc.), S. of Mag.Q. (August 1881 – 30 June 1997) was an English half-blood wizard. He was the Defence Against the Dark Arts Professor, later the Transfiguration Professor, and later the Headmaster of Hogwarts School…",
+   "url": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
+  },
+  {
+   "id": "hermione-granger",
+   "name": "Hermione Granger",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/34/Hermione_Granger.jpg/revision/latest/scale-to-width-down/375?cb=20251206062840",
+   "summary": "Minister Hermione Jean Granger (b. 19 September 1979) was an English Muggle-born witch born to Mr and Mrs Granger. At the age of eleven, she learned about her magical nature and was accepted into Hogwarts School of Witchcraft and Wizardry. Hermione began attending Hogwarts in 1991 and was Sorted into Gryffindor…",
+   "url": "https://harrypotter.fandom.com/wiki/Hermione_Granger"
+  },
+  {
+   "id": "tom-riddle",
+   "name": "Tom Riddle",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/97/Voldemort_Headshot_DHF1.png/revision/latest/scale-to-width-down/375?cb=20161203031453",
+   "summary": "Tom Marvolo Riddle (31 December 1926 – 2 May 1998), later known as Lord Voldemort or, alternatively as the Dark Lord, You-Know-Who, or He Who Must Not Be Named, was an English half-blood wizard considered to have been the most powerful and dangerous Dark wizard of all time. He was amongst the greatest wizards to…",
+   "url": "https://harrypotter.fandom.com/wiki/Tom_Riddle"
+  },
+  {
+   "id": "ronald-weasley",
+   "name": "Ronald Weasley",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/44/Ronald_Weasley_DHF1.jpg/revision/latest?cb=20101104210200",
+   "summary": "Auror Ronald Bilius \"Ron\" Weasley (b. 1 March 1980) was an English pure-blood wizard, the sixth and youngest son of Arthur and Molly Weasley (née Prewett). He was also the younger brother of Bill, Charlie, Percy, Fred, George, and the elder brother of Ginny. Ron and his siblings lived at The Burrow, on the…",
+   "url": "https://harrypotter.fandom.com/wiki/Ronald_Weasley"
+  },
+  {
+   "id": "severus-snape",
+   "name": "Severus Snape",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a3/Severus_Snape.jpg/revision/latest/scale-to-width-down/335?cb=20150307193047",
+   "summary": "Professor Severus Snape (9 January 1960 – 2 May 1998) was an English half-blood wizard serving as Potions Master (1981-1996), Head of Slytherin House (1981-1997), Defence Against the Dark Arts professor (1996-1997), and Headmaster (1997-1998) of Hogwarts School of Witchcraft and Wizardry as well as a member of both…",
+   "url": "https://harrypotter.fandom.com/wiki/Severus_Snape"
+  },
+  {
+   "id": "minerva-mcgonagall",
+   "name": "Minerva McGonagall",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/65/ProfessorMcGonagall-HBP.jpg/revision/latest/scale-to-width-down/412?cb=20100612114856",
+   "summary": "Professor Minerva McGonagall, O.M. (First Class), (b. 4 October) was a Scottish half-blood witch, the only daughter of Muggle Robert McGonagall and witch Isobel McGonagall. She also was the older sister of Malcolm and Robert Jnr. Minerva attended Hogwarts School of Witchcraft and Wizardry and was Sorted into…",
+   "url": "https://harrypotter.fandom.com/wiki/Minerva_McGonagall"
+  },
+  {
+   "id": "rubeus-hagrid",
+   "name": "Rubeus Hagrid",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/fe/Rubeus_Hagrid.png/revision/latest/scale-to-width-down/375?cb=20221014184333",
+   "summary": "Professor Rubeus Hagrid (b. 6 December 1928) was an English half-giant wizard, son of Mr Hagrid and the giantess Fridwulfa, and elder half-brother of the giant Grawp.",
+   "url": "https://harrypotter.fandom.com/wiki/Rubeus_Hagrid"
+  },
+  {
+   "id": "hogwarts-school-of-witchcraft-and-wizardry",
+   "name": "Hogwarts School of Witchcraft and Wizardry",
+   "type": "lieu",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/a/ae/Hogwartscrest.png/revision/latest/scale-to-width-down/497?cb=20110806202805",
+   "summary": "Hogwarts School of Witchcraft and Wizardry, often shortened to Hogwarts, was the British wizarding school located in the Scottish Highlands. Founded in the 10th century, Hogwarts was regarded as one of the finest institutions of magic in the wizarding world, alongside other notable schools including Beauxbatons…",
+   "url": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+  },
+  {
+   "id": "draco-malfoy",
+   "name": "Draco Malfoy",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/7e/Draco_Malfoy_TDH.png/revision/latest/scale-to-width-down/375?cb=20180116013508",
+   "summary": "Draco Lucius Malfoy (born 5 June 1980) was an English pure-blood wizard and the only son of Lucius and Narcissa Malfoy (née Black). Draco was a son of a Death Eater, and was raised to strongly believe in the importance of blood purity. He looked down on Muggle-borns and blood traitors.",
+   "url": "https://harrypotter.fandom.com/wiki/Draco_Malfoy"
+  },
+  {
+   "id": "ginevra-weasley",
+   "name": "Ginevra Weasley",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8b/Ginny_Weasley_hbp_promo.jpg/revision/latest/scale-to-width-down/375?cb=20090317022440",
+   "summary": "Ginevra Molly \"Ginny\" Potter (née Weasley) (b. 11 August 1981), occasionally known as Gin by Harry Potter, was an English pure-blood witch, the only daughter of Arthur and Molly Weasley (née Prewett), and the younger sister of Bill, Charlie, Percy, the late Fred, George and Ron. She was the first female to be born…",
+   "url": "https://harrypotter.fandom.com/wiki/Ginevra_Weasley"
+  },
+  {
+   "id": "dolores-umbridge",
+   "name": "Dolores Umbridge",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4e/Dolores_Umbridge_DHF1_promotional_image.jpg/revision/latest/scale-to-width-down/379?cb=20101127041001",
+   "summary": "Dolores Jane Umbridge (b. 26 August 1961 or earlier) was a half-blood witch and a British Ministry of Magic bureaucrat who served as Senior Undersecretary to the Minister for Magic under Ministers Cornelius Fudge, Rufus Scrimgeour, and Pius Thicknesse.",
+   "url": "https://harrypotter.fandom.com/wiki/Dolores_Umbridge"
+  },
+  {
+   "id": "neville-longbottom",
+   "name": "Neville Longbottom",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/ba/Neville_Longbottom_DHF2_promo_2.jpg/revision/latest/scale-to-width-down/375?cb=20230923173442",
+   "summary": "Professor Neville Longbottom (b. 30 July 1980) was a British pure-blood wizard, the only child and son of Frank and Alice Longbottom. Neville's parents were well-respected Aurors and members of the original Order of the Phoenix until they were tortured into insanity by Bellatrix Lestrange and three other Death…",
+   "url": "https://harrypotter.fandom.com/wiki/Neville_Longbottom"
+  },
+  {
+   "id": "hogwarts-castle",
+   "name": "Hogwarts Castle",
+   "type": "lieu",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e1/Hogwarts_Castle_DHF2.jpg/revision/latest/scale-to-width-down/500?cb=20120128145344",
+   "summary": "Hogwarts Castle was a large, seven-storey high building supported by magic, with a hundred and forty-two staircases throughout its many towers and turrets and very deep dungeons. The castle was built over a thousand years before Harry Potter's time by a wizard architect and the four most celebrated wizards of the…",
+   "url": "https://harrypotter.fandom.com/wiki/Hogwarts_Castle"
+  },
+  {
+   "id": "newton-scamander",
+   "name": "Newton Scamander",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/36/Newton_Scamander_Profile_crop.png/revision/latest/scale-to-width-down/301?cb=20190609204955",
+   "summary": "Newton Artemis Fido \"Newt\" Scamander, O.M. (Second Class), (b. 24 February 1897) was an English wizard, famed Magizoologist and the author of Fantastic Beasts and Where to Find Them. Early in life, Scamander developed an interest in magical creatures, influenced by his mother's breeding of Hippogriffs.",
+   "url": "https://harrypotter.fandom.com/wiki/Newton_Scamander"
+  },
+  {
+   "id": "gilderoy-lockhart",
+   "name": "Gilderoy Lockhart",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/7b/Gilderoy_Lockhart_promotional_image_COSF.jpg/revision/latest/scale-to-width-down/371?cb=20221104114009",
+   "summary": "Professor Gilderoy Lockhart, O.M. (Third Class) (b. 26 January 1964) was an English half-blood wizard, a Ravenclaw student at Hogwarts School of Witchcraft and Wizardry, and later a famous wizarding celebrity who authored many books on Dark creatures and his supposed encounters with them.",
+   "url": "https://harrypotter.fandom.com/wiki/Gilderoy_Lockhart"
+  },
+  {
+   "id": "sirius-black",
+   "name": "Sirius Black",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bc/OOTP_promo_front_closeup_Sirius_Black.jpg/revision/latest/scale-to-width-down/335?cb=20150918055024",
+   "summary": "Sirius Black III (3 November 1959 – 18 June 1996), also known as Padfoot or Snuffles (in his Animagus form), was an English pure-blood wizard, the eldest son of Orion and Walburga Black, the older brother of Regulus Black, and godfather of Harry Potter. Although he was the heir of the House of Black, Sirius…",
+   "url": "https://harrypotter.fandom.com/wiki/Sirius_Black"
+  },
+  {
+   "id": "gellert-grindelwald",
+   "name": "Gellert Grindelwald",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Gellert_Grindelwald_SODM.jpeg/revision/latest/scale-to-width-down/443?cb=20220928093827",
+   "summary": "Gellert Grindelwald (1882/1883 – March 1998) was a pure-blood Dark wizard who was considered to be amongst the most powerful and notorious wizards of all time, his only known superiors being Albus Dumbledore and Lord Voldemort. A student at Durmstrang Institute, Grindelwald was expelled for twisted, dark…",
+   "url": "https://harrypotter.fandom.com/wiki/Gellert_Grindelwald"
+  },
+  {
+   "id": "remus-lupin",
+   "name": "Remus Lupin",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e2/Remus_Lupin_Deathly_Hallows_promo_image.jpg/revision/latest/scale-to-width-down/375?cb=20161119235913",
+   "summary": "Professor Remus John Lupin, O.M. (First Class), (10 March 1960 – 2 May 1998), also known as Moony, was a half-blood wizard and the only son of Lyall and Hope Lupin (née Howell). He was attacked by werewolf Fenrir Greyback when he was a child, a result of Greyback's revenge against Lyall, leaving Remus afflicted…",
+   "url": "https://harrypotter.fandom.com/wiki/Remus_Lupin"
+  },
+  {
+   "id": "fred-weasley",
+   "name": "Fred Weasley",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/9e/Fred_Weasley_promo_DHF1.jpg/revision/latest/scale-to-width-down/375?cb=20230526122025",
+   "summary": "Fred Weasley (1 April 1978–2 May 1998) was an English pure-blood wizard and the fourth son and the middle child, the most daring and dominant among the twins of Arthur Weasley and Molly Weasley (née Prewett), younger brother to Bill, Charlie and Percy, older twin brother and best friend to George Weasley, and older…",
+   "url": "https://harrypotter.fandom.com/wiki/Fred_Weasley"
+  },
+  {
+   "id": "bellatrix-lestrange",
+   "name": "Bellatrix Lestrange",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/14/BellatrixLestrange.png/revision/latest/scale-to-width-down/295?cb=20171101034243",
+   "summary": "Bellatrix \"Bella\" Lestrange (née Black) (1951 – 2 May 1998) was a British pure-blood Dark witch and a member of the noble House of Black. She was the eldest daughter of Cygnus and Druella Black, the elder sister of Andromeda Tonks and Narcissa Malfoy, and the older cousin of Sirius and Regulus Black. Bellatrix…",
+   "url": "https://harrypotter.fandom.com/wiki/Bellatrix_Lestrange"
+  },
+  {
+   "id": "george-weasley",
+   "name": "George Weasley",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b5/George_Weasley_promo_DHF1.jpg/revision/latest/scale-to-width-down/375?cb=20161119235305",
+   "summary": "George Weasley (b. 1 April 1978) was an English pure-blood wizard, the fifth son and the less dominant among the twins of Arthur Weasley and Molly Weasley (née Prewett), younger brother of Bill, Charlie and Percy, younger twin brother and best friend of the late Fred Weasley, and older brother to Ron and Ginny.…",
+   "url": "https://harrypotter.fandom.com/wiki/George_Weasley"
+  },
+  {
+   "id": "luna-lovegood",
+   "name": "Luna Lovegood",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ed/Luna_Lovegood.jpg/revision/latest/scale-to-width-down/336?cb=20160902165706",
+   "summary": "Professor Luna Scamander (née Lovegood) (b. 13 February 1981) was a witch and the only child and daughter of Xenophilius and Pandora Lovegood. Her mother accidentally died while experimenting with spells when Luna was nine and thus Luna was raised by her father, editor of the magazine The Quibbler, in a rook-like…",
+   "url": "https://harrypotter.fandom.com/wiki/Luna_Lovegood"
+  },
+  {
+   "id": "lucius-malfoy",
+   "name": "Lucius Malfoy",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b4/Lucius_Malfoy_BoH.png/revision/latest/scale-to-width-down/338?cb=20190604135420",
+   "summary": "Lucius Malfoy (b. c. 1954) was a British pure-blood wizard, the son of Abraxas Malfoy, husband of Narcissa Black, father of Draco Malfoy and paternal grandfather of Scorpius Malfoy, as well as a member of the Malfoy family. Lucius was educated at Hogwarts, where he was made a prefect in Slytherin House. As an…",
+   "url": "https://harrypotter.fandom.com/wiki/Lucius_Malfoy"
+  },
+  {
+   "id": "horace-slughorn",
+   "name": "Horace Slughorn",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest/scale-to-width-down/395?cb=20100706114608",
+   "summary": "Professor Horace Eugene Flaccus Slughorn (b. 28 April between 1882 and 1913) was a wizard. He attended Hogwarts School of Witchcraft and Wizardry as a member of Slytherin before returning in 1931 as Potions Master. He also served as Head of Slytherin House, before retiring in 1981 due to a fear that Albus…",
+   "url": "https://harrypotter.fandom.com/wiki/Horace_Slughorn"
+  },
+  {
+   "id": "peter-pettigrew",
+   "name": "Peter Pettigrew",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5a/Peter_Pettigrew_GOFF.webp/revision/latest/scale-to-width-down/355?cb=20260603053214",
+   "summary": "Peter Pettigrew, O.M. (First Class), (c. 1960 – March 1998), usually referred to as Wormtail or, in his Animagus form, Scabbers was a wizard who began attending Hogwarts School of Witchcraft and Wizardry in 1971 and was sorted into Gryffindor House after the Sorting Hat pondered over which house he belonged in for…",
+   "url": "https://harrypotter.fandom.com/wiki/Peter_Pettigrew"
+  },
+  {
+   "id": "nymphadora-tonks",
+   "name": "Nymphadora Tonks",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c8/Nymphadora_Tonks_DH_promo_headshot_.jpg/revision/latest/scale-to-width-down/375?cb=20161119222048",
+   "summary": "Nymphadora \"Dora\" Lupin (née Tonks) (c. 1973 – 2 May 1998), more commonly known as Tonks, was a British half-blood witch and a Metamorphmagus. She was the only child of Ted and Andromeda Tonks (née Black). Tonks attended Hogwarts School of Witchcraft and Wizardry from 1984 to 1991 and was Sorted into Hufflepuff…",
+   "url": "https://harrypotter.fandom.com/wiki/Nymphadora_Tonks"
+  },
+  {
+   "id": "molly-weasley",
+   "name": "Molly Weasley",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/3c/Molly_Weasley_Deathly_Hallows.jpg/revision/latest/scale-to-width-down/375?cb=20150828155116",
+   "summary": "Molly Weasley (née Prewett) (b. 30 October 1949 or 1950) was an English pure-blood witch and matriarch of the Weasley family after marrying Arthur Weasley. She was born into the Prewett family and was sister to Fabian and Gideon Prewett, members of the original Order of the Phoenix.",
+   "url": "https://harrypotter.fandom.com/wiki/Molly_Weasley"
+  },
+  {
+   "id": "filius-flitwick",
+   "name": "Filius Flitwick",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4b/Flitwickarmourbattle.png/revision/latest/scale-to-width-down/345?cb=20110628141204",
+   "summary": "Professor Filius Flitwick (b. 17 October 1958 or earlier) was a part-goblin wizard who attended Hogwarts School of Witchcraft and Wizardry and was Sorted into Ravenclaw House, being an intelligent young man and a model student. Some time after his graduation, Flitwick returned to Hogwarts and became the Charms…",
+   "url": "https://harrypotter.fandom.com/wiki/Filius_Flitwick"
+  },
+  {
+   "id": "arthur-weasley",
+   "name": "Arthur Weasley",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/02/Arthur_Weasley_profile.jpg/revision/latest/scale-to-width-down/375?cb=20150828155118",
+   "summary": "Arthur Weasley (b. 6 February 1950) was an English pure-blood wizard in the employ of the Ministry of Magic, as well as a member of the second Order of the Phoenix. He was a staunch believer in the equality of all magical and Muggle folk and was the head of the Weasley family.",
+   "url": "https://harrypotter.fandom.com/wiki/Arthur_Weasley"
+  },
+  {
+   "id": "alastor-moody",
+   "name": "Alastor Moody",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4d/MoodyProfile.png/revision/latest/scale-to-width-down/314?cb=20210819174911",
+   "summary": "Alastor \"Mad-Eye\" Moody (died 27 July 1997) was a pure-blood wizard, considered to be one of the best Aurors of all time. He was a pivotal member of the Order of the Phoenix during the First and Second Wizarding Wars. Moody served with distinction during the first conflict, gaining a reputation as a skilful battler…",
+   "url": "https://harrypotter.fandom.com/wiki/Alastor_Moody"
+  },
+  {
+   "id": "gryffindor",
+   "name": "Gryffindor",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b1/Gryffindor_ClearBG.png/revision/latest/scale-to-width-down/448?cb=20190222162949",
+   "summary": "Gryffindor was one of the four Houses of Hogwarts School of Witchcraft and Wizardry and was founded by Godric Gryffindor. Gryffindor instructed the Sorting Hat to choose students possessing characteristics he most valued, such as courage, chivalry, nerve and determination, to be Sorted into his house.",
+   "url": "https://harrypotter.fandom.com/wiki/Gryffindor"
+  },
+  {
+   "id": "slytherin",
+   "name": "Slytherin",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/00/Slytherin_ClearBG.png/revision/latest/scale-to-width-down/445?cb=20161020182557",
+   "summary": "Slytherin was one of the four Houses at Hogwarts School of Witchcraft and Wizardry, founded by Salazar Slytherin. In establishing the house, Salazar instructed the Sorting Hat to pick students who had a few particular characteristics he most valued. Those characteristics included ambition, cunning, resourcefulness,…",
+   "url": "https://harrypotter.fandom.com/wiki/Slytherin"
+  },
+  {
+   "id": "sybill-trelawney",
+   "name": "Sybill Trelawney",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5d/Sybill_Trelawney.JPG/revision/latest/scale-to-width-down/324?cb=20110108192301",
+   "summary": "Professor Sybill Patricia Trelawney (b. 9 March pre-1962) was a half-blood witch and Professor of Divination at Hogwarts School of Witchcraft and Wizardry. She is the great-great-granddaughter of the celebrated Cassandra Trelawney, who was also a Seer.",
+   "url": "https://harrypotter.fandom.com/wiki/Sybill_Trelawney"
+  },
+  {
+   "id": "patronus-charm",
+   "name": "Patronus Charm",
+   "type": "sortilege",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/fe/Patronus_PM_SilverStagPatronus_MomentIllust.jpg/revision/latest/scale-to-width-down/389?cb=20170314002945",
+   "summary": "The Patronus Charm (Expecto Patronum) was the most famous and one of the most powerful defensive charms known to wizardkind. It was an immensely complicated and extremely difficult spell that channelled the caster's positive emotions into a powerful protection. When cast properly, it evoked a partially-tangible…",
+   "url": "https://harrypotter.fandom.com/wiki/Patronus_Charm"
+  },
+  {
+   "id": "dumbledore-s-army",
+   "name": "Dumbledore's Army",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/96/Dumbledore%27s_Army.jpg/revision/latest/scale-to-width-down/500?cb=20161123060553",
+   "summary": "Dumbledore's Army (also known as the D.A.) was a secret organisation initiated by Harry Potter, Hermione Granger, and Ron Weasley in 1995. The goal of this organisation was to teach their fellow Hogwarts students proper Defence Against the Dark Arts, as the DADA Professor during the 1995–1996 school year, Dolores…",
+   "url": "https://harrypotter.fandom.com/wiki/Dumbledore's_Army"
+  },
+  {
+   "id": "dobby",
+   "name": "Dobby",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/82/Dobby.jpg/revision/latest/scale-to-width-down/447?cb=20230712061949",
+   "summary": "Dobby (28 June (year unknown) – March 1998) was a male house-elf who served the Malfoy family. His masters were Dark wizards who treated him cruelly. In 1992, he disobeyed his masters and tried to warn Harry Potter of the plot to have the Chamber of Secrets reopened. He came to know this via the contact between his…",
+   "url": "https://harrypotter.fandom.com/wiki/Dobby"
+  },
+  {
+   "id": "bartemius-crouch-junior",
+   "name": "Bartemius Crouch Junior",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f4/Barty_Crouch_Junior.jpg/revision/latest/scale-to-width-down/319?cb=20161221034115",
+   "summary": "Bartemius \"Barty\" Crouch Junior (c. 1962 – c. 1996) was a wizard and the son of Bartemius Crouch Senior. He became an ardent follower of Lord Voldemort in order to become a Death Eater and Dark wizard in his teenage years. He was the first escapee of Azkaban prison in its almost 300-year history, though only his…",
+   "url": "https://harrypotter.fandom.com/wiki/Bartemius_Crouch_Junior"
+  },
+  {
+   "id": "quirinus-quirrell",
+   "name": "Quirinus Quirrell",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d2/Quirinus_Quirrell_PS_promo.jpg/revision/latest/scale-to-width-down/375?cb=20110806132643",
+   "summary": "Professor Quirinus Quirrell (26 September 1967 or earlier – 4 June 1992) was a half-blood wizard who attended Hogwarts School of Witchcraft and Wizardry and was Sorted into Ravenclaw House. He was the Muggle Studies professor at Hogwarts, though he later became the Defence Against the Dark Arts professor during the…",
+   "url": "https://harrypotter.fandom.com/wiki/Quirinus_Quirrell"
+  },
+  {
+   "id": "william-weasley",
+   "name": "William Weasley",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/66/BillWeasleyDH2.png/revision/latest/scale-to-width-down/333?cb=20160212193938",
+   "summary": "William Arthur \"Bill\" Weasley (b. 29 November 1970) was an English pure-blood wizard, the first child of Arthur and Molly Weasley (née Prewett) and the eldest brother of Charlie, Percy, the late Fred, George, Ron, and Ginny. He attended Hogwarts School of Witchcraft and Wizardry from 1982 to 1989 and was Sorted…",
+   "url": "https://harrypotter.fandom.com/wiki/William_Weasley"
+  },
+  {
+   "id": "argus-filch",
+   "name": "Argus Filch",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c9/Filch-GOF.jpg/revision/latest/scale-to-width-down/404?cb=20100418170019",
+   "summary": "Argus Filch was a Squib and the caretaker of Hogwarts School of Witchcraft and Wizardry since around 1973. Filch usually wandered around the school corridors with his cat Mrs Norris, trying to catch students breaking the school rules and complaining about Peeves the Poltergeist.",
+   "url": "https://harrypotter.fandom.com/wiki/Argus_Filch"
+  },
+  {
+   "id": "horcrux",
+   "name": "Horcrux",
+   "type": "objet",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b8/Seven_Horcruxes.png/revision/latest/scale-to-width-down/500?cb=20161126081048",
+   "summary": "A Horcrux was an object in which a Dark wizard or witch had hidden a detached fragment of his or her soul in order to become immortal. As long as the receptacle remained intact, so too did the soul fragment inside it, keeping the maker anchored to the world of the living, even if their body suffered fatal damage.…",
+   "url": "https://harrypotter.fandom.com/wiki/Horcrux"
+  },
+  {
+   "id": "patricia-rakepick",
+   "name": "Patricia Rakepick",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/06/Patricia_Rakepick_-_Hogwarts_Mystery.png/revision/latest/scale-to-width-down/326?cb=20201214120904",
+   "summary": "Professor Patricia Rakepick (b. c. 1956) was a Dark witch and a world-famous Curse-Breaker for Gringotts Wizarding Bank.",
+   "url": "https://harrypotter.fandom.com/wiki/Patricia_Rakepick"
+  },
+  {
+   "id": "fleur-delacour",
+   "name": "Fleur Delacour",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Fleur_Delacour.jpg/revision/latest/scale-to-width-down/375?cb=20220718183655",
+   "summary": "Fleur Isabelle Weasley (née Delacour) (b. c. 1976-1977) was a French quarter-Veela witch, one of the daughters of Apolline Delacour and her husband, the other daughter being the younger Gabrielle. Fleur attended Beauxbatons Academy of Magic. During the 1994–1995 school year, she was Beauxbatons' champion in the…",
+   "url": "https://harrypotter.fandom.com/wiki/Fleur_Delacour"
+  },
+  {
+   "id": "james-potter-i",
+   "name": "James Potter (I)",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/10/James_Potter_I_Deathly_Hallows.jpg/revision/latest/scale-to-width-down/366?cb=20180601015416",
+   "summary": "James Potter (27 March 1960–31 October 1981), also known as Prongs, was an English pure-blood wizard and the only son of Fleamont and Euphemia Potter. He was also the paternal grandson of Henry Potter and his unnamed partner. James attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978 and was Sorted…",
+   "url": "https://harrypotter.fandom.com/wiki/James_Potter_(I)"
+  },
+  {
+   "id": "pomona-sprout",
+   "name": "Pomona Sprout",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6e/Pomona_Sprout_DHF2.jpg/revision/latest/scale-to-width-down/337?cb=20170730031333",
+   "summary": "Professor Pomona Sprout (b. 15 May) was a witch who worked as Head of Hufflepuff House and Head of the Herbology department at Hogwarts School of Witchcraft and Wizardry. She attended the school in her youth, where she was Sorted into Hufflepuff and excelled at Herbology. Some time after her graduation, Sprout…",
+   "url": "https://harrypotter.fandom.com/wiki/Pomona_Sprout"
+  },
+  {
+   "id": "cornelius-fudge",
+   "name": "Cornelius Fudge",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6d/Corneliushogwarts.jpg/revision/latest/scale-to-width-down/375?cb=20100312184011",
+   "summary": "Minister Cornelius Oswald Fudge, O.M. (First Class), was a British wizard who served as the thirty-second Minister for Magic of the British Ministry of Magic, in office from 1990 to 1996. Although reliant on the advice of Albus Dumbledore at first, by the height of his power, he had complete control of the Ministry…",
+   "url": "https://harrypotter.fandom.com/wiki/Cornelius_Fudge"
+  },
+  {
+   "id": "penny-haywood",
+   "name": "Penny Haywood",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4a/Penny_Haywood_HM8.png/revision/latest?cb=20230824092112",
+   "summary": "Penny was born in London, United Kingdom in 1972 or 1973, to a Muggle father and a Muggle-born witch mother. She had a younger sister named Beatrice, born four years after her.",
+   "url": "https://harrypotter.fandom.com/wiki/Penny_Haywood"
+  },
+  {
+   "id": "percy-weasley",
+   "name": "Percy Weasley",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bc/Percy_WeasleyDH.jpg/revision/latest?cb=20160720032549",
+   "summary": "Percy Ignatius \"Perce\" Weasley (b. 22 August 1976) was an English pure-blood wizard, the third child of Arthur and Molly Weasley (née Prewett). He was the younger brother of Bill and Charlie, the older brother of the late Fred, George, Ron and Ginny Weasley. He attended Hogwarts School of Witchcraft and Wizardry…",
+   "url": "https://harrypotter.fandom.com/wiki/Percy_Weasley"
+  },
+  {
+   "id": "tiburon-merriweather-s-great-grandchild",
+   "name": "Tiburon Merriweather's great-grandchild",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/69/HPMA_Character_Creation_Icons.png/revision/latest/scale-to-width-down/500?cb=20220216142100",
+   "summary": "This individual (b. 1996/1997) was a Muggle-born witch or wizard who lived in the early 21st century. After being informed of their magical heritage by Rubeus Hagrid, they started attending Hogwarts School of Witchcraft and Wizardry in 2008.",
+   "url": "https://harrypotter.fandom.com/wiki/Tiburon_Merriweather's_great-grandchild"
+  },
+  {
+   "id": "merula-snyde",
+   "name": "Merula Snyde",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f5/Merula_Snyde_HM.png/revision/latest/scale-to-width-down/295?cb=20200408213915",
+   "summary": "Merula Snyde (born c. 1973) was a witch who began attending Hogwarts School of Witchcraft and Wizardry in 1984 and was sorted into Slytherin house. Merula often antagonised Jacob's sibling during their time in Hogwarts and remained a persistent rival to them throughout the years.",
+   "url": "https://harrypotter.fandom.com/wiki/Merula_Snyde"
+  },
+  {
+   "id": "cedric-diggory",
+   "name": "Cedric Diggory",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/90/Cedric_Diggory_Profile.png/revision/latest/scale-to-width-down/375?cb=20161123045136",
+   "summary": "Cedric Diggory (September/October 1977 – 24 June 1995) was a British wizard who was the son of Amos Diggory and his unnamed wife. He started attending Hogwarts School of Witchcraft and Wizardry in 1989, and was sorted into the Hufflepuff House. During his time at school, he was a prefect and captained the…",
+   "url": "https://harrypotter.fandom.com/wiki/Cedric_Diggory"
+  },
+  {
+   "id": "hufflepuff",
+   "name": "Hufflepuff",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/06/Hufflepuff_ClearBG.png/revision/latest/scale-to-width-down/451?cb=20161020182518",
+   "summary": "Hufflepuff was one of the four Houses of Hogwarts School of Witchcraft and Wizardry. Its founder was the medieval witch Helga Hufflepuff. Hufflepuff was the most inclusive among the four houses, valuing hard work, dedication, patience, loyalty, and fair play rather than a particular aptitude in its members.",
+   "url": "https://harrypotter.fandom.com/wiki/Hufflepuff"
+  },
+  {
+   "id": "diagon-alley",
+   "name": "Diagon Alley",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e8/B1C5M1_Diagon_Alley_North_Side.png/revision/latest/scale-to-width-down/500?cb=20110917232032",
+   "summary": "Diagon Alley was a cobblestoned wizarding alley and shopping area located in London, England behind a pub called the Leaky Cauldron. Inside the alley was an assortment of restaurants, shops, and other sights. All items on the Hogwarts supply list could be bought at Diagon Alley.",
+   "url": "https://harrypotter.fandom.com/wiki/Diagon_Alley"
+  },
+  {
+   "id": "ravenclaw",
+   "name": "Ravenclaw",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest/scale-to-width-down/451?cb=20161020182442",
+   "summary": "Ravenclaw was one of the four Houses of Hogwarts School of Witchcraft and Wizardry. Its founder was the medieval witch Rowena Ravenclaw. Members of this house were characterised by their wit, learning, and wisdom. The emblematic animal symbol was an eagle, and blue and bronze were its colours. The Head of Ravenclaw…",
+   "url": "https://harrypotter.fandom.com/wiki/Ravenclaw"
+  },
+  {
+   "id": "lily-potter-i",
+   "name": "Lily Potter (I)",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/53/Lily_Potter_%28I%29_DHF2.jpg/revision/latest?cb=20140712171247",
+   "summary": "Lily J. Potter (née Evans) (30 January 1960 – 31 October 1981) was an English Muggle-born witch, the younger daughter of Mr and Mrs Evans, and the younger sister of Petunia Evans. She learned of her magical nature as a child, after Severus Snape recognised her as a witch and told her of the existence of magic. Lily…",
+   "url": "https://harrypotter.fandom.com/wiki/Lily_Potter_(I)"
+  },
+  {
+   "id": "gringotts-wizarding-bank",
+   "name": "Gringotts Wizarding Bank",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/96/GringottsLogoDH.png/revision/latest/scale-to-width-down/386?cb=20130314200534",
+   "summary": "Gringotts Wizarding Bank was the only wizarding bank in Great Britain, and was owned and operated by goblins. It was founded by a goblin named Gringott in 1474. Its main offices were located around the North Side of Diagon Alley in London, England.",
+   "url": "https://harrypotter.fandom.com/wiki/Gringotts_Wizarding_Bank"
+  },
+  {
+   "id": "aberforth-dumbledore",
+   "name": "Aberforth Dumbledore",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg/revision/latest?cb=20170911160033",
+   "summary": "Aberforth Dumbledore (b. c. 1884) was an English half-blood wizard, the second son of Percival and Kendra Dumbledore, younger brother of Albus, older brother of Ariana, and biological father of Aurelius. He attended Hogwarts School of Witchcraft and Wizardry between 1895 and 1902. His father — who had been…",
+   "url": "https://harrypotter.fandom.com/wiki/Aberforth_Dumbledore"
+  },
+  {
+   "id": "charles-weasley",
+   "name": "Charles Weasley",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d0/Charlie_PM.jpg/revision/latest/scale-to-width-down/407?cb=20180618065107",
+   "summary": "Charles \"Charlie\" Weasley (b. 12 December 1972) was an English pure-blood wizard, the second eldest son of Arthur and Molly Weasley (née Prewett), younger brother of Bill Weasley and the elder brother of Percy, the late Fred, George, Ron, and Ginny.",
+   "url": "https://harrypotter.fandom.com/wiki/Charles_Weasley"
+  },
+  {
+   "id": "wizardkind",
+   "name": "Wizardkind",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/97/Wizardspic.png/revision/latest?cb=20130325224915",
+   "summary": "Wizardkind were humans that were born with the ability to perform magic. An individual male human with magical ability was known as a wizard (plural: wizards), and an individual female human with magical ability was known as a witch (plural: witches), though \"wizard\" was sometimes used as a gender-neutral singular…",
+   "url": "https://harrypotter.fandom.com/wiki/Wizardkind"
+  },
+  {
+   "id": "werewolf",
+   "name": "Werewolf",
+   "type": "creature",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/12/B3C18M1_Werewolf.png/revision/latest/scale-to-width-down/500?cb=20231202060305",
+   "summary": "A werewolf, also known as a lycanthrope, was a creature which normally resembled a human being but, upon the complete rising of the full moon, became an uncontrollable, fearsome and deadly wolf. This condition was caused by infection with lycanthropy, also known as werewolfry. Werewolves were almost…",
+   "url": "https://harrypotter.fandom.com/wiki/Werewolf"
+  },
+  {
+   "id": "albus-potter",
+   "name": "Albus Potter",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/33/AlbusPotter.jpeg/revision/latest?cb=20170614165202",
+   "summary": "Albus Severus Potter (b. c. 2006) was an English half-blood wizard, the second and middle son of Harry and Ginevra Potter (née Weasley) and the godson of Neville Longbottom. He was born two years after his older brother James Sirius and two years before his younger sister Lily Luna.",
+   "url": "https://harrypotter.fandom.com/wiki/Albus_Potter"
+  },
+  {
+   "id": "elder-wand",
+   "name": "Elder Wand",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/59/Elder_Wand.png/revision/latest/scale-to-width-down/500?cb=20241227040818",
+   "summary": "The Elder Wand, also nicknamed \"The Deathstick\" and \"The Wand of Destiny\", was one of three magical objects that made up the fabled Deathly Hallows, along with the Resurrection Stone and the Cloak of Invisibility. According to The Tale of the Three Brothers, it was the first Hallow created, supposedly made by Death…",
+   "url": "https://harrypotter.fandom.com/wiki/Elder_Wand"
+  },
+  {
+   "id": "hogsmeade",
+   "name": "Hogsmeade",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bd/B3C10M3_Hogsmeade.png/revision/latest/scale-to-width-down/500?cb=20161208133044",
+   "summary": "Hogsmeade Village, or simply called Hogsmeade, was an all-wizarding village in the Scottish Highlands. It was founded by Hengist of Woodcroft. Hogsmeade was a picturesque little village of cottages and shops, with enchanted candles hanging in the trees during the holidays. It was also near the location of the train…",
+   "url": "https://harrypotter.fandom.com/wiki/Hogsmeade"
+  },
+  {
+   "id": "forbidden-forest",
+   "name": "Forbidden Forest",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bd/B1C15M2_Forbidden_Forest.png/revision/latest/scale-to-width-down/500?cb=20241205221850",
+   "summary": "The Forbidden Forest, also known as the Dark Forest, was a forest that bordered the edges of the grounds of Hogwarts School of Witchcraft and Wizardry. The forest spanned a considerable area, and was even considered part of the Scottish Highlands.",
+   "url": "https://harrypotter.fandom.com/wiki/Forbidden_Forest"
+  },
+  {
+   "id": "rita-skeeter",
+   "name": "Rita Skeeter",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/2/23/Rita_Skeeter_2.jpg/revision/latest/scale-to-width-down/375?cb=20101113194128",
+   "summary": "Rita Skeeter (b. 1951) was a British witch and journalist who specialised in writing poison-pen stories. These stories tended to be based on false information and misreported interviews. She wrote articles as a Gossip Correspondent for the Daily Prophet, as well as a few 'tell-all' biographies. She occasionally…",
+   "url": "https://harrypotter.fandom.com/wiki/Rita_Skeeter"
+  },
+  {
+   "id": "polyjuice-potion",
+   "name": "Polyjuice Potion",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1b/B2C12M2_Polyjuice_Potion_ready.jpg/revision/latest/scale-to-width-down/500?cb=20180420195742",
+   "summary": "The Polyjuice Potion was a potion that allowed the drinker to temporarily assume the physical form of someone else. It was a highly complicated, challenging, and time-consuming potion. Polyjuice Potion was so complicated that even adult witches and wizards struggled to brew it correctly.",
+   "url": "https://harrypotter.fandom.com/wiki/Polyjuice_Potion"
+  },
+  {
+   "id": "nagini",
+   "name": "Nagini",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/70/Nagini_PM.png/revision/latest/scale-to-width-down/500?cb=20161124073206",
+   "summary": "Nagini (d. 2 May 1998) was a Maledictus cursed to transform into a snake. Originating possibly in Indonesia, by 1927 she was a performer at the Circus Arcanus where she met Credence Barebone (Aurelius Dumbledore) and had a romantic relationship with him. By then, she could transform into a snake at will, although…",
+   "url": "https://harrypotter.fandom.com/wiki/Nagini"
+  },
+  {
+   "id": "the-burrow",
+   "name": "The Burrow",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1b/Theburrow.JPG/revision/latest?cb=20191227014807",
+   "summary": "The Burrow was the family home of the Weasley family, located on the outskirts of Ottery St Catchpole in Devon, England. It was a thoroughly magical dwelling that became a second home to Harry Potter. A barn and chicken coop stood nearby.",
+   "url": "https://harrypotter.fandom.com/wiki/The_Burrow"
+  },
+  {
+   "id": "dean-thomas",
+   "name": "Dean Thomas",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/93/Dean_Thomas_DHF2.jpg/revision/latest/scale-to-width-down/377?cb=20220628110512",
+   "summary": "Dean Thomas (b. c. 1980) was an English half-blood wizard, the son of a wizard and a Muggle mother. When Dean Thomas was very young, his father died and his mother married another man, giving Dean several half-siblings. Since Dean's father never told his mother that he was a wizard and was eventually murdered by…",
+   "url": "https://harrypotter.fandom.com/wiki/Dean_Thomas"
+  },
+  {
+   "id": "garrick-ollivander",
+   "name": "Garrick Ollivander",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6f/Garrick_Ollivander.png/revision/latest/scale-to-width-down/313?cb=20180127182338",
+   "summary": "Garrick Ollivander (b. 25 September pre-1909) was a half-blood wizard who was the proprietor of Ollivanders in Diagon Alley during most of the 20th century. Ollivander was widely considered the best wandmaker in the world, and many wizards and witches bought their wands from him.",
+   "url": "https://harrypotter.fandom.com/wiki/Garrick_Ollivander"
+  },
+  {
+   "id": "viktor-krum",
+   "name": "Viktor Krum",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/93/Viktor_Krum_promo_Yule_Ball.png/revision/latest?cb=20120207173113",
+   "summary": "Viktor Krum (Bulgarian: Виктор Крум; b. April–August 1976) was a Bulgarian wizard. He attended the Durmstrang Institute and was also the Seeker for the Bulgarian National Quidditch team at the age of eighteen while still at school.",
+   "url": "https://harrypotter.fandom.com/wiki/Viktor_Krum"
+  },
+  {
+   "id": "dragon",
+   "name": "Dragon",
+   "type": "creature",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/46/B7C27_Ironbelly.png/revision/latest/scale-to-width-down/500?cb=20161123004922",
+   "summary": "Dragons were giant winged, fire-breathing reptilian beasts. Widely regarded as terrifying yet awe-inspiring, they could be found all over the world and were frequently referred to in Asian and medieval European folklore. Able to fly and breathe fire through their nostrils and mouths, they were one of the most…",
+   "url": "https://harrypotter.fandom.com/wiki/Dragon"
+  },
+  {
+   "id": "cho-chang",
+   "name": "Cho Chang",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Cho_Chang.jpg/revision/latest/scale-to-width-down/342?cb=20180322164130",
+   "summary": "Cho Chang (b. 1978/1979) was a witch who attended Hogwarts School of Witchcraft and Wizardry from 1990-1997 and was sorted into Ravenclaw House. She was a Seeker for the Ravenclaw Quidditch team and a popular student. She was also one year ahead of the famous Harry Potter.",
+   "url": "https://harrypotter.fandom.com/wiki/Cho_Chang"
+  },
+  {
+   "id": "salazar-slytherin",
+   "name": "Salazar Slytherin",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/60/PM_SalazarSlytherin_Founders.jpg/revision/latest/scale-to-width-down/297?cb=20180611201037",
+   "summary": "Salazar Slytherin (fl. c. 993) was a pure-blood wizard, noted for his cunning and determination. He was regarded as one of the greatest wizards of the age, regarded for his abilities as a Parselmouth and as a skilled Legilimens. Slytherin was one of the four founders of Hogwarts School of Witchcraft and Wizardry…",
+   "url": "https://harrypotter.fandom.com/wiki/Salazar_Slytherin"
+  },
+  {
+   "id": "dudley-dursley",
+   "name": "Dudley Dursley",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/19/Dudley_DH.png/revision/latest?cb=20200413050209",
+   "summary": "Dudley Dursley (b. 23 June 1980) was the Muggle son and only child of Vernon and Petunia Dursley and the older cousin of Harry Potter. He was obese and insolent as a result of his parents spoiling him throughout his childhood, although he became muscular in his teens. He and his gang often tormented Harry as well…",
+   "url": "https://harrypotter.fandom.com/wiki/Dudley_Dursley"
+  },
+  {
+   "id": "kingsley-shacklebolt",
+   "name": "Kingsley Shacklebolt",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5e/Kingsley_Shacklebolt_DHF1_promo.jpg/revision/latest/scale-to-width-down/375?cb=20101113194841",
+   "summary": "Minister Kingsley Shacklebolt was a British pure-blood wizard in the employment of the Ministry of Magic. He worked for the Ministry as an Auror, but joined the reconstituted Order of the Phoenix in 1995 after being convinced of the return of Lord Voldemort. Working undercover within the Ministry, he fed the Order…",
+   "url": "https://harrypotter.fandom.com/wiki/Kingsley_Shacklebolt"
+  },
+  {
+   "id": "boggart",
+   "name": "Boggart",
+   "type": "creature",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8e/Boggart_Shapeshifting.jpg/revision/latest/scale-to-width-down/500?cb=20090113184140",
+   "summary": "A Boggart was an amortal shape-shifting non-being that took on the form of its observer's worst fear. Because of their shape-shifting ability, no one knew what a Boggart looked like when it was alone, as it changed shape instantly upon encountering someone.",
+   "url": "https://harrypotter.fandom.com/wiki/Boggart"
+  },
+  {
+   "id": "nicholas-de-mimsy-porpington",
+   "name": "Nicholas de Mimsy-Porpington",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6d/Nicholas_de_Mimsy-Porpington.png/revision/latest?cb=20200515191831",
+   "summary": "Sir Nicholas de Mimsy-Porpington, known after his death as Nearly Headless Nick (d. 31 October 1492), was a wizard who attended Hogwarts School of Witchcraft and Wizardry and was Sorted into Gryffindor House.",
+   "url": "https://harrypotter.fandom.com/wiki/Nicholas_de_Mimsy-Porpington"
+  },
+  {
+   "id": "great-hall",
+   "name": "Great Hall",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c6/B1-background.jpg/revision/latest/scale-to-width-down/474?cb=20111017204834",
+   "summary": "The Great Hall in the Hogwarts Castle was the main gathering area in the school, which was located off the Entrance Hall. It was a large hall where students and teachers dined and congregated. Three meals a day were hosted in this hall.",
+   "url": "https://harrypotter.fandom.com/wiki/Great_Hall"
+  },
+  {
+   "id": "peeves",
+   "name": "Peeves",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/01/Peeves_-_Bob_Venables_PM.gif/revision/latest/scale-to-width-down/322?cb=20171018234135",
+   "summary": "Peeves was a poltergeist at Hogwarts School of Witchcraft and Wizardry, since c. 993. Fond of mischief and chaos, he was a constant pain to the school and its inhabitants, especially Argus Filch, the caretaker, as the only ones able to control him were the Bloody Baron and Albus Dumbledore. Though, he had taken…",
+   "url": "https://harrypotter.fandom.com/wiki/Peeves"
+  },
+  {
+   "id": "oliver-wood",
+   "name": "Oliver Wood",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2f/Oliver_WoodDH2.jpg/revision/latest/scale-to-width-down/339?cb=20110801072255",
+   "summary": "Oliver Wood (born c. 1975 or 1976) was a wizard who was the Keeper and Captain for the Gryffindor Quidditch team during his time as a student at Hogwarts School of Witchcraft and Wizardry, which he attended from 1987 to 1994.",
+   "url": "https://harrypotter.fandom.com/wiki/Oliver_Wood"
+  },
+  {
+   "id": "poppy-pomfrey",
+   "name": "Poppy Pomfrey",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/56/Madam_Pomfrey.png/revision/latest/scale-to-width-down/302?cb=20131110073338",
+   "summary": "Madam Poppy Pomfrey was a British or Irish witch and the matron at Hogwarts School of Witchcraft and Wizardry. She was a very competent Healer, having been in the position for, at least, the last quarter of the 20th century.",
+   "url": "https://harrypotter.fandom.com/wiki/Poppy_Pomfrey"
+  },
+  {
+   "id": "cruciatus-curse",
+   "name": "Cruciatus Curse",
+   "type": "sortilege",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/9c/Voldemort_crucio_harry.gif/revision/latest/scale-to-width-down/500?cb=20170730184619",
+   "summary": "The Cruciatus Curse (Crucio), also known as the Torture Curse, was a tool of the Dark Arts and one of the three Unforgivable Curses. When cast successfully on the victim, the curse inflicted intense, excruciating physical pain on them, and would result in insanity if they were subjected to it for a prolonged time.…",
+   "url": "https://harrypotter.fandom.com/wiki/Cruciatus_Curse"
+  },
+  {
+   "id": "kreacher",
+   "name": "Kreacher",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d4/Kreacher_HPE.jpg/revision/latest/scale-to-width-down/421?cb=20100621114028",
+   "summary": "Kreacher was a male house-elf who served the House of Black with fanatical loyalty for most of his life until he was left to Harry Potter upon the death of Sirius Black in 1996.",
+   "url": "https://harrypotter.fandom.com/wiki/Kreacher"
+  },
+  {
+   "id": "vincent-crabbe",
+   "name": "Vincent Crabbe",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/ba/Vincent_Crabbe.jpg/revision/latest/scale-to-width-down/351?cb=20091224183746",
+   "summary": "Vincent Crabbe (c. 1980 – 2 May 1998) was a pure-blood wizard, and the son of Death Eater Crabbe Snr. He came from a line of Dark wizards and Death Eaters.",
+   "url": "https://harrypotter.fandom.com/wiki/Vincent_Crabbe"
+  },
+  {
+   "id": "imperius-curse",
+   "name": "Imperius Curse",
+   "type": "sortilege",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8c/Imperio1.gif/revision/latest?cb=20140811032614",
+   "summary": "The Imperius Curse (Imperio) was a tool of the Dark Arts, and was one of the three Unforgivable Curses. When cast successfully, the curse placed the victim completely under the caster's control, making the victim unquestionably obedient to the caster. A person under the curse was said to be Imperiused.",
+   "url": "https://harrypotter.fandom.com/wiki/Imperius_Curse"
+  },
+  {
+   "id": "gregory-goyle",
+   "name": "Gregory Goyle",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e7/Gregory_Goyle_DH2.jpg/revision/latest?cb=20180306163743",
+   "summary": "Gregory Goyle (b. 1979/1980) was a pure-blood wizard in the same year as Harry Potter at Hogwarts School of Witchcraft and Wizardry. He was sorted into Slytherin House. Goyle was the son of a Death Eater and his wife. It is unknown if he was a Death Eater as well.",
+   "url": "https://harrypotter.fandom.com/wiki/Gregory_Goyle"
+  },
+  {
+   "id": "12-grimmauld-place",
+   "name": "12 Grimmauld Place",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/fc/GrimmauldPlace_WB_F5_FrontOfGrimmualdPlace_Image_100615_Land.jpg/revision/latest/scale-to-width-down/500?cb=20161017204708",
+   "summary": "12 Grimmauld Place was the ancestral home of the Black family, located in the Borough of Islington, London, in a Muggle neighbourhood, and the location was protected by a Fidelius Charm. As the house was invisible to the neighbourhood residents, the local Muggles had long since accepted the mistake in numbering…",
+   "url": "https://harrypotter.fandom.com/wiki/12_Grimmauld_Place"
+  },
+  {
+   "id": "rolanda-hooch",
+   "name": "Rolanda Hooch",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/02/RolandaHooch.jpg/revision/latest/scale-to-width-down/300?cb=20100616193052",
+   "summary": "Madam Rolanda Hooch (b. before 1918) was a witch who worked as the Flying instructor, Quidditch referee, and coach at Hogwarts School of Witchcraft and Wizardry. She learnt to fly on her own Silver Arrow broomstick sometime before or during the Great War and returned to Hogwarts, her childhood school, for a job.…",
+   "url": "https://harrypotter.fandom.com/wiki/Rolanda_Hooch"
+  },
+  {
+   "id": "chamber-of-secrets",
+   "name": "Chamber of Secrets",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/62/Chamber.png/revision/latest/scale-to-width-down/500?cb=20180613173723",
+   "summary": "The Chamber of Secrets was created under the Dungeons of Hogwarts School of Witchcraft and Wizardry during Medieval times by Salazar Slytherin. He disagreed with the other Hogwarts founders on the merits of blood purity. Before leaving the school, Slytherin built this Chamber with the hope of purging the school of…",
+   "url": "https://harrypotter.fandom.com/wiki/Chamber_of_Secrets"
+  },
+  {
+   "id": "katie-bell",
+   "name": "Katie Bell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/32/Katie_Bell_infobox.jpg/revision/latest/scale-to-width-down/316?cb=20170118053940",
+   "summary": "Katie Bell (b. 1978/1979) was a witch and a Gryffindor student at Hogwarts School of Witchcraft and Wizardry from 1990 to 1997. She was a Chaser for the Gryffindor Quidditch team. During her Hogwarts years, she became incredibly close friends with Angelina Johnson and Alicia Spinnet, who were Gryffindors from the…",
+   "url": "https://harrypotter.fandom.com/wiki/Katie_Bell"
+  },
+  {
+   "id": "goblin",
+   "name": "Goblin",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4b/Goblin_Pottermore.png/revision/latest?cb=20120511132236",
+   "summary": "Goblins were a highly intelligent race of small magical humanoid beings with long fingers and feet that coexisted with the wizarding world. Their diet consisted of meat, roots, and fungi. Goblins conversed in a language known as Gobbledegook, and were adept metalsmiths notable for their silverwork; they even minted…",
+   "url": "https://harrypotter.fandom.com/wiki/Goblin"
+  },
+  {
+   "id": "ghost",
+   "name": "Ghost",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/60/Ghost_PM.png/revision/latest?cb=20210903044914",
+   "summary": "A ghost was the imprint of the soul of a once-living wizard or witch, and as such, a type of spirit. These fleshless spirits were either afraid of death or had some extraordinarily strong connection to the locations they haunt.",
+   "url": "https://harrypotter.fandom.com/wiki/Ghost"
+  },
+  {
+   "id": "amycus-carrow",
+   "name": "Amycus Carrow",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/97/Amycus_Carrow_PM.png/revision/latest/scale-to-width-down/393?cb=20170203044409",
+   "summary": "Professor Amycus Carrow was a Dark wizard, brother of Alecto Carrow and a Death Eater. Amycus fought in the First Wizarding War along with his sister. They did not search for Lord Voldemort after his first downfall but were forgiven after Voldemort's return in 1995 and joined the Death Eater ranks in the Second…",
+   "url": "https://harrypotter.fandom.com/wiki/Amycus_Carrow"
+  },
+  {
+   "id": "broomstick",
+   "name": "Broomstick",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8d/Broomsticks.jpg/revision/latest?cb=20140603221848",
+   "summary": "Broomsticks, also known as brooms, were one of the means employed by wizards and witches to transport themselves between locations. Wizarding broomsticks, unlike non-magical brooms, were enchanted to fly, allowing for a witch or wizard to travel to their destination through the air, as well as for Broom racing or…",
+   "url": "https://harrypotter.fandom.com/wiki/Broomstick"
+  },
+  {
+   "id": "hedwig",
+   "name": "Hedwig",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Hedwig_Snowy_Owl_PM.png/revision/latest/scale-to-width-down/412?cb=20161123234010",
+   "summary": "Hedwig (d. 27 July 1997) was Harry Potter's pet female snowy owl. Hedwig was an eleventh birthday gift from Rubeus Hagrid to Harry. Hagrid purchased her at the Eeylops Owl Emporium.",
+   "url": "https://harrypotter.fandom.com/wiki/Hedwig"
+  },
+  {
+   "id": "rowena-ravenclaw",
+   "name": "Rowena Ravenclaw",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1c/PM_RowenaRavenclaw_Founders.jpg/revision/latest/scale-to-width-down/299?cb=20180611200720",
+   "summary": "Rowena Ravenclaw (fl. c. 993) was a Scottish witch and one of the four founders of Hogwarts School of Witchcraft and Wizardry. She was noted for her intelligence and creativity. Ravenclaw died sometime in the eleventh century, after she fell fatally ill. Legend had it that a broken heart was the cause — because her…",
+   "url": "https://harrypotter.fandom.com/wiki/Rowena_Ravenclaw"
+  },
+  {
+   "id": "godric-gryffindor",
+   "name": "Godric Gryffindor",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/31/Founders_gryffindor1.jpg/revision/latest/scale-to-width-down/300?cb=20180611200439",
+   "summary": "Godric Gryffindor (fl. c. 993) was an English wizard and one of the four founders of Hogwarts School of Witchcraft and Wizardry. He was great friends with Salazar Slytherin, but opposed him when he later thought that they should not accept Muggle-born students at Hogwarts. It is unknown when he died. In his honour,…",
+   "url": "https://harrypotter.fandom.com/wiki/Godric_Gryffindor"
+  },
+  {
+   "id": "disarming-charm",
+   "name": "Disarming Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/96/Snape_disarming_Lockhart_COS.gif/revision/latest?cb=20190402120234",
+   "summary": "The Disarming Charm (Expelliarmus) was a charm that forced whatever an opponent was holding to fly out of their hand. It was common to see this spell used in duels to make an opponent lose their wand.",
+   "url": "https://harrypotter.fandom.com/wiki/Disarming_Charm"
+  },
+  {
+   "id": "hogwarts-express",
+   "name": "Hogwarts Express",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/88/B1_Hogwarts_Express.jpg/revision/latest/scale-to-width-down/500?cb=20241201150744",
+   "summary": "The Hogwarts Express was the name of the train that ran between London King's Cross Station Platform 9¾ and Hogsmeade Station, presumably owned or operated by the Hogsmeade Railway. It made this run semi-frequently, most notably on 1 September before the start of term and in June at the end of term.",
+   "url": "https://harrypotter.fandom.com/wiki/Hogwarts_Express"
+  },
+  {
+   "id": "4-privet-drive",
+   "name": "4 Privet Drive",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f9/Privet_drive.jpg/revision/latest?cb=20100607103048",
+   "summary": "4 Privet Drive was the street address of the home owned by Vernon and Petunia Dursley. They lived in this home with their son, Dudley as well as their nephew, Harry Potter, son of Lily Potter, Petunia's late sister and Lily's late husband, James Potter. Privet Drive lies in the village of Little Whinging, which was…",
+   "url": "https://harrypotter.fandom.com/wiki/4_Privet_Drive"
+  },
+  {
+   "id": "silvanus-kettleburn",
+   "name": "Silvanus Kettleburn",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b6/Silvanus_Kettleburn_HM.png/revision/latest/scale-to-width-down/448?cb=20180622160654",
+   "summary": "Professor Silvanus Kettleburn (b. 22 November pre-1927) was a British wizard who, after graduating from Hogwarts School of Witchcraft and Wizardry, served as professor of Care of Magical Creatures.",
+   "url": "https://harrypotter.fandom.com/wiki/Silvanus_Kettleburn"
+  },
+  {
+   "id": "ludovic-bagman",
+   "name": "Ludovic Bagman",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2f/Ludo_Bagman_HM.jpg/revision/latest/scale-to-width-down/500?cb=20221111180947",
+   "summary": "Ludovic \"Ludo\" Bagman (fl. 1981-2014) was an English wizard and Ministry of Magic employee. During his career at the Ministry, Ludo rose to the post of Head of the Department of Magical Games and Sports. His career at the Ministry ended in mid-1995, when he had to go on the run from goblins, to whom he owed a…",
+   "url": "https://harrypotter.fandom.com/wiki/Ludovic_Bagman"
+  },
+  {
+   "id": "malfoy-manor",
+   "name": "Malfoy Manor",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b8/B7C1_Malfoy_Manor_Pottermore.png/revision/latest/scale-to-width-down/500?cb=20151218012346",
+   "summary": "Malfoy Manor was the home of the wealthy pure-blood Malfoy family, located in Wiltshire, England. It was mainly used as the base of operations for Lord Voldemort and the Death Eaters during the Second Wizarding War, much to the immense discomfort of Lucius, Narcissa, and Draco Malfoy.",
+   "url": "https://harrypotter.fandom.com/wiki/Malfoy_Manor"
+  },
+  {
+   "id": "grand-staircase",
+   "name": "Grand Staircase",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b1/B1C8M1_Grand_Staircase.jpg/revision/latest/scale-to-width-down/500?cb=20161213063303",
+   "summary": "The Grand Staircase, also known as the Moving Staircase, was a massive stairway in Hogwarts Castle, the structure was mainly used to access each floor of the castle, including the dungeons. Rowena Ravenclaw was the Hogwarts founder who invented the concept of moving stairs.",
+   "url": "https://harrypotter.fandom.com/wiki/Grand_Staircase"
+  },
+  {
+   "id": "slytherin-s-locket",
+   "name": "Slytherin's Locket",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/0c/Slytherin%27s_Locket_PM.jpg/revision/latest/scale-to-width-down/290?cb=20170730224949",
+   "summary": "Slytherin's Locket was a piece of jewellery originally owned by Salazar Slytherin that became an heirloom of his family. It was a locket of heavy gold with a serpentine S in glittering green stone inlay on the front. After descending down from Slytherin, it came into the possession of the Gaunt family, and Marvolo…",
+   "url": "https://harrypotter.fandom.com/wiki/Slytherin's_Locket"
+  },
+  {
+   "id": "gryffindor-quidditch-team",
+   "name": "Gryffindor Quidditch team",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d3/Gryffindor%E2%84%A2_Quidditch%E2%84%A2_Badge.png/revision/latest?cb=20160731003525",
+   "summary": "The Gryffindor Quidditch team was the Quidditch team of Hogwarts School of Witchcraft and Wizardry's Gryffindor House. They played in robes of scarlet and gold, their House colour. The mascot of Gryffindor House and its Quidditch team was a lion.",
+   "url": "https://harrypotter.fandom.com/wiki/Gryffindor_Quidditch_team"
+  },
+  {
+   "id": "stunning-spell",
+   "name": "Stunning Spell",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/fa/StupefyHM.png/revision/latest?cb=20201214143442",
+   "summary": "The Stunning Spell (Stupefy), also known as the Stupefying Charm, or Stunner for short, was a charm that stunned the target, rendering them unconscious. This charm was exceptionally useful in duelling, as it can quickly end a duel without causing lasting damage.",
+   "url": "https://harrypotter.fandom.com/wiki/Stunning_Spell"
+  },
+  {
+   "id": "thestral",
+   "name": "Thestral",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bd/Thestral.png/revision/latest/scale-to-width-down/339?cb=20160524181902",
+   "summary": "The Thestral was a breed of winged horse with a skeletal body, a face with reptilian features, and wide, leathery wings that resembled a bat's. They were native to the British Isles and Ireland, though they had been spotted in parts of France and the Iberian Peninsula. They were very rare, and were considered…",
+   "url": "https://harrypotter.fandom.com/wiki/Thestral"
+  },
+  {
+   "id": "summoning-charm",
+   "name": "Summoning Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/99/Accio_cup.gif/revision/latest?cb=20160520023137",
+   "summary": "The Summoning Charm (Accio) was a charm that summoned an object toward the caster. It was able to summon objects in direct line of sight of the caster, as well as things out of view, by calling the object aloud after the incantation (unless the spell was cast nonverbally).",
+   "url": "https://harrypotter.fandom.com/wiki/Summoning_Charm"
+  },
+  {
+   "id": "room-of-requirement",
+   "name": "Room of Requirement",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/fb/Room_of_Requirement_OotP.png/revision/latest/scale-to-width-down/500?cb=20161215063619",
+   "summary": "The Room of Requirement, also known as the Come and Go Room, was a secret room within Hogwarts Castle, that only appeared when a person was in great need of it.",
+   "url": "https://harrypotter.fandom.com/wiki/Room_of_Requirement"
+  },
+  {
+   "id": "sword-of-gryffindor",
+   "name": "Sword of Gryffindor",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/7f/GryffindorsSword_PM.jpg/revision/latest/scale-to-width-down/246?cb=20210829025525",
+   "summary": "The Sword of Gryffindor was a thousand-year-old, goblin-made magical sword owned by the famed wizard Godric Gryffindor, one of the four founders of Hogwarts School of Witchcraft and Wizardry.",
+   "url": "https://harrypotter.fandom.com/wiki/Sword_of_Gryffindor"
+  },
+  {
+   "id": "headmaster-s-office",
+   "name": "Headmaster's office",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/54/B2C12M1_Sorting_Hat_in_Dumbledore%27s_office.png/revision/latest/scale-to-width-down/500?cb=20180423223750",
+   "summary": "The Headmaster's office (or Headmistress's office) was the room in Hogwarts Castle that served as the private study of the incumbent Headmaster or Headmistress of Hogwarts School of Witchcraft and Wizardry, where they worked, and presumably lived during the school year.",
+   "url": "https://harrypotter.fandom.com/wiki/Headmaster's_office"
+  },
+  {
+   "id": "weasleys-wizard-wheezes",
+   "name": "Weasleys' Wizard Wheezes",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/ce/Weasleys_Wizard_Wheezes.png/revision/latest/scale-to-width-down/500?cb=20161124001602",
+   "summary": "Weasleys' Wizard Wheezes, also known as Weasley & Weasley, was a joke shop located at 93 Diagon Alley founded by Fred and George Weasley.",
+   "url": "https://harrypotter.fandom.com/wiki/Weasleys'_Wizard_Wheezes"
+  },
+  {
+   "id": "mirror-of-erised",
+   "name": "Mirror of Erised",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/19/Mirror_of_Erised_PSF_Disc_2.jpg/revision/latest?cb=20080831114852",
+   "summary": "The Mirror of Erised was a magical mirror, which, according to Albus Dumbledore, showed the \"deepest, most desperate desire of our hearts.\" The name \"Erised\" was \"desire\" spelled backwards, as if reflected in a mirror. The happiest and most satisfied person in the world would look in the mirror and see a reflection…",
+   "url": "https://harrypotter.fandom.com/wiki/Mirror_of_Erised"
+  },
+  {
+   "id": "memory-charm",
+   "name": "Memory Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d8/Obliviate_backfire.gif/revision/latest/scale-to-width-down/500?cb=20170809232738",
+   "summary": "The Memory Charm (Obliviate), also known as the Forgetfulness Charm, was a charm that could be used to erase specific memories from an individual's mind. It was different from the spell that created false memories.",
+   "url": "https://harrypotter.fandom.com/wiki/Memory_Charm"
+  },
+  {
+   "id": "nonverbal-spell",
+   "name": "Nonverbal spell",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/2/20/OOTP_Umbridge_spelling_a_couple_apart.gif/revision/latest?cb=20140529222723",
+   "summary": "A nonverbal spell was a spell which was performed without the casting wizard or witch speaking the incantation aloud. Hogwarts School of Witchcraft and Wizardry began teaching nonverbal magic to students in their sixth year in Defence Against the Dark Arts, Charms, and Transfiguration; the students were expected to…",
+   "url": "https://harrypotter.fandom.com/wiki/Nonverbal_spell"
+  },
+  {
+   "id": "harry-potter-s-wand",
+   "name": "Harry Potter's wand",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/ca/HarryPotterWandNN8415.jpg/revision/latest?cb=20141208232731",
+   "summary": "Harry Potter's wand was 11\" long, made of holly, and possessed a phoenix feather core. This was described by Garrick Ollivander to be an unusual combination of wand core and wood. The feather was donated by Fawkes, Albus Dumbledore's phoenix.",
+   "url": "https://harrypotter.fandom.com/wiki/Harry_Potter's_wand"
+  },
+  {
+   "id": "shield-charm",
+   "name": "Shield Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/78/DH2_Kingsley_Shacklebolt_Protego.gif/revision/latest/scale-to-width-down/500?cb=20110430124100",
+   "summary": "The Shield Charm (Protego) was a charm that protected the caster with an invisible shield that reflected spells and blocked physical entities.",
+   "url": "https://harrypotter.fandom.com/wiki/Shield_Charm"
+  },
+  {
+   "id": "tom-riddle-s-wand",
+   "name": "Tom Riddle's wand",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/13/Lord_Voldemort%27s_wand.jpg/revision/latest?cb=20141208232950",
+   "summary": "Tom Riddle's wand was 13½\" long, crafted from yew, and affixed with a phoenix feather core. The core of wand was taken from Fawkes, Albus Dumbledore's phoenix, whose tail feathers were also used in the construction of Harry Potter's wand, making the two wands siblings.",
+   "url": "https://harrypotter.fandom.com/wiki/Tom_Riddle's_wand"
+  },
+  {
+   "id": "british-ministry-of-magic-location",
+   "name": "British Ministry of Magic (location)",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bd/Ministry_of_Magic_busy.jpg/revision/latest/scale-to-width-down/500?cb=20101122224927",
+   "summary": "The Ministry of Magic was a physical structure located deep underground, below Whitehall in London. The Ministry was where the government of the same name was based, and comprised a very large, ten-story building that housed hundreds of offices, departments and courtrooms.",
+   "url": "https://harrypotter.fandom.com/wiki/British_Ministry_of_Magic_(location)"
+  },
+  {
+   "id": "levitation-charm",
+   "name": "Levitation Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1b/JarlethHobart.png/revision/latest/scale-to-width-down/324?cb=20141124192734",
+   "summary": "The Levitation Charm (Wingardium Leviosa) was a charm used to make objects fly, or levitate. It was taught to first-years at Hogwarts School of Witchcraft and Wizardry.",
+   "url": "https://harrypotter.fandom.com/wiki/Levitation_Charm"
+  },
+  {
+   "id": "felix-felicis",
+   "name": "Felix Felicis",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/84/Felix_Felicis_Phial_HBP.png/revision/latest/scale-to-width-down/375?cb=20161125004911",
+   "summary": "Felix Felicis, also called \"Liquid Luck\", was a potion that made the drinker lucky for a period of time, during which everything they attempt would be successful. It turned an ordinary day into an extraordinary one. It was very difficult to make, disastrous if made wrong, and required six months to brew before it…",
+   "url": "https://harrypotter.fandom.com/wiki/Felix_Felicis"
+  },
+  {
+   "id": "cloak-of-invisibility",
+   "name": "Cloak of Invisibility",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/67/Cloak_of_Invisibility_PM.png/revision/latest/scale-to-width-down/500?cb=20161124181645",
+   "summary": "The Cloak of Invisibility was a magical artefact used to render the wearer invisible, and one of the fabled Deathly Hallows. In The Tale of the Three Brothers, it was the third and final Hallow created, supposedly by Death himself (who had the cloak in his possession at that time). Death bestowed this cloak to…",
+   "url": "https://harrypotter.fandom.com/wiki/Cloak_of_Invisibility"
+  },
+  {
+   "id": "basilisk",
+   "name": "Basilisk",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/53/Basilisk_-_FBcases.png/revision/latest?cb=20161129174406",
+   "summary": "The Basilisk was a giant serpent, also known as the King of Serpents. It was a magical beast that was usually bred by Dark wizards. Herpo the Foul was the first to breed a Basilisk. Herpo accomplished this by hatching a chicken egg beneath a toad which resulted in the creature known as a Basilisk.",
+   "url": "https://harrypotter.fandom.com/wiki/Basilisk"
+  },
+  {
+   "id": "slytherin-quidditch-team",
+   "name": "Slytherin Quidditch team",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5d/Slytherin%E2%84%A2_Quidditch%E2%84%A2_Badge.png/revision/latest?cb=20091129181212",
+   "summary": "The Slytherin Quidditch team was the Quidditch team for the Hogwarts Slytherin house. Each year, they competed for the Inter-House Quidditch Cup, an award presented to the Hogwarts House team that earned the most points. Unlike the Gryffindor, Hufflepuff and Ravenclaw teams, the Slytherin team had no qualms with…",
+   "url": "https://harrypotter.fandom.com/wiki/Slytherin_Quidditch_team"
+  },
+  {
+   "id": "durmstrang-institute",
+   "name": "Durmstrang Institute",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f3/DurmstrangCrest.png/revision/latest/scale-to-width-down/431?cb=20160112161151",
+   "summary": "Durmstrang Institute (Cyrillic: Дурмстранг) was one of the three largest wizarding schools in Europe (the other two being Hogwarts School of Witchcraft and Wizardry and Beauxbatons Academy of Magic). Located in the far north of the continent, the school was willing to accept international students from as far…",
+   "url": "https://harrypotter.fandom.com/wiki/Durmstrang_Institute"
+  },
+  {
+   "id": "curse",
+   "name": "Curse",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/05/Lily_murder.gif/revision/latest?cb=20140811025532",
+   "summary": "A curse was one of the three types of dark charms, along with jinxes and hexes. Curses were the worst and most heinous kind of Dark Magic, and therefore their effects were the most severe. The effects of a curse caused extreme harm to the target or otherwise affected them in a strongly negative manner.",
+   "url": "https://harrypotter.fandom.com/wiki/Curse"
+  },
+  {
+   "id": "wand-lighting-charm",
+   "name": "Wand-Lighting Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/43/Wand-lighting_charm.gif/revision/latest?cb=20140912023113",
+   "summary": "The Wand-Lighting Charm (Lumos) was a charm that illuminated the tip of the caster's wand, allowing the caster to see in the dark. The counter-charm for the spell was the Wand-Extinguishing Charm (Nox), which was used to extinguish the light from the caster's wand. The charm could be used to reveal magically hidden…",
+   "url": "https://harrypotter.fandom.com/wiki/Wand-Lighting_Charm"
+  },
+  {
+   "id": "charms-class",
+   "name": "Charms (class)",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/57/CharmsHPCard.jpg/revision/latest?cb=20070917074719",
+   "summary": "Charms was a subject and core class taught at Hogwarts School of Witchcraft and Wizardry and Ilvermorny School of Witchcraft and Wizardry. As the name suggests, it specialised in the teaching of charms.",
+   "url": "https://harrypotter.fandom.com/wiki/Charms_(class)"
+  },
+  {
+   "id": "phoenix",
+   "name": "Phoenix",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c1/Phoenix.png/revision/latest/scale-to-width-down/500?cb=20240818061801",
+   "summary": "The phoenix was a large swan-sized scarlet magical bird with red and gold plumage, along with a golden beak and talons, black eyes, and a tail as long as a peacock's. Phoenixes would usually nest on mountain peaks and were gentle herbivores, that were not known for fighting. A phoenix was also one of the most…",
+   "url": "https://harrypotter.fandom.com/wiki/Phoenix"
+  },
+  {
+   "id": "time-turner",
+   "name": "Time-Turner",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a4/Time_Turner.png/revision/latest/scale-to-width-down/353?cb=20161126042527",
+   "summary": "A Time-Turner was a magical device used for time travel. It was a special timepiece which resembled an hourglass on a necklace.",
+   "url": "https://harrypotter.fandom.com/wiki/Time-Turner"
+  },
+  {
+   "id": "full-body-bind-curse",
+   "name": "Full Body-Bind Curse",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6e/HermionePetrificusTotalus.gif/revision/latest?cb=20161007222911",
+   "summary": "The Full Body-Bind Curse (Petrificus Totalus), also known as the Body Freezing Spell, was a curse that temporarily paralysed the opponent. It was often used by inexperienced or young wizards and witches in duelling. This curse could be found in Curses and Counter-Curses by Vindictus Viridian.",
+   "url": "https://harrypotter.fandom.com/wiki/Full_Body-Bind_Curse"
+  },
+  {
+   "id": "giant",
+   "name": "Giant",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4f/PottermoreGiantClutchingDeerConceptArt_-_cropped.png/revision/latest/scale-to-width-down/308?cb=20151216132944",
+   "summary": "A giant (unisex: giant; female: giantess) was a very large humanoid magical being which could potentially grow to approximately twenty-five feet tall, but other than their height, they greatly resembled humans. They were not as intelligent as wizards, but were capable of communication. Giants had their own language…",
+   "url": "https://harrypotter.fandom.com/wiki/Giant"
+  },
+  {
+   "id": "newton-scamander-s-suitcase",
+   "name": "Newton Scamander's suitcase",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/74/Scamander%27s_suitcase.png/revision/latest/scale-to-width-down/369?cb=20151107221401",
+   "summary": "The Magizoologist Newton Scamander owned a magical suitcase, bewitched with an Undetectable Extension Charm, in which he housed a vast number of magical beasts while he travelled. He could hide the contents from Muggles by flipping a switch on the case.",
+   "url": "https://harrypotter.fandom.com/wiki/Newton_Scamander's_suitcase"
+  },
+  {
+   "id": "fidelius-charm",
+   "name": "Fidelius Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/0f/Harry-potter1-voldemort_cottage.jpg/revision/latest/scale-to-width-down/500?cb=20170730194346",
+   "summary": "The Fidelius Charm (incantation unknown) was a very powerful spell used to hide things or places, or to conceal secrets. It was an extremely difficult, multifaceted, and potent charm that could be used to conceal a secret inside an individual's soul. The witch or wizard who housed the secret was known as the Secret…",
+   "url": "https://harrypotter.fandom.com/wiki/Fidelius_Charm"
+  },
+  {
+   "id": "hogwarts-pensieve",
+   "name": "Hogwarts Pensieve",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/05/Pensieve_PM.png/revision/latest/scale-to-width-down/500?cb=20161126221935",
+   "summary": "The Hogwarts Pensieve was a magical instrument used by the Headteachers of Hogwarts School of Witchcraft and Wizardry to view memories. Professor Albus Dumbledore used it to review particular memories of Tom Riddle, among other things, and to give Harry Potter private lessons during the 1996–1997 school year.",
+   "url": "https://harrypotter.fandom.com/wiki/Hogwarts_Pensieve"
+  },
+  {
+   "id": "ollivanders",
+   "name": "Ollivanders",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6b/B1C5_cropped_Ollivanders.png/revision/latest/scale-to-width-down/375?cb=20161213065129",
+   "summary": "Ollivanders was a wand shop founded in 382 B.C. Located in Diagon Alley South Side in London, England, it was owned by the pure-blood Ollivander family, widely acknowledged to be the best wandmakers in Great Britain.",
+   "url": "https://harrypotter.fandom.com/wiki/Ollivanders"
+  },
+  {
+   "id": "unlocking-charm",
+   "name": "Unlocking Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/0e/Alohomora.gif/revision/latest?cb=20140811055322",
+   "summary": "The Unlocking Charm (Alohomora), also known as the Unlocking Spell or the Thief's Friend was a charm that unlocked objects such as doors or windows. It was also able to open doors locked by the Locking Spell (Colloportus), and as such, acted as its counter-charm. The Anti-Alohomora Charm could be used to prevent…",
+   "url": "https://harrypotter.fandom.com/wiki/Unlocking_Charm"
+  },
+  {
+   "id": "mending-charm",
+   "name": "Mending Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/66/Reparo.gif/revision/latest?cb=20140306221146",
+   "summary": "The Mending Charm, also known as the Repairing Charm (Reparo), was a charm that could be used to seamlessly repair a broken or ripped object and worked on most materials. This incredibly useful and practical charm was invented by Orabella Nuttley, in or before 1754.",
+   "url": "https://harrypotter.fandom.com/wiki/Mending_Charm"
+  },
+  {
+   "id": "troll",
+   "name": "Troll",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/71/Troll-pottermore.png/revision/latest?cb=20120510142205",
+   "summary": "A troll was a magical beast of prodigious strength and immense stupidity. In fact, they were so synonymous with stupidity that wizards actually had the lowest wizarding exam failing grade named after them. Trolls were grouped in the taxonomical genus Troglodytarum.",
+   "url": "https://harrypotter.fandom.com/wiki/Troll"
+  },
+  {
+   "id": "centaur",
+   "name": "Centaur",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f4/Centaur_Pottermore.png/revision/latest?cb=20120510141530",
+   "summary": "A centaur was a magical creature whose head, torso, and arms appeared to be human and were joined to a horse's lower body. They were, however, their own individual species, and thus were not half-breeds. They also had a rich history and were known for being naturally talented in archery, healing magic, divination…",
+   "url": "https://harrypotter.fandom.com/wiki/Centaur"
+  },
+  {
+   "id": "resurrection-stone",
+   "name": "Resurrection Stone",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/ce/DeathlyHallow_WB_F7_ResurrectionStoneInOpen_Snitch_Image_100615_Port.jpg/revision/latest/scale-to-width-down/500?cb=20180709184423",
+   "summary": "The Resurrection Stone was one of the fabled Deathly Hallows. In The Tale of the Three Brothers, it was the second Hallow created, supposedly by Death himself. It was bestowed upon Cadmus Peverell after he requested, as his bounty, something with the power to recall loved ones from Death. However, those brought…",
+   "url": "https://harrypotter.fandom.com/wiki/Resurrection_Stone"
+  },
+  {
+   "id": "fire-making-spell",
+   "name": "Fire-Making Spell",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6a/IncendioHM.png/revision/latest?cb=20201213233205",
+   "summary": "The Fire-Making Spell, also known as the Fire-Making Charm (Incendio) was a charm that conjured a jet of flames that could be used to set things alight.",
+   "url": "https://harrypotter.fandom.com/wiki/Fire-Making_Spell"
+  },
+  {
+   "id": "merperson",
+   "name": "Merperson",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b6/Merpeople_Pottermore.png/revision/latest?cb=20120511133103",
+   "summary": "A merperson (plural merpeople) was a sentient magical beast that lived underwater. They were found all over the world. Their customs and habits were mysterious, and, like the centaurs, were offered the being status but refused in favour of beast, as they did not want to be placed in a status with hags and vampires.…",
+   "url": "https://harrypotter.fandom.com/wiki/Merperson"
+  },
+  {
+   "id": "trace",
+   "name": "Trace",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/09/Trace.gif/revision/latest?cb=20130127214332",
+   "summary": "The Trace (incantation unknown) was a charm which allowed the Ministry to know of magic cast in the vicinity of wizards and witches who were under seventeen years of age. When any magical activity was performed in the vicinity of the underage individual, the Improper Use of Magic Office within the Ministry of Magic…",
+   "url": "https://harrypotter.fandom.com/wiki/Trace"
+  },
+  {
+   "id": "hogwarts-tapestry",
+   "name": "Hogwarts Tapestry",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2a/Hogwarts_Tapestry_HM.jpg/revision/latest/scale-to-width-down/500?cb=20260312090032",
+   "summary": "The Hogwarts Tapestry was a tapestry that was enchanted by Merlin and his friends to both celebrate Hogwarts and find the brightest students at the school to give them the 'confidence to achieve greatness'. It did this by forcing students to participate in a number of trials which tested their character and by…",
+   "url": "https://harrypotter.fandom.com/wiki/Hogwarts_Tapestry"
+  },
+  {
+   "id": "vampire",
+   "name": "Vampire",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ee/Vampire_Pottermore.png/revision/latest?cb=20120510141139",
+   "summary": "A vampire was a dark magical being that was famed for biting people on the neck and sucking their blood. They were part of the family of beings known as the Living Dead, along with zombies.",
+   "url": "https://harrypotter.fandom.com/wiki/Vampire"
+  },
+  {
+   "id": "thunderbird",
+   "name": "Thunderbird",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d7/Thunderbird_concept_art.jpg/revision/latest/scale-to-width-down/500?cb=20180813231220",
+   "summary": "The Thunderbird was a large, magical avian beast native to North America, and most commonly found in Arizona in the southwestern United States. A close relative of the phoenix, the Thunderbird could create storms as it flew and was highly sensitive to danger. A House at Ilvermorny School of Witchcraft and Wizardry…",
+   "url": "https://harrypotter.fandom.com/wiki/Thunderbird"
+  },
+  {
+   "id": "doubling-charm",
+   "name": "Doubling Charm",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5f/Gemino_Curse.gif/revision/latest?cb=20111013021404",
+   "summary": "The Doubling Charm or Duplication Charm (Geminio) was a charm used to duplicate an object, creating an exact replica of that object, nearly impossible to tell apart from the original.",
+   "url": "https://harrypotter.fandom.com/wiki/Doubling_Charm"
+  },
+  {
+   "id": "laceration-curse",
+   "name": "Laceration Curse",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/3a/Sectumempra_Curse.gif/revision/latest?cb=20151211212618",
+   "summary": "The Laceration Curse (Sectumsempra) was a curse invented by Severus Snape that lacerated the target and caused severe bleeding. Snape created it as a student of Hogwarts, and contrary to other spells he created for usage against opponents in duels, like Langlock and the Dangling Jinx, he explicitly marked for usage…",
+   "url": "https://harrypotter.fandom.com/wiki/Laceration_Curse"
+  },
+  {
+   "id": "knockback-jinx",
+   "name": "Knockback Jinx",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/ff/Flipendo_HM_Spell_Icon.png/revision/latest?cb=20201126040842",
+   "summary": "The Knockback Jinx (Flipendo) was a jinx that knocked the target backwards. While prominently used for duelling, it could also be used to push heavy objects. It was covered in Quentin Trimble's The Dark Forces: A Guide to Self-Protection, a Defence Against the Dark Arts textbook.",
+   "url": "https://harrypotter.fandom.com/wiki/Knockback_Jinx"
+  },
+  {
+   "id": "philosopher-s-stone",
+   "name": "Philosopher's Stone",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/ff/Pholosophers-Stone_PM.jpg/revision/latest/scale-to-width-down/500?cb=20161122143651",
+   "summary": "The Philosopher's Stone was a legendary alchemical substance with magical properties. The ruby-red Stone could be used to transform any metal into pure gold, as well as to create the Elixir of Life, which made the drinker immortal. The only known Stone to have ever existed was created by the famed French alchemist…",
+   "url": "https://harrypotter.fandom.com/wiki/Philosopher's_Stone"
+  },
+  {
+   "id": "jinx-on-the-post-of-defence-against-the-dark-arts-teacher",
+   "name": "Jinx on the post of Defence Against the Dark Arts teacher",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/59/Jinx_on_post_as_Defence_Against_the_Dark_Arts_teacher.jpg/revision/latest/scale-to-width-down/500?cb=20110726192012",
+   "summary": "This jinx (incantation unknown) was cast by Tom Marvolo Riddle, who was by the time known exclusively as Lord Voldemort, to curse Hogwarts's Defence Against the Dark Arts class to ensure that none of its teachers could hold their post for more than one year. It is unknown what the requirements and incantation of…",
+   "url": "https://harrypotter.fandom.com/wiki/Jinx_on_the_post_of_Defence_Against_the_Dark_Arts_teacher"
+  },
+  {
+   "id": "floo-powder",
+   "name": "Floo powder",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/c/cc/Floo_Powder_PAS.png/revision/latest/scale-to-width-down/454?cb=20211219215334",
+   "summary": "Floo powder was a glittery magical powder used by witches and wizards to travel by the Floo Network, which connected the fireplaces of nearly every wizarding household and building. Through the use of Floo powder, witches and wizards were able to enter a fireplace at the origin building and exit a fireplace at the…",
+   "url": "https://harrypotter.fandom.com/wiki/Floo_powder"
+  },
+  {
+   "id": "sacrificial-protection",
+   "name": "Sacrificial protection",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/05/Lily_murder.gif/revision/latest?cb=20140811025532",
+   "summary": "Sacrificial protection was an ancient, powerful, and long-lasting counter-charm. It was endowed when one person (whom we will call \"the victim\" for purposes of this article) ultimately sacrificed their own life willingly and out of deep, pure love to save the life of one or more people (to whom this article will…",
+   "url": "https://harrypotter.fandom.com/wiki/Sacrificial_protection"
+  },
+  {
+   "id": "jinx",
+   "name": "Jinx",
+   "type": "sortilege",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/06/Oppugno_jinx.gif/revision/latest?cb=20140914231637",
+   "summary": "A jinx was one of the three types of dark charms, along with hexes and curses. Jinxes were minor Dark Magic, and therefore their effects were the least severe. The effects of a jinx caused a small inconvenience to the target. Their effects were irritating but amusing, almost playful.",
+   "url": "https://harrypotter.fandom.com/wiki/Jinx"
+  },
+  {
+   "id": "trio",
+   "name": "Trio",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/9/93/Golden-trio-harry-potter-13747243-299-400.jpg/revision/latest/scale-to-width-down/423?cb=20190109130309",
+   "summary": "The Trio, sometimes known as the Golden Trio, was the popular name given to the gang of three best friends and former Gryffindor students at Hogwarts School of Witchcraft and Wizardry. The Trio was made up of Harry Potter, Hermione Granger, and Ronald Weasley.",
+   "url": "https://harrypotter.fandom.com/wiki/Trio"
+  },
+  {
+   "id": "invisibility-cloak",
+   "name": "Invisibility Cloak",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/67/Cloak_of_Invisibility_PM.png/revision/latest/scale-to-width-down/500?cb=20161124181645",
+   "summary": "An Invisibility Cloak was a magical garment which rendered whomever or whatever it covered invisible. Invisibility Cloaks were exceptionally rare and valuable within the wizarding world.",
+   "url": "https://harrypotter.fandom.com/wiki/Invisibility_Cloak"
+  },
+  {
+   "id": "knight-bus",
+   "name": "Knight Bus",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/6/66/The_Knight_Bus_-_Jonny_Duddle.jpg/revision/latest/scale-to-width-down/409?cb=20170109044547",
+   "summary": "The Knight Bus was a triple-decker, purple AEC Regent III RT bus that assisted stranded individuals of the wizarding community through public transportation. It operated at a very fast speed and obstacles would jump out of its way, and it could also deceptively fit through small spaces.",
+   "url": "https://harrypotter.fandom.com/wiki/Knight_Bus"
+  },
+  {
+   "id": "hogsmeade-weekend-trips",
+   "name": "Hogsmeade weekend trips",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/78/Hogsmeade.JPG/revision/latest/scale-to-width-down/500?cb=20090915073515",
+   "summary": "Hogsmeade weekend trips were special trips that the students at Hogwarts School of Witchcraft and Wizardry could take on certain weekends to Hogsmeade village.",
+   "url": "https://harrypotter.fandom.com/wiki/Hogsmeade_weekend_trips"
+  },
+  {
+   "id": "hermione-granger-s-beaded-handbag",
+   "name": "Hermione Granger's beaded handbag",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/0/01/Hermione_Granger%27s_beaded_handbag.jpg/revision/latest?cb=20160722034743",
+   "summary": "Hermione Granger owned a small, purple, beaded handbag, which she purchased in the summer of 1997 or earlier. She placed an Undetectable Extension Charm on it and inside it held many possessions she and her friends would need during their hunt for Voldemort's Horcruxes.",
+   "url": "https://harrypotter.fandom.com/wiki/Hermione_Granger's_beaded_handbag"
+  },
+  {
+   "id": "hippogriff",
+   "name": "Hippogriff",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a6/Hippogrif_FBCFWW.png/revision/latest?cb=20161202001443",
+   "summary": "A Hippogriff was a magical beast that had the front legs, wings, and head of a giant eagle and the body, hind legs and tail of a horse. It was very similar to another magical creature, the Griffin, with the horse rear replacing the lion rear.",
+   "url": "https://harrypotter.fandom.com/wiki/Hippogriff"
+  },
+  {
+   "id": "flying-ford-anglia",
+   "name": "Flying Ford Anglia",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/11/B2C3M2_cropped_Flying_Ford_Anglia.png/revision/latest/scale-to-width-down/500?cb=20161213050918",
+   "summary": "The Flying Ford Anglia was a light blue Ford Anglia 105E Deluxe that was enchanted by Arthur Weasley to fly, as well as to become invisible, with the use of a specially installed device called an Invisibility Booster. It was also modified so that it could fit eight people, six trunks, two owls, and a rat…",
+   "url": "https://harrypotter.fandom.com/wiki/Flying_Ford_Anglia"
+  },
+  {
+   "id": "defence-against-the-dark-arts-teacher-s-office",
+   "name": "Defence Against the Dark Arts teacher's office",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1b/B2C7M2_Harry_replying_to_Lockhart%27s_fan_mail.png/revision/latest/scale-to-width-down/500?cb=20180424045954",
+   "summary": "Dinah Hecat occupied this office during her tenure as the Defence Against the Dark Arts instructor in the late 19th century. She had a Wizard's Chess board game, as well as some tribal masks hung on the walls, a full body trifold mirror, a long case pendulum clock, a couple of bookshelves and a few skulls, a high…",
+   "url": "https://harrypotter.fandom.com/wiki/Defence_Against_the_Dark_Arts_teacher's_office"
+  },
+  {
+   "id": "dark-mark",
+   "name": "Dark Mark",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8b/Dark_Mark_in_the_sky.gif/revision/latest?cb=20140430190529",
+   "summary": "The Dark Mark was the symbol of Lord Voldemort and his Death Eaters. It refers both to a magically induced brand that every Death Eater bore on his or her inner left forearm, and to the same symbol summoned in the sky by the spell Morsmordre.",
+   "url": "https://harrypotter.fandom.com/wiki/Dark_Mark"
+  },
+  {
+   "id": "unicorn",
+   "name": "Unicorn",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e4/Unicorn_FBCFTWW.png/revision/latest?cb=20161130204538",
+   "summary": "The unicorn was a white horse with a single horn sticking out of the middle of its forehead. The existence of unicorns was one of the worst-kept secrets of the wizarding world, as unicorns were inextricably associated with magic in the Muggle world and were an iconic magical creature.",
+   "url": "https://harrypotter.fandom.com/wiki/Unicorn"
+  },
+  {
+   "id": "hufflepuff-s-cup",
+   "name": "Hufflepuff's Cup",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/7/72/Cup_Pottermore_2.jpg/revision/latest/scale-to-width-down/500?cb=20170730225729",
+   "summary": "Hufflepuff's Cup was a magical item created by Helga Hufflepuff, one of the four founders of Hogwarts School of Witchcraft and Wizardry. It was a small golden cup with two finely-wrought handles with a badger engraved on the side. The badger is the symbol of Hufflepuff House. The cup also has the dubious…",
+   "url": "https://harrypotter.fandom.com/wiki/Hufflepuff's_Cup"
+  },
+  {
+   "id": "gnome",
+   "name": "Gnome",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/d/df/Gnome_FB_IE.jpg/revision/latest/scale-to-width-down/292?cb=20210914165156",
+   "summary": "A gnome, or garden gnome, was a small magical beast commonly known to infest the gardens of wizarding households. The correct taxonomic name for gnomes was, purportedly, Gernumbli gardensi; they were sometimes referred to as Gernumblies. They were found throughout northern Europe and North America.",
+   "url": "https://harrypotter.fandom.com/wiki/Gnome"
+  },
+  {
+   "id": "manticore",
+   "name": "Manticore",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/11/Manticore_FBC.png/revision/latest?cb=20170413064522",
+   "summary": "The Manticore was a magical beast and one of the wizarding world's most dangerous creatures.",
+   "url": "https://harrypotter.fandom.com/wiki/Manticore"
+  },
+  {
+   "id": "veela",
+   "name": "Veela",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/5/51/Veela2014QWC.png/revision/latest/scale-to-width-down/353?cb=20180318021921",
+   "summary": "Veela (both singular and plural) were human-like magical beings who appeared as young, beautiful women with white-gold hair and moon-bright skin, native to Bulgaria. Their looks and especially their dance were hypnotically seductive to almost all people attracted to women, which caused them to perform foolhardy and…",
+   "url": "https://harrypotter.fandom.com/wiki/Veela"
+  },
+  {
+   "id": "pukwudgie",
+   "name": "Pukwudgie",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/42/PukwudgieWU.png/revision/latest?cb=20241219171050",
+   "summary": "Pukwudgies were short, grey, large-eared creatures. They were distantly related to the European goblin and had been known to both help humans and play tricks on them. Pukwudgies hunted with arrows coated with their own brand of poison.",
+   "url": "https://harrypotter.fandom.com/wiki/Pukwudgie"
+  },
+  {
+   "id": "alastor-moody-s-magical-eye",
+   "name": "Alastor Moody's magical eye",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/b/be/Moodyeye.png/revision/latest?cb=20100207091134",
+   "summary": "This magical eye acted as a replacement eye for Alastor Moody, the Auror and a crucial member of the Order of the Phoenix, after he lost his original eye in battle.",
+   "url": "https://harrypotter.fandom.com/wiki/Alastor_Moody's_magical_eye"
+  },
+  {
+   "id": "sirius-black-s-motorbike",
+   "name": "Sirius Black's motorbike",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/1/12/PottermoreMotorbike.jpg/revision/latest?cb=20160722033605",
+   "summary": "This motorbike was a magical motorcycle owned by Harry Potter that previously belonged to his godfather, Sirius Black, which Harry inherited after Sirius was killed by Bellatrix Lestrange during the Battle of the Department of Mysteries. It had a large engine (suggested by the noise made when active and the fact…",
+   "url": "https://harrypotter.fandom.com/wiki/Sirius_Black's_motorbike"
+  },
+  {
+   "id": "deluminator",
+   "name": "Deluminator",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f6/Deluminator_-_Noble_Collection.jpg/revision/latest?cb=20140615143150",
+   "summary": "The Deluminator, also known as the Put-Outer, was a magical device used by Albus Dumbledore (the first known owner and designer of the one Deluminator known to exist) to remove light sources from the Deluminator's immediate surroundings, as well as bestow them. It looked like a standard silver cigarette lighter.",
+   "url": "https://harrypotter.fandom.com/wiki/Deluminator"
+  },
+  {
+   "id": "pensieve",
+   "name": "Pensieve",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/4/49/Pensieve_PM.jpg/revision/latest/scale-to-width-down/500?cb=20160718230929",
+   "summary": "A Pensieve was a very rare and powerful magical item. They were a magical device used to store and review memories. Pensieves were rare because only the most advanced wizards ever use them, and because the majority of wizardkind is afraid of doing so.",
+   "url": "https://harrypotter.fandom.com/wiki/Pensieve"
+  },
+  {
+   "id": "potion-riddle",
+   "name": "Potion riddle",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ed/B1C16M3_Potion_riddle.png/revision/latest/scale-to-width-down/500?cb=20241201115117",
+   "summary": "The potion riddle was created by Severus Snape to prevent anyone from getting the Philosopher's Stone, featured as the sixth obstacle in the Underground Chambers.",
+   "url": "https://harrypotter.fandom.com/wiki/Potion_riddle"
+  },
+  {
+   "id": "veil",
+   "name": "Veil",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/3/35/Veil.gif/revision/latest?cb=20140306081231",
+   "summary": "The Veil was an enigmatic structure located in the Death Chamber at the Department of Mysteries that seemed to be a manifestation of the barrier between the land of the living and the land of the dead. One could not travel freely between the two worlds, as it was a one-way trip. The Unspeakables who worked in the…",
+   "url": "https://harrypotter.fandom.com/wiki/Veil"
+  },
+  {
+   "id": "charles-weasley-s-wand",
+   "name": "Charles Weasley's wand",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8c/Ron_weasley_first_wand.jpg/revision/latest/scale-to-width-down/485?cb=20240818050116",
+   "summary": "Charles Weasley's first wand was 12\", made of ash, and had a core of unicorn hair that stuck out at the end of the wand. It was later owned by his younger brother Ron.",
+   "url": "https://harrypotter.fandom.com/wiki/Charles_Weasley's_wand"
+  },
+  {
+   "id": "gellert-grindelwald-s-wand",
+   "name": "Gellert Grindelwald's wand",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8a/Gellert_Grindelwald%27s_wand.jpg/revision/latest/scale-to-width-down/500?cb=20190713070819",
+   "summary": "The wand of Gellert Grindelwald was of an unknown length, wood, and core material. He likely obtained it prior to starting his education at the Durmstrang Institute, and used it throughout his school career, and beyond. Grindelwald's wand remained in its master's possession in the months following his expulsion…",
+   "url": "https://harrypotter.fandom.com/wiki/Gellert_Grindelwald's_wand"
+  }
+ ]
+}

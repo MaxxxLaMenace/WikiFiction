@@ -1,0 +1,1707 @@
+{
+ "universe": "masseffect",
+ "source": "https://masseffect.fandom.com",
+ "cards": [
+  {
+   "id": "cerberus",
+   "name": "Cerberus",
+   "type": "faction",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/ed/TIMEvilGrinLE3.png/revision/latest/scale-to-width-down/500?cb=20230715031210",
+   "summary": "Cerberus is a human-supremacist paramilitary group led by the enigmatic Illusive Man. Couching itself as human-survivalist, Cerberus' core belief is that humans deserve a greater role in the galactic community, and that the Systems Alliance is too hamstrung by law and public opinion to stand up effectively to the…",
+   "url": "https://masseffect.fandom.com/wiki/Cerberus"
+  },
+  {
+   "id": "liara-t-soni",
+   "name": "Liara T'Soni",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/cd/ME_liara_charshot.png/revision/latest/scale-to-width-down/393?cb=20210620063412",
+   "summary": "Dr. Liara T'Soni is an asari researcher and archaeologist. With a Doctorate in Anthropology of the Prothean Era from the University of Serrice, she has spent the past fifty years of her life studying Prothean technology and culture, specializing in investigating the mysterious extinction of the species. Born on…",
+   "url": "https://masseffect.fandom.com/wiki/Liara_T'Soni"
+  },
+  {
+   "id": "geth",
+   "name": "Geth",
+   "type": "espece",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/63/Codex_ME_-_Geth.png/revision/latest/scale-to-width-down/500?cb=20210715160253",
+   "summary": "The geth (\"Servant of the People\" in Khelish) are a race of networked artificial intelligences that reside beyond the Perseus Veil. The geth were created by the quarians as laborers and tools of war. When the geth became sentient and began to question their masters, the quarians attempted to exterminate them. The…",
+   "url": "https://masseffect.fandom.com/wiki/Geth"
+  },
+  {
+   "id": "normandy-sr-2",
+   "name": "Normandy SR-2",
+   "type": "vaisseau",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/11/Mass_Effect_Normandy_SR2.png/revision/latest/scale-to-width-down/500?cb=20091227112049",
+   "summary": "The Normandy SR-2 is a starship that serves as Commander Shepard's base of operations following the destruction of the SSV Normandy.",
+   "url": "https://masseffect.fandom.com/wiki/Normandy_SR-2"
+  },
+  {
+   "id": "reaper",
+   "name": "Reaper",
+   "type": "vaisseau",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/35/Codex_ME_-_Sovereign.png/revision/latest/scale-to-width-down/500?cb=20210715155754",
+   "summary": "The Reapers are a highly-advanced machine race of synthetic-organic starships. The Reapers reside in dark space: the vast, mostly starless space between galaxies. They hibernate there, dormant for fifty thousand years at a time, before returning to the galaxy.",
+   "url": "https://masseffect.fandom.com/wiki/Reaper"
+  },
+  {
+   "id": "garrus-vakarian",
+   "name": "Garrus Vakarian",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/9d/ME_garrus_charshot.png/revision/latest/scale-to-width-down/393?cb=20210620043621",
+   "summary": "Garrus Vakarian is a turian, formerly part of C-Sec's Investigation Division. Like most turians, Garrus had his military training at fifteen, but later followed in his father's footsteps to become a C-Sec officer. He was responsible for the investigation of Saren Arterius, the Council's top Spectre, after the…",
+   "url": "https://masseffect.fandom.com/wiki/Garrus_Vakarian"
+  },
+  {
+   "id": "krogan",
+   "name": "Krogan",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e4/Codex_ME_-_Krogan.png/revision/latest/scale-to-width-down/500?cb=20210714135002",
+   "summary": "The krogan are a species of large reptilian bipeds native to the planet Tuchanka, a world known for its harsh environments, scarce resources, and overabundance of vicious predators. The krogan managed to not only survive on their unforgiving homeworld, but actually thrived in the extreme conditions. Unfortunately,…",
+   "url": "https://masseffect.fandom.com/wiki/Krogan"
+  },
+  {
+   "id": "ashley-williams",
+   "name": "Ashley Williams",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/6e/ME_ashley_charshot.png/revision/latest/scale-to-width-down/370?cb=20210620044329",
+   "summary": "Ashley Madeline Williams is a human soldier who served in the Systems Alliance as a Gunnery Chief in the 2nd Frontier Division on Eden Prime, and was later assigned to Commander Shepard's squad after the geth attack on Eden Prime. She is a potential romance partner for a male Shepard.",
+   "url": "https://masseffect.fandom.com/wiki/Ashley_Williams"
+  },
+  {
+   "id": "tali-zorah-nar-rayya",
+   "name": "Tali'Zorah nar Rayya",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/7d/ME_tali_charshot.png/revision/latest/scale-to-width-down/370?cb=20210606223657",
+   "summary": "Tali'Zorah nar Rayya was born in 2161 aboard the starship Rayya to Rael'Zorah, a member of the Admiralty Board of the quarian Migrant Fleet. After reaching the threshold of maturity, she departs the Migrant Fleet on her Pilgrimage, the traditional quarian rite of passage into full adulthood. On her travels, she…",
+   "url": "https://masseffect.fandom.com/wiki/Tali'Zorah_nar_Rayya"
+  },
+  {
+   "id": "commander-shepard",
+   "name": "Commander Shepard",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/24/MELE_Default_Shepards.png/revision/latest/scale-to-width-down/500?cb=20211028200648",
+   "summary": "Commander Shepard is the main protagonist of Mass Effect, Mass Effect 2, and Mass Effect 3.",
+   "url": "https://masseffect.fandom.com/wiki/Commander_Shepard"
+  },
+  {
+   "id": "illusive-man",
+   "name": "Illusive Man",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/af/TIM_ME2_charshot.png/revision/latest/scale-to-width-down/417?cb=20220810121141",
+   "summary": "The Illusive Man is the elusive, secretive, and well-informed leader of Cerberus. He has close-cropped silver-grey hair with \"steely blue\" eyes which appear to be prosthetic. The Illusive Man's real name and his life before Cerberus are both long forgotten by most. For years, the Illusive Man has been using…",
+   "url": "https://masseffect.fandom.com/wiki/Illusive_Man"
+  },
+  {
+   "id": "turian",
+   "name": "Turian",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/5/51/Codex_ME_-_Turians.png/revision/latest/scale-to-width-down/500?cb=20210714135010",
+   "summary": "Known for their militaristic and disciplined culture, the turians were the third race to join the Citadel Council. They gained their Council seat after defeating the hostile krogan for the Council during the Krogan Rebellions. The turians deployed a salarian-created biological weapon called the genophage, which…",
+   "url": "https://masseffect.fandom.com/wiki/Turian"
+  },
+  {
+   "id": "quarian",
+   "name": "Quarian",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/7c/QuarianMaleAndFemale.jpg/revision/latest/scale-to-width-down/500?cb=20100317060344",
+   "summary": "The quarians are a nomadic species of humanoid aliens known for their skills with technology and synthetic intelligence. Since their homeworld Rannoch was conquered, the quarians live aboard the Migrant Fleet, a huge collection of starships that travels as a single fleet.",
+   "url": "https://masseffect.fandom.com/wiki/Quarian"
+  },
+  {
+   "id": "miranda-lawson",
+   "name": "Miranda Lawson",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/b2/Miranda_ME2_charshot.png/revision/latest/scale-to-width-down/324?cb=20220812040816",
+   "summary": "Miranda Lawson is a human Cerberus Officer. Miranda is very well traveled and has many contacts, extending from Citadel space and the Terminus Systems, to as far as the hostile Nemean Abyss. Her vast network of contacts may be explained by the fact Miranda is a known Cerberus operative, one who still has friends —…",
+   "url": "https://masseffect.fandom.com/wiki/Miranda_Lawson"
+  },
+  {
+   "id": "asari",
+   "name": "Asari",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/06/Codex_ME_-_Asari.png/revision/latest/scale-to-width-down/500?cb=20210715155536",
+   "summary": "The asari, native to the planet Thessia, are often considered the most influential and respected sentient species in the galaxy, and are known for their elegance, diplomacy, and biotic aptitude. This is partly due to the fact that the asari were among the earliest races to achieve interstellar flight after the…",
+   "url": "https://masseffect.fandom.com/wiki/Asari"
+  },
+  {
+   "id": "kaidan-alenko",
+   "name": "Kaidan Alenko",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/23/ME_kaidan_charshot.png/revision/latest/scale-to-width-down/370?cb=20210620061633",
+   "summary": "Kaidan Alenko is a human Sentinel and a Systems Alliance Marine. While serving aboard the SSV Normandy, he is a Staff Lieutenant and head of the ship's Marine detail. He's also an initial member of Commander Shepard's squad. Kaidan is a biotic wired with the controversial L2 implants, which are known to cause…",
+   "url": "https://masseffect.fandom.com/wiki/Kaidan_Alenko"
+  },
+  {
+   "id": "edi",
+   "name": "EDI",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/cc/EDI_Character_Box.png/revision/latest/scale-to-width-down/500?cb=20210814140833",
+   "summary": "The Enhanced Defense Intelligence, or EDI (pronounced 'Ee-Dee' [ˈiːdiː]), is an AI created by Cerberus and installed aboard the Normandy SR-2. She is represented visually by a holographic blue sphere and aurally with a feminine voice at various terminals throughout the ship where she can provide basic information…",
+   "url": "https://masseffect.fandom.com/wiki/EDI"
+  },
+  {
+   "id": "prothean",
+   "name": "Prothean",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/5/52/ME3_Javik_Character_Shot.png/revision/latest/scale-to-width-down/500?cb=20120325213045",
+   "summary": "The Protheans are an ancient alien race which mysteriously vanished over 50,000 years ago. The Protheans arose from a single planet and developed an immense galaxy-wide empire encompassing many other spacefaring species. Not much is known about them, but many of their artifacts, ruins and technology have apparently…",
+   "url": "https://masseffect.fandom.com/wiki/Prothean"
+  },
+  {
+   "id": "urdnot-wrex",
+   "name": "Urdnot Wrex",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/01/ME_wrex_charshot.png/revision/latest/scale-to-width-down/440?cb=20210620061307",
+   "summary": "A famed krogan mercenary and bounty hunter, Urdnot Wrex is also one of the last Krogan Battlemasters: rare individuals who combine powerful biotic abilities with the devastating firepower of advanced weaponry. A long-lived krogan who has had many adventures, Wrex has heard of Commander Shepard during his travels,…",
+   "url": "https://masseffect.fandom.com/wiki/Urdnot_Wrex"
+  },
+  {
+   "id": "citadel",
+   "name": "Citadel",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/a9/Galaxy_Map_-_Citadel.png/revision/latest/scale-to-width-down/500?cb=20221208170749",
+   "summary": "Supposedly constructed by the long-extinct Protheans, this colossal deep-space station serves as the capital of the Citadel Council. Gravity is simulated through rotation, and is a comfortable 1.02 standard G's on the Wards and a light 0.3 standard G's on the Presidium Ring.",
+   "url": "https://masseffect.fandom.com/wiki/Citadel"
+  },
+  {
+   "id": "james-vega",
+   "name": "James Vega",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/19/JamesVegaLE3.png/revision/latest/scale-to-width-down/416?cb=20230716035424",
+   "summary": "Lieutenant James Vega is a human Systems Alliance Marine and a member of Commander Shepard's squad in 2186. While Vega is an experienced soldier, he is unfamiliar with the seedy underbelly and political workings of the galaxy.",
+   "url": "https://masseffect.fandom.com/wiki/James_Vega"
+  },
+  {
+   "id": "jack",
+   "name": "Jack",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/1f/Jack_ME2_charshot.png/revision/latest/scale-to-width-down/324?cb=20221009022517",
+   "summary": "Jack, also known as Subject Zero and Jacqueline Nought, is a notorious criminal whose crimes include piracy, kidnapping, vandalism and murder. She is also a biotic, possibly one of the most powerful human biotics alive, and is considered so dangerous that she was kept in cryogenic stasis after she was caught. She…",
+   "url": "https://masseffect.fandom.com/wiki/Jack"
+  },
+  {
+   "id": "batarian",
+   "name": "Batarian",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/0e/Codex_ME_-_Batarians_%28after_BDTS%29.png/revision/latest/scale-to-width-down/500?cb=20210714134920",
+   "summary": "A race of four-eyed bipeds native to the world of Khar'shan, the batarians are a disreputable species that chose to isolate themselves from the rest of the galaxy. The Terminus Systems are infested with batarian pirate gangs and slaver rings, fueling the stereotype of the batarian thug. It should be noted that…",
+   "url": "https://masseffect.fandom.com/wiki/Batarian"
+  },
+  {
+   "id": "human",
+   "name": "Human",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/16/Humansmasseffecticon.jpg/revision/latest?cb=20100110011026",
+   "summary": "Humans, from the planet Earth, are the newest sentient species of notable size to enter the galactic stage and are the most rapidly expanding and developing. They independently discovered a Prothean data cache on Mars in 2148, and the mass relay networks shortly thereafter.",
+   "url": "https://masseffect.fandom.com/wiki/Human"
+  },
+  {
+   "id": "systems-alliance",
+   "name": "Systems Alliance",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/85/Codex_ME_-_Systems_Alliance.png/revision/latest/scale-to-width-down/500?cb=20220720024424",
+   "summary": "The Systems Alliance is the representative body of Earth and all human colonies in Citadel space. Backed by Earth's most powerful nations, the Alliance has become humanity's military, exploratory, and economic spearhead. While the Alliance is relatively new to the galactic community, it has already made a name for…",
+   "url": "https://masseffect.fandom.com/wiki/Systems_Alliance"
+  },
+  {
+   "id": "citadel-council",
+   "name": "Citadel Council",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/4d/Council_Hologram-Ambassador_Meeting_2.png/revision/latest/scale-to-width-down/500?cb=20210620031709",
+   "summary": "The Citadel Council is the governing body of the Citadel. Convening in the impressive Citadel Tower, the Council is the ultimate authority in Citadel space, passing judgement for violations of Council law, settling disputes between governments, and maintaining law and order, often through the use of its own covert…",
+   "url": "https://masseffect.fandom.com/wiki/Citadel_Council"
+  },
+  {
+   "id": "saren-arterius",
+   "name": "Saren Arterius",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/34/Saren_Arterius_charshot.png/revision/latest/scale-to-width-down/417?cb=20220619091655",
+   "summary": "Saren Arterius, born 2139, is the longest serving turian member of the Spectres, the elite operatives answering directly to the Citadel Council. For 24 years, he has been an agent of the Council's will, a zealous defender of galactic stability in the unsettled border region of the Skyllian Verge.",
+   "url": "https://masseffect.fandom.com/wiki/Saren_Arterius"
+  },
+  {
+   "id": "salarian",
+   "name": "Salarian",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/32/Codex_ME_-_Salarians.png/revision/latest/scale-to-width-down/500?cb=20210715155910",
+   "summary": "The second species to join the Citadel, the salarians are warm-blooded amphibians native to the planet Sur'Kesh. Salarians possess a hyperactive metabolism; they think fast, talk fast, and move fast. To salarians, other species seem sluggish and dull-witted, especially the elcor. Unfortunately, their metabolic…",
+   "url": "https://masseffect.fandom.com/wiki/Salarian"
+  },
+  {
+   "id": "david-anderson",
+   "name": "David Anderson",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/94/Anderson_ME_charshot.png/revision/latest/scale-to-width-down/393?cb=20210720163901",
+   "summary": "Captain David Edward Anderson is a human war hero and the original captain of the SSV Normandy. Anderson was born on June 8, 2137 to Ursula and Paul Anderson, a nurse and flight mechanic respectively, in the city of London on Earth, and was the last of three children by his parents' second marriage. Anderson is one…",
+   "url": "https://masseffect.fandom.com/wiki/David_Anderson"
+  },
+  {
+   "id": "mordin-solus",
+   "name": "Mordin Solus",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/42/Mordin_ME2_charshot.png/revision/latest/scale-to-width-down/417?cb=20220813153415",
+   "summary": "Mordin Solus is a salarian geneticist, professor, and a former operative of the Special Tasks Group, where he performed reconnaissance and participated in the modification of the genophage. In 2185, he is recruited by Commander Shepard to assist in a high-risk mission against the Collectors. Mordin has a moral…",
+   "url": "https://masseffect.fandom.com/wiki/Mordin_Solus"
+  },
+  {
+   "id": "ssv-normandy",
+   "name": "SSV Normandy",
+   "type": "vaisseau",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e1/Normandy_Render.png/revision/latest/scale-to-width-down/500?cb=20120703201556",
+   "summary": "The SSV Normandy SR-1 (Systems Alliance Space Vehicle Normandy Stealth Reconnaissance-1) was a Systems Alliance starship. She is a prototype \"deep scout\" frigate, first of the eponymous Normandy class, co-developed by the Alliance and the Turian Hierarchy with the sponsorship of the Citadel Council. She is…",
+   "url": "https://masseffect.fandom.com/wiki/SSV_Normandy"
+  },
+  {
+   "id": "thane-krios",
+   "name": "Thane Krios",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/29/Thane_ME2_charshot.png/revision/latest/scale-to-width-down/370?cb=20221211165703",
+   "summary": "Thane Krios is a drell assassin, rumored to be the most skilled in the galaxy. Unlike most assassins, who prefer to snipe their targets from a distance, Thane prefers to get up close and kill his target personally, utilizing a mixture of stealth, firearms, hand-to-hand combat and biotic abilities.",
+   "url": "https://masseffect.fandom.com/wiki/Thane_Krios"
+  },
+  {
+   "id": "squad",
+   "name": "Squad",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/7a/Squad_Elite_Operator_Banner.png/revision/latest/scale-to-width-down/500?cb=20121102213330",
+   "summary": "A squad is the group of team members which Commander Shepard or Pathfinder Ryder can select to accompany them on field missions, or while visiting one of the main civilized centers such as a station or planet.",
+   "url": "https://masseffect.fandom.com/wiki/Squad"
+  },
+  {
+   "id": "jacob-taylor",
+   "name": "Jacob Taylor",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/13/Jacob_ME2_charshot.png/revision/latest/scale-to-width-down/417?cb=20220810164312",
+   "summary": "Jacob Taylor is a human biotic and a former Alliance Marine under the command of Major Derek Izunami. He resigned after surviving the geth attack on Eden Prime. He is also part of Commander Shepard's squad during the suicide mission.",
+   "url": "https://masseffect.fandom.com/wiki/Jacob_Taylor"
+  },
+  {
+   "id": "samara",
+   "name": "Samara",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/4e/Samara_ME2_charshot.png/revision/latest/scale-to-width-down/324?cb=20221124080759",
+   "summary": "Samara is a nearly thousand-year-old asari justicar, a member of an ancient monastic order following a strict honor code. Though she is skilled with weapons, Samara usually relies on her powerful biotic abilities. Justicars rarely leave asari space, but Samara's pursuit of justice has brought her to Illium.",
+   "url": "https://masseffect.fandom.com/wiki/Samara"
+  },
+  {
+   "id": "legion",
+   "name": "Legion",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/d/dd/LegionLE2.png/revision/latest/scale-to-width-down/500?cb=20220827041057",
+   "summary": "Legion is the name taken by the gestalt consciousness formed by 1,183 geth programs inhabiting a unique geth \"mobile platform\".",
+   "url": "https://masseffect.fandom.com/wiki/Legion"
+  },
+  {
+   "id": "grunt",
+   "name": "Grunt",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/37/Grunt_ME2_charshot.png/revision/latest/scale-to-width-down/417?cb=20220817182307",
+   "summary": "Grunt is a genetically engineered krogan super soldier. Bred and educated in a tank, he was intended to exemplify the best traits of the krogan, and help reinvigorate his species. In the meantime, he fights alongside Commander Shepard to satisfy his natural desire for violence.",
+   "url": "https://masseffect.fandom.com/wiki/Grunt"
+  },
+  {
+   "id": "blue-suns",
+   "name": "Blue Suns",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/23/Codex_ME2_-_Blue_Suns.png/revision/latest/scale-to-width-down/500?cb=20230224130352",
+   "summary": "The Blue Suns are a \"private security organization,\" in reality a mercenary outfit, operating in the Skyllian Verge. The Blue Suns have a reputation for being both discreet and ruthlessly efficient, and as such charge a sizable fee.",
+   "url": "https://masseffect.fandom.com/wiki/Blue_Suns"
+  },
+  {
+   "id": "collector",
+   "name": "Collector",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/5/59/Collector_drones.png/revision/latest/scale-to-width-down/500?cb=20140628190457",
+   "summary": "The Collectors are an enigmatic race that live beyond the Omega 4 Relay, a mass relay within the same system as Omega, in the Terminus Systems. They are rarely seen in the Terminus itself, let alone Citadel space, and are generally regarded as a myth by Citadel citizens. Definite sightings of Collectors have been…",
+   "url": "https://masseffect.fandom.com/wiki/Collector"
+  },
+  {
+   "id": "aria-t-loak",
+   "name": "Aria T'Loak",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/90/Aria_ME2_charshot.png/revision/latest/scale-to-width-down/370?cb=20220806140751",
+   "summary": "Aria T'Loak is the de facto ruler of Omega, the nominal capital of the Terminus Systems. Also known as the \"Pirate Queen\" of Omega, Aria is fiercely possessive of the space station and will do anything to protect it and maintain her dominance.",
+   "url": "https://masseffect.fandom.com/wiki/Aria_T'Loak"
+  },
+  {
+   "id": "kett",
+   "name": "Kett",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e7/Kett_launch_trailer.png/revision/latest/scale-to-width-down/500?cb=20170311042024",
+   "summary": "The kett are a hostile race encountered by Andromeda Initiative personnel in the Andromeda galaxy.",
+   "url": "https://masseffect.fandom.com/wiki/Kett"
+  },
+  {
+   "id": "angara",
+   "name": "Angara",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/d/df/A_trail_of_hope_-_angara_intro_2.png/revision/latest/scale-to-width-down/500?cb=20200809181351",
+   "summary": "The angara are the only known extant sapient race native to the Heleus Cluster of the Andromeda galaxy. By the time of the Andromeda Initiative's first contact with them, the angara had been waging a decades-long resistance against the invading kett.",
+   "url": "https://masseffect.fandom.com/wiki/Angara"
+  },
+  {
+   "id": "m-98-widow",
+   "name": "M-98 Widow",
+   "type": "objet",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/b9/ME2_SR_-_Widow.png/revision/latest/scale-to-width-down/500?cb=20140823090421",
+   "summary": "The M-98 Widow is a sniper rifle in Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda.",
+   "url": "https://masseffect.fandom.com/wiki/M-98_Widow"
+  },
+  {
+   "id": "rachni",
+   "name": "Rachni",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/4f/Codex_ME_-_Rachni.png/revision/latest/scale-to-width-down/500?cb=20210714134753",
+   "summary": "The rachni are an extinct insect-like species from the planet Suen that threatened Citadel space roughly two thousand years ago during the Rachni Wars. Intelligent and highly aggressive, the spacefaring rachni were driven to expand and defend their territory. They were eventually defeated and completely eradicated…",
+   "url": "https://masseffect.fandom.com/wiki/Rachni"
+  },
+  {
+   "id": "sovereign",
+   "name": "Sovereign",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/0d/Sovereign_charshot_LE.png/revision/latest/scale-to-width-down/278?cb=20210704084545",
+   "summary": "Sovereign is the flagship of the rogue Spectre Saren Arterius. An enormous dreadnought larger than any other ship in any known fleet, Sovereign is crewed with both geth and krogan. At two kilometers long, its spinal-mounted main gun is likely capable of penetrating the kinetic barriers of the organic races'…",
+   "url": "https://masseffect.fandom.com/wiki/Sovereign"
+  },
+  {
+   "id": "migrant-fleet",
+   "name": "Migrant Fleet",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/44/Galaxy_Map_-_Migrant_Fleet.png/revision/latest/scale-to-width-down/500?cb=20221208172513",
+   "summary": "Also known as the Flotilla, the Migrant Fleet is the massive collection of starships that became home to the quarians after they were driven from their home world by the geth. The Migrant Fleet consists of roughly fifty thousand ships that house seventeen million quarians in total. The Fleet is so large it can take…",
+   "url": "https://masseffect.fandom.com/wiki/Migrant_Fleet"
+  },
+  {
+   "id": "volus",
+   "name": "Volus",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/a2/Codex_ME_-_Volus.png/revision/latest/scale-to-width-down/500?cb=20210715155856",
+   "summary": "The volus are an associate race on the Citadel with their own embassy, but are also a client race of the turians. They hail from Irune, which possesses a high-pressure greenhouse atmosphere able to support an ammonia-based biochemistry. As a result, the volus must wear pressure suits and breathers when dealing with…",
+   "url": "https://masseffect.fandom.com/wiki/Volus"
+  },
+  {
+   "id": "m-76-revenant",
+   "name": "M-76 Revenant",
+   "type": "objet",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/35/ME2_AR_-_Revenant.png/revision/latest/scale-to-width-down/500?cb=20210628012653",
+   "summary": "The M-76 Revenant is an assault rifle in Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda.",
+   "url": "https://masseffect.fandom.com/wiki/M-76_Revenant"
+  },
+  {
+   "id": "tempest",
+   "name": "Tempest",
+   "type": "vaisseau",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/73/Tempest_briefing_dorsal_view.png/revision/latest/scale-to-width-down/500?cb=20170123185940",
+   "summary": "The Andromeda Initiative Survey Ship Tempest is a scout ship used by the Pathfinder team to explore various worlds across the Heleus Cluster in the hope of finding suitable homes for Milky Way colonists in the Andromeda galaxy. Between missions, Tempest is the Pathfinder team's home, and everything in it is state…",
+   "url": "https://masseffect.fandom.com/wiki/Tempest"
+  },
+  {
+   "id": "heleus-cluster",
+   "name": "Heleus Cluster",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/a5/Heleus_golden_worlds_briefing_map.png/revision/latest/scale-to-width-down/500?cb=20170304133130",
+   "summary": "The Heleus Cluster is a seemingly resource-rich region of space in the outskirts of the Andromeda galaxy. It consists of 38 star systems and hundreds of planets. At its apparent center lies a massive black hole, the formation of which may have been the cause of the cluster's rich Element Zero deposits. The…",
+   "url": "https://masseffect.fandom.com/wiki/Heleus_Cluster"
+  },
+  {
+   "id": "nexus",
+   "name": "Nexus",
+   "type": "vaisseau",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/be/Nexus_under_construction.png/revision/latest/scale-to-width-down/500?cb=20210911150012",
+   "summary": null,
+   "url": "https://masseffect.fandom.com/wiki/Nexus"
+  },
+  {
+   "id": "hanar",
+   "name": "Hanar",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/a8/Codex_ME_-_Hanar.png/revision/latest/scale-to-width-down/500?cb=20210715155902",
+   "summary": "The hanar are a species resembling Earth's jellyfish and are one of the few non-bipedal Citadel races. Hanar are known for their intense politeness when speaking, and their strong religious beliefs regarding the Protheans, whom they refer to as \"the Enkindlers\".",
+   "url": "https://masseffect.fandom.com/wiki/Hanar"
+  },
+  {
+   "id": "m-97-viper",
+   "name": "M-97 Viper",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/f/f2/ME2_SR_-_Viper.png/revision/latest/scale-to-width-down/500?cb=20140825071502",
+   "summary": "The M-97 Viper is a sniper rifle in Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda.",
+   "url": "https://masseffect.fandom.com/wiki/M-97_Viper"
+  },
+  {
+   "id": "scorpion",
+   "name": "Scorpion",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/40/ME3_Scorpion_Heavy_Pistol.png/revision/latest/scale-to-width-down/500?cb=20120317185843",
+   "summary": "Originally issued to the salarian STG to allow small units to contain much larger enemy forces, the Scorpion pistol now sees service galaxy-wide. It fires low-velocity, squash-head projectiles with a dual use. The high-explosive filler within the projectiles contains an adhesive that secures the projectile to the…",
+   "url": "https://masseffect.fandom.com/wiki/Scorpion"
+  },
+  {
+   "id": "m-37-falcon",
+   "name": "M-37 Falcon",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/8a/ME3_Falcon_Assault_Rifle.png/revision/latest/scale-to-width-down/500?cb=20120317172936",
+   "summary": "This Alliance rifle launches 25 mm mini-grenades. Lighter and more accurate than most grenade launchers, the Falcon burns through specialized ammunition as well as standard thermal clips. A field fabrication kit generates this ammunition, leaving the clips as the rifle's only limitation.",
+   "url": "https://masseffect.fandom.com/wiki/M-37_Falcon"
+  },
+  {
+   "id": "sam",
+   "name": "SAM",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/90/SAM_charshot.png/revision/latest/scale-to-width-down/370?cb=20200512021351",
+   "summary": "Short for Simulated Adaptive Matrix, SAM is an artificial intelligence designed by Alec Ryder himself. From the SAM Node in Hyperion, he receives a direct feed of the Pathfinder's sensory input: he sees and feels as Ryder does, providing them with advanced situational awareness, problem solving, and tactical…",
+   "url": "https://masseffect.fandom.com/wiki/SAM"
+  },
+  {
+   "id": "m-8-avenger",
+   "name": "M-8 Avenger",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/f/f7/ME2_AR_-_Avenger.png/revision/latest/scale-to-width-down/500?cb=20210628012741",
+   "summary": "The M-8 Avenger is an assault rifle in Mass Effect 2, Mass Effect 3 and Mass Effect: Andromeda.",
+   "url": "https://masseffect.fandom.com/wiki/M-8_Avenger"
+  },
+  {
+   "id": "m-6-carnifex",
+   "name": "M-6 Carnifex",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/04/ME2_HP_-_Carnifex.png/revision/latest/scale-to-width-down/500?cb=20140823153532",
+   "summary": "The M-6 Carnifex is a heavy pistol in Mass Effect 2, Mass Effect 3, and a pistol in Mass Effect: Andromeda.",
+   "url": "https://masseffect.fandom.com/wiki/M-6_Carnifex"
+  },
+  {
+   "id": "elcor",
+   "name": "Elcor",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/ed/Codex_ME_-_Elcor.png/revision/latest/scale-to-width-down/500?cb=20210715160259",
+   "summary": "The elcor are a Citadel species native to the high-gravity world Dekuuna. They are massive creatures, standing on four muscular legs for increased stability. Elcor move slowly, an evolved response to an environment where a fall can be lethal. This has colored their psychology, making them deliberate and conservative.",
+   "url": "https://masseffect.fandom.com/wiki/Elcor"
+  },
+  {
+   "id": "black-widow",
+   "name": "Black Widow",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/44/ME3_Black_Widow_Sniper_Rifle.png/revision/latest/scale-to-width-down/500?cb=20120317191926",
+   "summary": "The Alliance wanted to reduce the reload time of the original Widow rifle, without sacrificing its stopping power. The solution was to increase the number of shots the gun could fire before it needed a fresh thermal clip. Heavy for a sniper rifle, the Black Widow's firepower more than compensates for its encumbrance.",
+   "url": "https://masseffect.fandom.com/wiki/Black_Widow"
+  },
+  {
+   "id": "m-358-talon",
+   "name": "M-358 Talon",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/99/ME3_Talon_Heavy_Pistol.png/revision/latest/scale-to-width-down/500?cb=20120317185721",
+   "summary": "The Talon is a close-range pistol favored by Cerberus Guardians. Firing heavy-gauge shotgun pellets, it delivers massive trauma to unarmored targets. Its waste heat is sufficiently excessive that it carries six separate ammunition blocks, rotating like a twentieth-century revolver to prevent shaver jam or misfire…",
+   "url": "https://masseffect.fandom.com/wiki/M-358_Talon"
+  },
+  {
+   "id": "grenades",
+   "name": "Grenades",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/bb/ME_Grenades.png/revision/latest/scale-to-width-down/250?cb=20210817223320",
+   "summary": "Grenades are hand-tossed explosive charges that appear in Mass Effect, Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda in different forms. Depending on the game, grenades can be used by the player, NPC allies, and also enemies.",
+   "url": "https://masseffect.fandom.com/wiki/Grenades"
+  },
+  {
+   "id": "m-3-predator",
+   "name": "M-3 Predator",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/20/ME2_HP_-_Predator.png/revision/latest/scale-to-width-down/500?cb=20230626173805",
+   "summary": "The M-3 Predator is a heavy pistol in Mass Effect 2 and Mass Effect 3, and a pistol in Mass Effect: Andromeda.",
+   "url": "https://masseffect.fandom.com/wiki/M-3_Predator"
+  },
+  {
+   "id": "vorcha",
+   "name": "Vorcha",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/ce/Vorcha.png/revision/latest?cb=20100118035107",
+   "summary": "Known for their unique biology and aggressive behavior, the vorcha of Heshtok are a primitive race that live among the galaxy's darker and more dangerous locations, such as Omega. Many vorcha are trained by the krogan Blood Pack as mercenaries due to their savage nature and adaptability to different environments.…",
+   "url": "https://masseffect.fandom.com/wiki/Vorcha"
+  },
+  {
+   "id": "drell",
+   "name": "Drell",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/a5/Codex_Drell.png/revision/latest/scale-to-width-down/500?cb=20210806170808",
+   "summary": "The drell are a reptile-like race that were rescued from their dying homeworld by the hanar following first contact between the two. Since then, the drell have remained loyal to the hanar for their camaraderie and have fit comfortably into galactic civilization.",
+   "url": "https://masseffect.fandom.com/wiki/Drell"
+  },
+  {
+   "id": "voeld",
+   "name": "Voeld",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/f/f5/Voeld.png/revision/latest/scale-to-width-down/500?cb=20170324062810",
+   "summary": "Voeld is a world going through an ice age. Once packed with dozens of urban centers, most of Voeld's angaran population now lives in scattered settlements. The remains of vast ancient cities are still entombed in ice.",
+   "url": "https://masseffect.fandom.com/wiki/Voeld"
+  },
+  {
+   "id": "blood-pack",
+   "name": "Blood Pack",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/84/Codex_ME2_-_Blood_Pack.png/revision/latest/scale-to-width-down/500?cb=20230224130325",
+   "summary": "The Blood Pack are a mercenary group primarily composed of krogan troops and vorcha cannon fodder. They prefer simple and brutish solutions to conflicts that come their way: beating enemies into submission.",
+   "url": "https://masseffect.fandom.com/wiki/Blood_Pack"
+  },
+  {
+   "id": "kadara",
+   "name": "Kadara",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/4f/Kadara.png/revision/latest/scale-to-width-down/500?cb=20170326000909",
+   "summary": "A mountainous world originally settled by the angara, Kadara is now a haven for Nexus exiles and pirates. In addition to this criminal element, the planet is plagued by toxic water caused by an atypical amount of sulfide minerals.",
+   "url": "https://masseffect.fandom.com/wiki/Kadara"
+  },
+  {
+   "id": "heavy-pistols",
+   "name": "Heavy Pistols",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/20/ME2_HP_-_Predator.png/revision/latest/scale-to-width-down/500?cb=20230626173805",
+   "summary": "Heavy pistols are one of the primary weapons in the Mass Effect universe. Heavy pistols have supplanted the pistol class of weapons seen in the first game, making their introduction in Mass Effect 2.",
+   "url": "https://masseffect.fandom.com/wiki/Heavy_Pistols"
+  },
+  {
+   "id": "remnant",
+   "name": "Remnant",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/0d/Sea_of_ataraxia_-_remnant_models.png/revision/latest/scale-to-width-down/500?cb=20201208143411",
+   "summary": "The Remnant are a synthetic race encountered by the Andromeda Initiative in the Andromeda galaxy. \"Remnant\" is an umbrella term that refers to the autonomous machines, the structures they're commonly found guarding, and the underlying technology common to their construction. The Heleus Cluster is dotted with…",
+   "url": "https://masseffect.fandom.com/wiki/Remnant"
+  },
+  {
+   "id": "m-23-katana",
+   "name": "M-23 Katana",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/01/ME2_SG_-_Katana.png/revision/latest/scale-to-width-down/500?cb=20210720223935",
+   "summary": "The M-23 Katana is a shotgun in Mass Effect 2, Mass Effect 3, and Mass Effect: Andromeda.",
+   "url": "https://masseffect.fandom.com/wiki/M-23_Katana"
+  },
+  {
+   "id": "m-15-vindicator",
+   "name": "M-15 Vindicator",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/75/ME2_AR_-_Vindicator.png/revision/latest/scale-to-width-down/500?cb=20210628012724",
+   "summary": "The M-15 Vindicator Battle Rifle is an assault rifle in Mass Effect 2 and Mass Effect 3.",
+   "url": "https://masseffect.fandom.com/wiki/M-15_Vindicator"
+  },
+  {
+   "id": "eos",
+   "name": "Eos",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/5/53/Eos.png/revision/latest/scale-to-width-down/500?cb=20170324010516",
+   "summary": "A desert world with significant resources, Eos is often wracked by deadly, radiation-contaminated storms. Catalogued as nonviable after numerous attempts to settle.",
+   "url": "https://masseffect.fandom.com/wiki/Eos"
+  },
+  {
+   "id": "morinth",
+   "name": "Morinth",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/1d/Morinth_charshot.png/revision/latest/scale-to-width-down/347?cb=20221211155817",
+   "summary": "Morinth is an Ardat-Yakshi, an asari suffering from a rare genetic disorder which causes her to kill her mates while joining minds with them. In turn she becomes smarter, more powerful, and deadlier after each coupling. She has spent centuries as a fugitive from asari justice, surviving by her wits and cunning. Her…",
+   "url": "https://masseffect.fandom.com/wiki/Morinth"
+  },
+  {
+   "id": "elaaden",
+   "name": "Elaaden",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/cf/Elaaden.png/revision/latest/scale-to-width-down/500?cb=20170324165407",
+   "summary": "A moistureless, sweltering landscape covered by a large number of cover-subsistence sinkholes, Elaaden still supports life to a limited degree. The fledgling krogan colony of New Tuchanka is here, along with what appear to be abandoned mining facilities, scattered outposts and camps.",
+   "url": "https://masseffect.fandom.com/wiki/Elaaden"
+  },
+  {
+   "id": "m-920-cain",
+   "name": "M-920 Cain",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/90/Codex_ME2_-_M-920_Cain.png/revision/latest/scale-to-width-down/500?cb=20140820142108",
+   "summary": "The M-920 Cain is a heavy weapon in Mass Effect 2 and Mass Effect 3.",
+   "url": "https://masseffect.fandom.com/wiki/M-920_Cain"
+  },
+  {
+   "id": "m-13-raptor",
+   "name": "M-13 Raptor",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/70/ME3_Raptor_Sniper_Rifle.png/revision/latest/scale-to-width-down/500?cb=20120317191426",
+   "summary": "The Raptor is a human version of a turian weapon developed for conflict on the low-gravity world Amar. Fighting at longer ranges than expected, the turians optimized a low-recoil, semi-automatic rifle with a scope, and issued it to their regular infantry, creating a hybrid weapon that was half-assault rifle and…",
+   "url": "https://masseffect.fandom.com/wiki/M-13_Raptor"
+  },
+  {
+   "id": "m-300-claymore",
+   "name": "M-300 Claymore",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/5/5a/ME2_SG_-_Claymore.png/revision/latest/scale-to-width-down/500?cb=20140823090343",
+   "summary": "The M-300 Claymore Heavy Shotgun is a shotgun in Mass Effect 2 and Mass Effect 3.",
+   "url": "https://masseffect.fandom.com/wiki/M-300_Claymore"
+  },
+  {
+   "id": "eclipse",
+   "name": "Eclipse",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/83/Codex_ME2_-_Eclipse.png/revision/latest/scale-to-width-down/500?cb=20230224125902",
+   "summary": "Eclipse is a mercenary corporation that was founded by asari commando Jona Sederis. The organization provides effective security and firepower for prospective employers; they have few scruples about the nature of those who hire them, so long as they can afford their services. Eclipse mercenaries work in teams of…",
+   "url": "https://masseffect.fandom.com/wiki/Eclipse"
+  },
+  {
+   "id": "m-25-hornet",
+   "name": "M-25 Hornet",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/66/ME3_Hornet_Smg.png/revision/latest/scale-to-width-down/500?cb=20120317184337",
+   "summary": "The Hornet is a long-range submachine gun created by Cerberus. It is standard equipment for Cerberus troops, who are trained to handle the recoil from the gun's three-round bursts. Cerberus designed the Hornet to conserve ammunition and provide cover-fire during prolonged conflicts.",
+   "url": "https://masseffect.fandom.com/wiki/M-25_Hornet"
+  },
+  {
+   "id": "m-27-scimitar",
+   "name": "M-27 Scimitar",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/73/ME2_SG_-_Scimitar.png/revision/latest/scale-to-width-down/500?cb=20140823173519",
+   "summary": "The M-27 Scimitar Assault Shotgun is a shotgun in Mass Effect 2 and Mass Effect 3.",
+   "url": "https://masseffect.fandom.com/wiki/M-27_Scimitar"
+  },
+  {
+   "id": "geth-pulse-rifle",
+   "name": "Geth Pulse Rifle",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/4a/ME2_AR_-_Geth_Pulse_Rifle.png/revision/latest/scale-to-width-down/500?cb=20210628012712",
+   "summary": "The Geth Pulse Rifle is an assault rifle in Mass Effect 2 and Mass Effect 3.",
+   "url": "https://masseffect.fandom.com/wiki/Geth_Pulse_Rifle"
+  },
+  {
+   "id": "andromeda-initiative",
+   "name": "Andromeda Initiative",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/9d/Andromeda_Initiative_Logo.png/revision/latest/scale-to-width-down/500?cb=20161109173642",
+   "summary": "Founded in 2176 and launched in 2185, the Andromeda Initiative is a civilian, multi-species project created to send scientists, engineers, explorers, and colonists on a one-way trip to settle in the Andromeda Galaxy. With powerful benefactors lending their support, the program has grown substantially in scope since…",
+   "url": "https://masseffect.fandom.com/wiki/Andromeda_Initiative"
+  },
+  {
+   "id": "havarl",
+   "name": "Havarl",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/c0/Havarl.png/revision/latest/scale-to-width-down/500?cb=20170325073817",
+   "summary": "The ancestral home of the angara is a lush jungle planet. However, scans detect plant life on Havarl exhibiting maladaptive, unsustainable growth patterns. The abnormal mutation suggests something is terribly wrong with Havarl's ecology.",
+   "url": "https://masseffect.fandom.com/wiki/Havarl"
+  },
+  {
+   "id": "aya",
+   "name": "Aya",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/45/Aya.png/revision/latest/scale-to-width-down/500?cb=20170324051646",
+   "summary": "Aya is a small and lush tropical world. Its unique position, hidden by both the Scourge and Heleus's black hole, has allowed it to go undetected by the kett.",
+   "url": "https://masseffect.fandom.com/wiki/Aya"
+  },
+  {
+   "id": "thorian-creeper",
+   "name": "Thorian Creeper",
+   "type": "creature",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e5/Thorian_Creeper.png/revision/latest/scale-to-width-down/231?cb=20220115145633",
+   "summary": "Thorian Creepers are creatures encountered on Feros. They have also been shipped to a few other worlds.",
+   "url": "https://masseffect.fandom.com/wiki/Thorian_Creeper"
+  },
+  {
+   "id": "ark",
+   "name": "Ark",
+   "type": "vaisseau",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/4e/Ark_Ship_%28N7_day_2015%29.png/revision/latest/scale-to-width-down/500?cb=20161203155402",
+   "summary": "Arks are massive starships that were constructed by the Andromeda Initiative to carry 100,000 volunteer colonists from among the races of the Milky Way to the Andromeda galaxy.",
+   "url": "https://masseffect.fandom.com/wiki/Ark"
+  },
+  {
+   "id": "pathfinder-ryder",
+   "name": "Pathfinder Ryder",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/78/Pathfinder_briefing_logo.png/revision/latest/scale-to-width-down/349?cb=20170308124349",
+   "summary": "After the ark Hyperion arrives at the Andromeda galaxy, Alec Ryder leads the Pathfinder team to scout Habitat 7 for colonization. Electrical storms stranded the team and they have hostile encounters with an alien species called the kett. Eventually, Alec surmised that the kett are alien to the planet as well and…",
+   "url": "https://masseffect.fandom.com/wiki/Pathfinder_Ryder"
+  },
+  {
+   "id": "warden-kuril",
+   "name": "Warden Kuril",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/b1/Warden_Kuril_enemy_box.png/revision/latest/scale-to-width-down/417?cb=20221008120651",
+   "summary": "Warden Kuril is the turian warden of the Blue Suns prison ship Purgatory. Originally a law enforcement officer on Palaven, Kuril left after having grown tired of criminals always escaping. He joined up with the Blue Suns and came up with the idea of keeping criminals in space, where they can't escape.",
+   "url": "https://masseffect.fandom.com/wiki/Warden_Kuril"
+  },
+  {
+   "id": "noveria",
+   "name": "Noveria",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/6c/Noveria_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20140920130544",
+   "summary": "Noveria is a small, frozen terrestrial world, barely habitable by conventional definitions. It is privately chartered by the Noveria Development Corporation, who lease out labs to perform research too dangerous or controversial to be performed elsewhere. Given Noveria's unique situation, it is the source of many…",
+   "url": "https://masseffect.fandom.com/wiki/Noveria"
+  },
+  {
+   "id": "gatatog-uvenk",
+   "name": "Gatatog Uvenk",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/3a/Gatatog_Uvenk.png/revision/latest/scale-to-width-down/384?cb=20100704014920",
+   "summary": "Gatatog Uvenk is a krogan battlemaster and the leader of Clan Gatatog on Tuchanka in 2185.",
+   "url": "https://masseffect.fandom.com/wiki/Gatatog_Uvenk"
+  },
+  {
+   "id": "horizon",
+   "name": "Horizon",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/b0/Horizon.png/revision/latest/scale-to-width-down/500?cb=20200524095156",
+   "summary": "A temperate world that has hit the \"sweet spot\" for carbon-based life, Horizon has a nitrogen-oxygen atmosphere maintained by abundant indigenous photosynthetic plants and bacteria. While the native plants are not very palatable to humans, the soil conditions are such that a handful of introduced Earth species have…",
+   "url": "https://masseffect.fandom.com/wiki/Horizon"
+  },
+  {
+   "id": "lord-darius",
+   "name": "Lord Darius",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/04/Lord_Darius_enemy_box.png/revision/latest/scale-to-width-down/405?cb=20220705062804",
+   "summary": "The self-styled Lord Darius is a human warlord operating in the Plutus system of the Hades Gamma cluster.",
+   "url": "https://masseffect.fandom.com/wiki/Lord_Darius"
+  },
+  {
+   "id": "earth",
+   "name": "Earth",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/d/d1/Earth_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20140921173727",
+   "summary": "For detailed information, please refer to the standard issue Alliance Galactic Codex. Earth orbit is riddled with debris generated by \"bootstrap\" space development; use of kinetic barriers is recommended at altitudes over 85 km.",
+   "url": "https://masseffect.fandom.com/wiki/Earth"
+  },
+  {
+   "id": "elanos-haliat",
+   "name": "Elanos Haliat",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/23/Haliat_MELE_charshot.png/revision/latest/scale-to-width-down/417?cb=20210610164301",
+   "summary": "Elanos Haliat is a pirate and prominent figure in the Terminus Systems.",
+   "url": "https://masseffect.fandom.com/wiki/Elanos_Haliat"
+  },
+  {
+   "id": "tuchanka",
+   "name": "Tuchanka",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/1e/TuchankaME2M.png/revision/latest/scale-to-width-down/500?cb=20100215203033",
+   "summary": "Scarred by bombardment craters, radioactive rubble, choking ash, salt flats, and alkaline seas, Tuchanka can barely support life. Thousands of years ago, life grew in fierce abundance under the F-class star Aralakh (a Raik clan word meaning \"Eye of Wrath\"). Tree-analogues grew in thick jungles, their roots growing…",
+   "url": "https://masseffect.fandom.com/wiki/Tuchanka"
+  },
+  {
+   "id": "captain-ventralis",
+   "name": "Captain Ventralis",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/18/Captain_Ventralis_charshot_LE.png/revision/latest/scale-to-width-down/393?cb=20210815020746",
+   "summary": "Captain J. Ventralis is the human head of the ERCS personnel assigned to the labs at Noveria for security. Commander Shepard meets him after taking the passenger tram to Rift Station.",
+   "url": "https://masseffect.fandom.com/wiki/Captain_Ventralis"
+  },
+  {
+   "id": "palaven",
+   "name": "Palaven",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/24/Palaven.jpg/revision/latest/scale-to-width-down/500?cb=20120311103230",
+   "summary": "\"The only thing on this planet that isn't silver are the turians. It's all too clear they're made of steel.\" These were Alliance hero Jon Grissom's impressions of the turian homeworld Palaven, seen by humans for the first time following the First Contact War. The turians' martial attitude permeates every aspect of…",
+   "url": "https://masseffect.fandom.com/wiki/Palaven"
+  },
+  {
+   "id": "chorban",
+   "name": "Chorban",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/66/Chorban_ME_mugshot.png/revision/latest/scale-to-width-down/417?cb=20140513081733",
+   "summary": "Chorban is a self-proclaimed salarian scientist who has developed a scanner to obtain readings of keepers. Commander Shepard first finds him at the Citadel Tower, attempting to get a reading on a stationary keeper.",
+   "url": "https://masseffect.fandom.com/wiki/Chorban"
+  },
+  {
+   "id": "terminus-systems",
+   "name": "Terminus Systems",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/f/f3/Terminus_Systems.png/revision/latest/scale-to-width-down/500?cb=20150504035559",
+   "summary": "The Terminus Systems are located on the far side of the Attican Traverse, beyond the space administered by the Citadel Council or claimed by the human Systems Alliance. These systems are populated by a loose affiliation of minor species, united only in their refusal to acknowledge the political authority of the…",
+   "url": "https://masseffect.fandom.com/wiki/Terminus_Systems"
+  },
+  {
+   "id": "thessia",
+   "name": "Thessia",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/9f/Thessia.png/revision/latest?cb=20120325064844",
+   "summary": "The asari homeworld has been called the \"crown jewel of the galaxy,\" the \"apex of democracy,\" and the \"beating heart of galactic love.\" Its republics have a remarkably low incidence of war, disease, violent crime or famine, riding a stable economy backed by wealthy colonies and Thessia's vast element zero reserves.…",
+   "url": "https://masseffect.fandom.com/wiki/Thessia"
+  },
+  {
+   "id": "mars",
+   "name": "Mars",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/ea/Mars_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20140921174258",
+   "summary": "Once considered a prospect for terraforming and colonization, the discovery of faster than light travel turned Mars into a quiet backwater. Its southern pole is a historical preserve centered on the Prothean ruins found there. Immigration and development are restricted as the search for Prothean artifacts continues.",
+   "url": "https://masseffect.fandom.com/wiki/Mars"
+  },
+  {
+   "id": "alestia-iallis",
+   "name": "Alestia Iallis",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/c3/Alestia_Iallis.png/revision/latest/scale-to-width-down/417?cb=20260506220954",
+   "summary": "Dr. Alestia Iallis is an asari molecular geneticist educated at the University of Auräis and later stationed at Noveria's Peak 15. She specializes in biotic-enhanced allele-specific hybridization: she's proficient at tracking inherited variations in genetic sequences.",
+   "url": "https://masseffect.fandom.com/wiki/Alestia_Iallis"
+  },
+  {
+   "id": "ilos",
+   "name": "Ilos",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/2a/Ilos_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20140921191030",
+   "summary": "In the golden age of the Protheans, Ilos was a verdant world, dotted with the spires and arches of magnificent cities. Even casual observation shows this is no longer the case. Ilos has been devastated by means unknown, its entire surface changed to the color of rust. The atmosphere shows heightened levels of…",
+   "url": "https://masseffect.fandom.com/wiki/Ilos"
+  },
+  {
+   "id": "milky-way",
+   "name": "Milky Way",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/44/Mass_Effect.jpg/revision/latest/scale-to-width-down/500?cb=20080702185338",
+   "summary": "The Milky Way galaxy, a barred spiral galaxy containing between two and four hundred billion stars, is the setting for the events of Mass Effect. The player will explore many systems and planets as listed below in a bevy of story-driven missions and optional assignments across the mass relay network. The galaxy is…",
+   "url": "https://masseffect.fandom.com/wiki/Milky_Way"
+  },
+  {
+   "id": "kaira-stirling",
+   "name": "Kaira Stirling",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/63/Kaira_Stirling_LE.png/revision/latest/scale-to-width-down/393?cb=20210726151332",
+   "summary": "Sergeant Kaira Stirling is a security officer at Port Hanshan, on Noveria. The ERCS guards jokingly dub her their \"secret weapon\", as she is a biotic.",
+   "url": "https://masseffect.fandom.com/wiki/Kaira_Stirling"
+  },
+  {
+   "id": "virmire",
+   "name": "Virmire",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/d/dd/Virmire_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20220119010724",
+   "summary": "Virmire is a lush frontier world, ideal for colonization by carbon-based species. Its vast seas and orbital position on the inner life zone have created a wide equatorial band of humid, tropical terrain. Unfortunately, the political instability of the nearby Terminus Systems has impeded colonization efforts - the…",
+   "url": "https://masseffect.fandom.com/wiki/Virmire"
+  },
+  {
+   "id": "feros",
+   "name": "Feros",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/98/Feros_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20140919145554",
+   "summary": "The ExoGeni Corporation has founded a pilot colony on Feros to explore the Prothean ruins that blanket two-thirds of the planet's land mass. The atmosphere is fouled with dust. Terrestrial travel is hampered by crumbled debris dozens of meters deep. There are indications that Feros was a much colder world in the…",
+   "url": "https://masseffect.fandom.com/wiki/Feros"
+  },
+  {
+   "id": "davin-reynolds",
+   "name": "Davin Reynolds",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/b9/DavinReynolds1.png/revision/latest/scale-to-width-down/463?cb=20210625235740",
+   "summary": "Davin Reynolds is a human colonist living at Zhu's Hope, on Feros. He and his wife, Greta Reynolds, moved to Feros seeking adventure and a new life together.",
+   "url": "https://masseffect.fandom.com/wiki/Davin_Reynolds"
+  },
+  {
+   "id": "therum",
+   "name": "Therum",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/1f/Therum_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20140918142456",
+   "summary": "Therum is a distant but rich industrial world claimed by the human Systems Alliance. Its plentiful heavy metals have fueled the recent manufacturing boom on Earth. Core samples rich with the fossils of simple silicon-based organisms indicate Therum was more habitable in the past than it is at present. Perhaps this…",
+   "url": "https://masseffect.fandom.com/wiki/Therum"
+  },
+  {
+   "id": "doctor-droyas",
+   "name": "Doctor Droyas",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/a5/Dr._droyas_enemy_box.png/revision/latest/scale-to-width-down/428?cb=20210624200337",
+   "summary": "Doctor Droyas is a krogan researcher working at Saren Arterius' base on Virmire.",
+   "url": "https://masseffect.fandom.com/wiki/Doctor_Droyas"
+  },
+  {
+   "id": "andromeda",
+   "name": "Andromeda",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/cf/Andromeda_galaxy_briefing_1_shot.png/revision/latest/scale-to-width-down/500?cb=20170304124206",
+   "summary": "The Andromeda galaxy is a spiral galaxy 2.5 million light-years from the Milky Way. In the last few years prior to 2186 CE, Andromeda has been the subject of an exploration and colonization effort known as the Andromeda Initiative. Several Milky Way races poured enormous resources into this one-way venture with the…",
+   "url": "https://masseffect.fandom.com/wiki/Andromeda"
+  },
+  {
+   "id": "entertainment",
+   "name": "Entertainment",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/8b/Illium_-_blasto_the_jellyfish_stings.png/revision/latest/scale-to-width-down/500?cb=20121024174733",
+   "summary": "A production of William Shakespeare's Hamlet, directed by Francis Kitt and featuring an all-elcor cast. The elcor cast used their native body language and pheromones to convey the emotion of the play, which would be obvious to other elcor, but which non-elcor would fail to notice, focusing instead on the dialogue.…",
+   "url": "https://masseffect.fandom.com/wiki/Entertainment"
+  },
+  {
+   "id": "jeff-joker-moreau",
+   "name": "Jeff \"Joker\" Moreau",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/49/Joker_ME_charshot.png/revision/latest/scale-to-width-down/440?cb=20210606223557",
+   "summary": "Flight Lieutenant Jeff \"Joker\" Moreau is the pilot of the SSV Normandy. Joker is an excellent pilot and confident to the point of arrogance, wasting no time in pointing out his prowess to others. He's quick to ensure everyone knows his many accomplishments and commendations were all earned, and not due to charity…",
+   "url": "https://masseffect.fandom.com/wiki/Jeff_%22Joker%22_Moreau"
+  },
+  {
+   "id": "samantha-traynor",
+   "name": "Samantha Traynor",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/89/SamanthaTraynorLE3.png/revision/latest/scale-to-width-down/333?cb=20240612042613",
+   "summary": "Specialist Samantha Traynor is the Comm Specialist aboard the Alliance Normandy SR-2, serving in a similar role to that of her predecessor, Yeoman Kelly Chambers. She is a potential romance option for a female Commander Shepard.",
+   "url": "https://masseffect.fandom.com/wiki/Samantha_Traynor"
+  },
+  {
+   "id": "cora-harper",
+   "name": "Cora Harper",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/b4/Cora_charshot_3.png/revision/latest/scale-to-width-down/301?cb=20200603083001",
+   "summary": "Lieutenant Cora Harper, service number 6002-AC-1762, is the Pathfinder team's operations specialist in charge of ground missions. As second-in-command, she is slated to succeed the Pathfinder should the need arise. Her unusually powerful biotics has been honed in asari battlefields, and she brings those talents…",
+   "url": "https://masseffect.fandom.com/wiki/Cora_Harper"
+  },
+  {
+   "id": "mail-mass-effect-datapad",
+   "name": "Mail (Mass Effect: Datapad)",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/24/Mail_Mass_Effect_Datapad.png/revision/latest/scale-to-width-down/375?cb=20141013141901",
+   "summary": "While playing Mass Effect 3, if a player has also downloaded the iOS app Mass Effect 3: Datapad and linked it with the same Origin account as linked to Mass Effect 3, they can receive brief messages from squad mates and allies. These messages are sent to Commander Shepard and influenced by who you have spoken to,…",
+   "url": "https://masseffect.fandom.com/wiki/Mail_(Mass_Effect%3A_Datapad)"
+  },
+  {
+   "id": "jaal-ama-darav",
+   "name": "Jaal Ama Darav",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/63/Jaal_charshot.png/revision/latest/scale-to-width-down/417?cb=20200528094735",
+   "summary": "Jaal Ama Darav is a native of the Andromeda galaxy. Shortly after the arrival of the Andromeda Initiative in their corner of the universe, Jaal joins forces with the human Pathfinder Ryder and their team.",
+   "url": "https://masseffect.fandom.com/wiki/Jaal_Ama_Darav"
+  },
+  {
+   "id": "kai-leng",
+   "name": "Kai Leng",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/8a/Kai_Leng_ME3_charshot.png/revision/latest/scale-to-width-down/347?cb=20230529162927",
+   "summary": "Kai Leng is an assassin working for the human-supremacist organization Cerberus. Leng was formerly a lieutenant and N7 marine in the Systems Alliance known for having anti-alien attitudes. He is described as being Earth-born with Chinese and Russian/Slavic heritage, with the Chinese being the dominant of the two.",
+   "url": "https://masseffect.fandom.com/wiki/Kai_Leng"
+  },
+  {
+   "id": "tiran-kandros",
+   "name": "Tiran Kandros",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/46/Tiran_Kharshot.png/revision/latest/scale-to-width-down/393?cb=20180830211208",
+   "summary": "Tiran Kandros is the leader of a de facto volunteer militia that has taken over station security on the Nexus. He is also in charge of the APEX Strike Teams that aim to secure Initiative interests throughout the Heleus Cluster, acting as mission control and dictating local objectives to agents in the field. Though…",
+   "url": "https://masseffect.fandom.com/wiki/Tiran_Kandros"
+  },
+  {
+   "id": "pelessaria-b-sayle",
+   "name": "Pelessaria B'Sayle",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e7/Peebee_more_flattering_picture.png/revision/latest/scale-to-width-down/494?cb=20170427235327",
+   "summary": "Pelessaria B'Sayle, nicknamed Peebee, is an asari member of Ryder's squad. She is young for an asari, giving her age as \"100 and change.\"",
+   "url": "https://masseffect.fandom.com/wiki/Pelessaria_B'Sayle"
+  },
+  {
+   "id": "vetra-nyx",
+   "name": "Vetra Nyx",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/1e/Vetra_charshot.png/revision/latest/scale-to-width-down/405?cb=20201014150506",
+   "summary": "Vetra Nyx serves as the Pathfinder team's jack-of-all-trades, emphasis on the latter. In addition to her duties she brokers deals between the lawful and lawless elements of the Heleus Cluster.",
+   "url": "https://masseffect.fandom.com/wiki/Vetra_Nyx"
+  },
+  {
+   "id": "keelah-si-yah",
+   "name": "Keelah Si'yah",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/64/Annihilation_-_Keelah_Si%27yah_kloseup.png/revision/latest/scale-to-width-down/500?cb=20190315203121",
+   "summary": "The Keelah Si'yah (Khelish for \"by the homeworld I hope to find one day\") is an Andromeda Initiative starship. Part of the Initiative's plan to settle the Andromeda galaxy, ark Keelah Si'yah ferries a multitude of colonists across the 600-year void between galaxies.",
+   "url": "https://masseffect.fandom.com/wiki/Keelah_Si'yah"
+  },
+  {
+   "id": "kahlee-sanders",
+   "name": "Kahlee Sanders",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/43/Kahlee_Sanders_ME3.png/revision/latest/scale-to-width-down/500?cb=20120413210907",
+   "summary": "Kahlee Sanders is a female human and First Lieutenant working for the Systems Alliance. Kahlee is one of the Alliance's top computer and systems technicians, and a known expert in synthetic intelligence.",
+   "url": "https://masseffect.fandom.com/wiki/Kahlee_Sanders"
+  },
+  {
+   "id": "broker-terminal",
+   "name": "Broker Terminal",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/ac/BrokerTerminalLE3.png/revision/latest/scale-to-width-down/500?cb=20250318082515",
+   "summary": "The Broker Terminal is a message terminal found in Liara T'Soni's cabin on the Normandy SR-2 in Mass Effect 3. It contains messages relating to Liara's activities as the Shadow Broker and various intercepted communications from across the galaxy.",
+   "url": "https://masseffect.fandom.com/wiki/Broker_Terminal"
+  },
+  {
+   "id": "reyes-vidal",
+   "name": "Reyes Vidal",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/ac/Reyes_Vidal_charshot_3.png/revision/latest/scale-to-width-down/393?cb=20201222230950",
+   "summary": "Reyes Vidal is a prominent fixture of Kadara's underworld. Besides his smuggling operations, he deals in valuable information between the fractious factions in- and off-world.",
+   "url": "https://masseffect.fandom.com/wiki/Reyes_Vidal"
+  },
+  {
+   "id": "kelly-chambers",
+   "name": "Kelly Chambers",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/88/Kelly_ME2_kharshot.png/revision/latest/scale-to-width-down/370?cb=20220806141042",
+   "summary": "Kelly Chambers is Commander Shepard's yeoman on the Normandy SR-2 in 2185. In addition to her duties as yeoman, she is also a psychologist and will offer insight into each new addition to the squad. She is a potential romance partner for either a male or female Shepard.",
+   "url": "https://masseffect.fandom.com/wiki/Kelly_Chambers"
+  },
+  {
+   "id": "milque",
+   "name": "Milque",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/60/Fehl_Prime_-_Milque.png/revision/latest/scale-to-width-down/411?cb=20121229174134",
+   "summary": "Milque is a member of Delta Squad, a special forces unit of the Alliance deployed to Fehl Prime in 2185. A talented sniper who takes down marks with ruthless efficiency, he is the team's resident sharpshooter when equipped with the M-92 Mantis sniper rifle. He is a cautious, cynical person, often giving others the…",
+   "url": "https://masseffect.fandom.com/wiki/Milque"
+  },
+  {
+   "id": "karin-chakwas",
+   "name": "Karin Chakwas",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/c0/Chakwas_ME_charbox.png/revision/latest/scale-to-width-down/347?cb=20210720150511",
+   "summary": "Dr. Karin Chakwas is the human doctor of the SSV Normandy. She enlisted in the Alliance soon after she graduated from medical school, originally seeking \"exotic adventure\". Even after the realities of service sobered her outlook, she stayed with the Alliance out of a sense of duty to humanity, eventually earning…",
+   "url": "https://masseffect.fandom.com/wiki/Karin_Chakwas"
+  },
+  {
+   "id": "blasto",
+   "name": "Blasto",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e9/Blasto_Ultra_Spectre_Elite_7000_Deluxe_character_shot.png/revision/latest/scale-to-width-down/500?cb=20230407052229",
+   "summary": "Blasto is a fictional character featured in several films throughout the 2180s and beyond. He is known as the Milky Way's first hanar Spectre. Numerous stories have been devoted to recounting his adventures.",
+   "url": "https://masseffect.fandom.com/wiki/Blasto"
+  },
+  {
+   "id": "liam-kosta",
+   "name": "Liam Kosta",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/7d/Liam_charshot_1.png/revision/latest/scale-to-width-down/440?cb=20201018162221",
+   "summary": "Liam Kosta is a security and response specialist with civilian tactical training. Always upbeat and optimistic about challenging things, Liam wears his heart on his sleeve and says what he means be it for good or ill.",
+   "url": "https://masseffect.fandom.com/wiki/Liam_Kosta"
+  },
+  {
+   "id": "new-tuchanka",
+   "name": "New Tuchanka",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/9d/New_Tuchanka.png/revision/latest/scale-to-width-down/500?cb=20180313230319",
+   "summary": "Led by Nakmor Morda, New Tuchanka was founded on Elaaden by the krogan who departed the Nexus in the wake of the rebellion. It is named after the krogan's homeworld, Tuchanka.",
+   "url": "https://masseffect.fandom.com/wiki/New_Tuchanka"
+  },
+  {
+   "id": "spectre-terminal",
+   "name": "Spectre Terminal",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/83/SpectreTerminalLE3.png/revision/latest/scale-to-width-down/500?cb=20230303170510",
+   "summary": "The Spectre Terminal is a message terminal found in the Spectre Office in the Citadel Embassies location of the Citadel. It contains messages relating to Spectre activities and support for the authorization of covert operations or requisitions.",
+   "url": "https://masseffect.fandom.com/wiki/Spectre_Terminal"
+  },
+  {
+   "id": "nakmor-drack",
+   "name": "Nakmor Drack",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/f/fe/Drack_charshot.png/revision/latest/scale-to-width-down/417?cb=20201018161751",
+   "summary": "Nakmor Drack is an aged and grizzled veteran, even by krogan standards. He has spent over 1,400 years causing a ruckus in the Milky Way, wearing the title of soldier, mercenary, and at times, pirate. When the loyal, but stubborn, veteran was given the chance to join his clan on a voyage to Andromeda, he had no…",
+   "url": "https://masseffect.fandom.com/wiki/Nakmor_Drack"
+  },
+  {
+   "id": "steve-cortez",
+   "name": "Steve Cortez",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/68/CortezPortraitLE3.png/revision/latest/scale-to-width-down/500?cb=20220808034705",
+   "summary": "Lieutenant Steve Cortez is an Alliance pilot aboard the Normandy SR-2 in 2186, where he pilots the UT-47A Kodiak that transports Commander Shepard and squad to mission locations. He is a potential romance option for a male Shepard.",
+   "url": "https://masseffect.fandom.com/wiki/Steve_Cortez"
+  },
+  {
+   "id": "port-meridian",
+   "name": "Port Meridian",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/0c/Port_Meridian_Atrium.png/revision/latest/scale-to-width-down/500?cb=20190608131253",
+   "summary": "Port Meridian is a settlement on the artificial world Meridian based around the crash site of the Andromeda Initiative vessel Hyperion. It is borne out of adapting all of the ark's internal structures for sleeper deployment and future industrial and residential development.",
+   "url": "https://masseffect.fandom.com/wiki/Port_Meridian"
+  },
+  {
+   "id": "prodromos",
+   "name": "Prodromos",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/9b/Prodromos.png/revision/latest/scale-to-width-down/500?cb=20170430054440",
+   "summary": "Prodromos is the first officially successful outpost established by the Andromeda Initiative in the Heleus Cluster. It is only made possible through the efforts of Pathfinder Ryder, who managed to reset a Remnant terraforming vault on Eos that cleared significant amounts of ambient radiation.",
+   "url": "https://masseffect.fandom.com/wiki/Prodromos"
+  },
+  {
+   "id": "lexi-t-perro",
+   "name": "Lexi T'Perro",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/d/dc/Lexi_charshot.png/revision/latest/scale-to-width-down/312?cb=20191025200409",
+   "summary": "Dr. Lexi T'Perro handles the medical needs of the scout ship Tempest's various crewmembers. Her wisdom and experience allows her to act in an advisory capacity to the Pathfinder, in addition to evaluating their physical and mental well-being. She conducts her business with due professionalism, although sometimes…",
+   "url": "https://masseffect.fandom.com/wiki/Lexi_T'Perro"
+  },
+  {
+   "id": "moshae-sjefa",
+   "name": "Moshae Sjefa",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/6b/Moshae_Sjefa_charshot.png/revision/latest/scale-to-width-down/393?cb=20201113194237",
+   "summary": "Moshae Sjefa is a revered elder scientist among the angara. Considered the foremost expert in Remnant technology, her numerous contributions on and off that field greatly aided angaran civilization in their ongoing struggle against their Scourge-induced dark age and the kett threat.",
+   "url": "https://masseffect.fandom.com/wiki/Moshae_Sjefa"
+  },
+  {
+   "id": "essex",
+   "name": "Essex",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/c1/Fehl_Prime_-_Essex.png/revision/latest/scale-to-width-down/466?cb=20121229172119",
+   "summary": "Essex is a talented biotic and a member of Delta Squad, a special forces unit of the Alliance deployed to Fehl Prime in 2185. He has a carefree and easygoing nature, constantly bragging about his biotic abilities and adding to his ever present air of overconfidence. His boasts do have some basis, however, since he…",
+   "url": "https://masseffect.fandom.com/wiki/Essex"
+  },
+  {
+   "id": "paul-grayson",
+   "name": "Paul Grayson",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e2/PaulGrayson.jpg/revision/latest/scale-to-width-down/500?cb=20100308224030",
+   "summary": "Paul Grayson is a Cerberus operative, red sand addict and the adoptive father of the autistic biotic Gillian Grayson. He is also a certified starship pilot.",
+   "url": "https://masseffect.fandom.com/wiki/Paul_Grayson"
+  },
+  {
+   "id": "steven-hackett",
+   "name": "Steven Hackett",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/1e/Hackett_ME2_charshot.png/revision/latest/scale-to-width-down/393?cb=20230409190045",
+   "summary": "Admiral Steven Hackett is a top-ranking official of the Alliance Navy and commanding officer of the Fifth Fleet. He is based at Arcturus Station.",
+   "url": "https://masseffect.fandom.com/wiki/Steven_Hackett"
+  },
+  {
+   "id": "suvi-anwar",
+   "name": "Suvi Anwar",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/4a/Suvi_charshot.png/revision/latest/scale-to-width-down/347?cb=20190423180219",
+   "summary": "Dr. Suvi Anwar is a member of the Nexus science team, and holds advanced degrees in astrophysics and molecular biology. She is also the Tempest's resident science officer. She is simultaneously a woman of science and a woman of faith, having lived her life seeking to justify two backgrounds.",
+   "url": "https://masseffect.fandom.com/wiki/Suvi_Anwar"
+  },
+  {
+   "id": "donnel-udina",
+   "name": "Donnel Udina",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/d/dd/Udina_ME_charshot.png/revision/latest/scale-to-width-down/417?cb=20210720151223",
+   "summary": "Ambassador Donnel Udina is a human diplomat stationed at the Citadel. He is humanity's most recent ambassador to the Council races (the first was Anita Goyle) and is determined to advance human interests wherever possible. Udina is mistrustful or at least apprehensive of Commander Shepard, particularly after the…",
+   "url": "https://masseffect.fandom.com/wiki/Donnel_Udina"
+  },
+  {
+   "id": "citadel-security-services",
+   "name": "Citadel Security Services",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/5/58/C-SEC_logo.png/revision/latest/scale-to-width-down/500?cb=20210203142658",
+   "summary": "Citadel Security Services, or C-Sec, handles law enforcement on the Citadel. It is a volunteer police service answering to the Citadel Council, and is headed by an Executor, who often liaises between C-Sec and the Council.",
+   "url": "https://masseffect.fandom.com/wiki/Citadel_Security_Services"
+  },
+  {
+   "id": "kirrahe",
+   "name": "Kirrahe",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/f/f3/Kirrahe_ME_charshot.png/revision/latest/scale-to-width-down/417?cb=20220204230754",
+   "summary": "Captain Kirrahe is an officer in the salarian military. He is a member of the 3rd Infiltration Regiment STG (Special Tasks Group), a covert operations team that was sent to investigate Virmire, where he discovered Saren Arterius' base of operations. Kirrahe is a brave, intelligent salarian with a good strategic…",
+   "url": "https://masseffect.fandom.com/wiki/Kirrahe"
+  },
+  {
+   "id": "kenneth-donnelly",
+   "name": "Kenneth Donnelly",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/06/DonnellyPortraitLE.png/revision/latest/scale-to-width-down/500?cb=20220727162101",
+   "summary": "Kenneth \"Ken\" Donnelly is a former Alliance engineer. He is a Cerberus operative in the Lazarus Cell and an engineer aboard the Normandy SR-2 in 2185.",
+   "url": "https://masseffect.fandom.com/wiki/Kenneth_Donnelly"
+  },
+  {
+   "id": "eve",
+   "name": "Eve",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/3a/ME3_Eve.png/revision/latest/scale-to-width-down/500?cb=20120322235113",
+   "summary": "Eve, as named by Mordin Solus or Padok Wiks, also known as Urdnot Bakara, is a female krogan shaman. Eve is the only survivor of Maelon's experiments on Tuchanka in 2185 to cure the genophage. She, along with a number of other female krogan, were recovered by the salarian Special Tasks Group after it was shut down…",
+   "url": "https://masseffect.fandom.com/wiki/Eve"
+  },
+  {
+   "id": "jarun-tann",
+   "name": "Jarun Tann",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/7/7f/Jarun_Tann_-_wisdom_and_knowledge.png/revision/latest/scale-to-width-down/370?cb=20180830202015",
+   "summary": "Jarun Tann is a salarian bureaucrat. He is described as craving power but also well-meaning, in over his head but trying to hide it, self-important but with seeds of insecurity.",
+   "url": "https://masseffect.fandom.com/wiki/Jarun_Tann"
+  },
+  {
+   "id": "spectres",
+   "name": "Spectres",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/07/Citadel_Archives_-_year_693_CE%2C_first_Spectre_recruitment%2C_vault_S1.png/revision/latest/scale-to-width-down/500?cb=20130320032150",
+   "summary": "Spectres (Special Tactics and Reconnaissance, also abbreviated as ST&R) are agents entrusted with extraordinary authority by the Citadel Council, including the power of life and death over the inhabitants of the galaxy. They form an elite group selected from a number of different species, and their primary…",
+   "url": "https://masseffect.fandom.com/wiki/Spectres"
+  },
+  {
+   "id": "diana-allers",
+   "name": "Diana Allers",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/3c/Diana_Allers_LE3_charshot.png/revision/latest/scale-to-width-down/393?cb=20210811165829",
+   "summary": "Diana Allers is a human Alliance News Network war correspondent and regular on the Alliance News Network's \"Battlespace\". She is originally from Milgrom, Bekenstein, and considers herself a \"colony kid\". Diana is a potential romance option for both male and female Commander Shepard.",
+   "url": "https://masseffect.fandom.com/wiki/Diana_Allers"
+  },
+  {
+   "id": "conrad-verner",
+   "name": "Conrad Verner",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/89/Conrad_ME1_charshot.png/revision/latest/scale-to-width-down/417?cb=20210822154437",
+   "summary": "Conrad Verner is an enthusiastic and self-proclaimed \"huge fan\" of Commander Shepard.",
+   "url": "https://masseffect.fandom.com/wiki/Conrad_Verner"
+  },
+  {
+   "id": "fish",
+   "name": "Fish",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/0a/ME2_-_Illium_Skjald_Fish.png/revision/latest/scale-to-width-down/500?cb=20200318204854",
+   "summary": "Fish are aquatic creatures that may be edible, decorative, or both. They're collectible items for Commander Shepard's personal cabin on the Normandy SR-2. There is a large aquarium on the left side of the cabin which can be filled with fish. There are various types of fish available and the stores that sell them…",
+   "url": "https://masseffect.fandom.com/wiki/Fish"
+  },
+  {
+   "id": "husk",
+   "name": "Husk",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/8a/Husk.png/revision/latest/scale-to-width-down/363?cb=20100623072143",
+   "summary": "Husks are synthetic-organic \"zombies\" created from the bodies of organic beings.",
+   "url": "https://masseffect.fandom.com/wiki/Husk"
+  },
+  {
+   "id": "collector-cruiser",
+   "name": "Collector Cruiser",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/9/90/Collector_Cruiser.png/revision/latest/scale-to-width-down/500?cb=20210624025544",
+   "summary": "A Collector Cruiser is a massive vessel capable of carrying large numbers of Collectors, Husks, Abominations, Scions, Praetorians and Seeker Swarms along with enough stasis pods to capture every human colony in the Terminus Systems and still gather more from Earth. The Collectors are known to have possessed several…",
+   "url": "https://masseffect.fandom.com/wiki/Collector_Cruiser"
+  },
+  {
+   "id": "treeya-nuwani",
+   "name": "Treeya Nuwani",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/f/fe/Fehl_Prime_-_Treeya.png/revision/latest/scale-to-width-down/336?cb=20121229174729",
+   "summary": "Treeya Nuwani is an asari anthropologist living on Fehl Prime in 2185. She is a peaceful person and hates the idea of warfare and violence. She is mostly absorbed in her research and is quite oblivious to James Vega's obvious romantic interest in her. Though initially frosty at the Alliance's interference with her…",
+   "url": "https://masseffect.fandom.com/wiki/Treeya_Nuwani"
+  },
+  {
+   "id": "greg-adams",
+   "name": "Greg Adams",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/21/Adams_ME_char_shot.png/revision/latest/scale-to-width-down/393?cb=20210827015456",
+   "summary": "Lieutenant Gregory Adams is a human Earth Systems Alliance engineer in the 22nd century. He was hand-picked by Captain David Anderson to serve as the Chief Engineer of the SSV Normandy. Engineer Adams has served on every class of Alliance starships. Prior to being assigned to the Normandy, Adams served on the SSV…",
+   "url": "https://masseffect.fandom.com/wiki/Greg_Adams"
+  },
+  {
+   "id": "khalisah-al-jilani",
+   "name": "Khalisah al-Jilani",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/18/KA-J_ME_charshot.png/revision/latest/scale-to-width-down/405?cb=20210801161851",
+   "summary": "Khalisah Bint Sinan al-Jilani is a reporter for Westerlund News.",
+   "url": "https://masseffect.fandom.com/wiki/Khalisah_al-Jilani"
+  },
+  {
+   "id": "chloe-michel",
+   "name": "Chloe Michel",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/32/Dr._Michel_ME_charshot.png/revision/latest/scale-to-width-down/347?cb=20210722135054",
+   "summary": "Dr. Chloe Michel works in the Med Clinic, located in the Upper Wards of the Citadel. Her parents were medics in the Alliance military – Michel kept the medical tradition but preferred to work in a civilian capacity. Before she opened the Med Clinic, Michel worked at another practice but was fired for giving out…",
+   "url": "https://masseffect.fandom.com/wiki/Chloe_Michel"
+  },
+  {
+   "id": "m35-mako",
+   "name": "M35 Mako",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/10/Normandy_-_M35_Mako.png/revision/latest/scale-to-width-down/500?cb=20210627191903",
+   "summary": "The M35 Mako Infantry Fighting Vehicle was designed for the Systems Alliance's frigates. It is designed to fulfill the role of rapid deployment that its predecessor, the M29 Grizzly, fell short of accomplishing. Though the interior is cramped, an M35 is small enough to be carried in the cargo bay and easily…",
+   "url": "https://masseffect.fandom.com/wiki/M35_Mako"
+  },
+  {
+   "id": "rachni-queen",
+   "name": "Rachni Queen",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/5/57/Rachni_Queen_ME1_charshot.png/revision/latest/scale-to-width-down/451?cb=20211128131814",
+   "summary": "Rachni queens are the matriarchs of the hive-minded, insectoid rachni species. The largest of their species at about fifty feet long, queens are powerful and intelligent creatures who guide the soldiers and workers of their broods with a form of telepathic “song,” which also allows them to speak through \"receptive\"…",
+   "url": "https://masseffect.fandom.com/wiki/Rachni_Queen"
+  },
+  {
+   "id": "august-bradley",
+   "name": "August Bradley",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/2b/August_Bradley_charshot.png/revision/latest/scale-to-width-down/370?cb=20200622163846",
+   "summary": "Lieutenant August Bradley is the operational head of the third Eos colonist block, later promoted to mayor upon the establishment of Prodromos. A former Alliance military officer, August is happy to have some independence from direct oversight as the leader of the first successful settlement of the Andromeda…",
+   "url": "https://masseffect.fandom.com/wiki/August_Bradley"
+  },
+  {
+   "id": "thorian",
+   "name": "Thorian",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/8a/Thorian_charbox.png/revision/latest/scale-to-width-down/417?cb=20220115144023",
+   "summary": "According to the VI at the ExoGeni Corporation Headquarters, the Thorian is essentially \"a weave of tendrils\" that covers much of the surface of Feros with some sensory tendrils kilometres long, though in places they are gathered into nerve bundles or neural nodes. Though it is intelligent, the Thorian only regards…",
+   "url": "https://masseffect.fandom.com/wiki/Thorian"
+  },
+  {
+   "id": "armando-owen-bailey",
+   "name": "Armando-Owen Bailey",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/63/Bailey_portrait_ME2_LE.png/revision/latest/scale-to-width-down/500?cb=20220410154356",
+   "summary": "Armando-Owen Bailey is a human C-Sec officer stationed in the Zakera Ward of the Citadel in 2185 and early 2186.",
+   "url": "https://masseffect.fandom.com/wiki/Armando-Owen_Bailey"
+  },
+  {
+   "id": "sloane-kelly",
+   "name": "Sloane Kelly",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/1/1e/Sloane_Kelly_character_shot.png/revision/latest/scale-to-width-down/400?cb=20170423130052",
+   "summary": "Sloane Kelly is the leader of the Outcasts, the criminal faction controlling Kadara Port.",
+   "url": "https://masseffect.fandom.com/wiki/Sloane_Kelly"
+  },
+  {
+   "id": "benezia",
+   "name": "Benezia",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/87/Matriarch_Benezia_charbox.png/revision/latest/scale-to-width-down/347?cb=20211008232604",
+   "summary": "Matriarch Benezia is a very powerful asari biotic and spiritual leader among her people. She is also Liara T'Soni's mother, though the two have not spoken in years. When the evidence that proved Saren Arterius was responsible for the Eden Prime attack also proved Benezia was working alongside him, it surprised…",
+   "url": "https://masseffect.fandom.com/wiki/Benezia"
+  },
+  {
+   "id": "shala-raan-vas-tonbay",
+   "name": "Shala'Raan vas Tonbay",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/40/Admiral_raan_ME2_charshot.png/revision/latest/scale-to-width-down/417?cb=20140625112128",
+   "summary": "Admiral Shala'Raan vas Tonbay is a member of the quarian Admiralty Board. She is an old friend of Tali'Zorah's father, having known the Zorah family for over 25 years.",
+   "url": "https://masseffect.fandom.com/wiki/Shala'Raan_vas_Tonbay"
+  },
+  {
+   "id": "aethyta",
+   "name": "Aethyta",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/d/d0/Aethyta_ME2_charshot.png/revision/latest/scale-to-width-down/393?cb=20221108155433",
+   "summary": "Matriarch Aethyta is the asari bartender in the Eternity lounge on Illium.",
+   "url": "https://masseffect.fandom.com/wiki/Aethyta"
+  },
+  {
+   "id": "thresher-maw",
+   "name": "Thresher Maw",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e0/Codex_ME_-_Thresher_Maws.png/revision/latest/scale-to-width-down/500?cb=20210715155748",
+   "summary": "Thresher maws are subterranean carnivores that spend their entire lives eating or searching for something to eat. They are enormous, violent creatures that burst up from the ground without warning when disturbed.",
+   "url": "https://masseffect.fandom.com/wiki/Thresher_Maw"
+  },
+  {
+   "id": "daro-xen-vas-moreh",
+   "name": "Daro'Xen vas Moreh",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/c2/Admiral_xen_ME2_charshot.png/revision/latest/scale-to-width-down/301?cb=20140625112129",
+   "summary": "Admiral Daro'Xen vas Moreh is a member of the quarian Admiralty Board. She is known for her keen scientific interest in the geth.",
+   "url": "https://masseffect.fandom.com/wiki/Daro'Xen_vas_Moreh"
+  },
+  {
+   "id": "keeper",
+   "name": "Keeper",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/ea/Keeper_at_Presidium.png/revision/latest/scale-to-width-down/500?cb=20100914204043",
+   "summary": "The keepers are a bio-engineered, insectoid race found only on the Citadel. They are completely docile and harmless, and appear to exist for no other reason than to maintain the Citadel and its systems.",
+   "url": "https://masseffect.fandom.com/wiki/Keeper"
+  },
+  {
+   "id": "model-ships",
+   "name": "Model Ships",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/27/Model_Ships_.png/revision/latest/scale-to-width-down/500?cb=20220321035522",
+   "summary": "Model Ships are a collectibles feature in Mass Effect 2 and Mass Effect 3 which have no impact on story or gameplay.",
+   "url": "https://masseffect.fandom.com/wiki/Model_Ships"
+  },
+  {
+   "id": "golden-world",
+   "name": "Golden world",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/a5/Heleus_golden_worlds_briefing_map.png/revision/latest/scale-to-width-down/500?cb=20170304133130",
+   "summary": "Golden worlds are locations in Andromeda's Heleus Cluster that are either the strongest possible candidates for settlement or whose resources could bolster the Initiative's chances at long-term survival. Based on survey data and long-term projections, some are believed to be garden worlds capable of supporting…",
+   "url": "https://masseffect.fandom.com/wiki/Golden_world"
+  },
+  {
+   "id": "eletania",
+   "name": "Eletania",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/3c/Eletania_%28orbit%29.png/revision/latest/scale-to-width-down/500?cb=20200706153743",
+   "summary": "Eletania appears to be a world eminently suited for colonization. Sadly, appearances are deceiving. It is covered by a verdant carpet of mosses, algae, and lichen, and possesses a thick oxygenated atmosphere, but the animal kingdom is a web of microscopic symbiotic creatures. These are impossible to filter from the…",
+   "url": "https://masseffect.fandom.com/wiki/Eletania"
+  },
+  {
+   "id": "varren",
+   "name": "Varren",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/63/Codex_ME_-_Varren.png/revision/latest/scale-to-width-down/500?cb=20210715160231",
+   "summary": "Varren are omnivores with a preference for living prey. Originally native to the krogan homeworld of Tuchanka, they are—like most life from Tuchanka—savage, clannish, and consummate survivors. They are pack hunters when vulnerable prey is readily available and become scavengers when outnumbered or outclassed. Their…",
+   "url": "https://masseffect.fandom.com/wiki/Varren"
+  },
+  {
+   "id": "hyperion",
+   "name": "Hyperion",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/e/e9/Hyperion_%28initiative_briefing_sideview%29.png/revision/latest/scale-to-width-down/500?cb=20161203155709",
+   "summary": "Hyperion represents one of several arks specifically designed for the Andromeda Initiative's mission. While its support staff comprises a variety of Milky Way races, Hyperion is primarily responsible for the transport of human colonists to Andromeda. At more than one-and-a-half kilometers long and weighing 17…",
+   "url": "https://masseffect.fandom.com/wiki/Hyperion"
+  },
+  {
+   "id": "special-tasks-group",
+   "name": "Special Tasks Group",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/a/ae/Virmire_-_STG.png/revision/latest/scale-to-width-down/500?cb=20220204234626",
+   "summary": "The Special Tasks Group (STG) is a salarian espionage organization, usually deployed by the Citadel Council or the Salarian Union. STG operators work in independent cells, performing dangerous missions such as counterterrorism, infiltration, reconnaissance, assassination, and sabotage.",
+   "url": "https://masseffect.fandom.com/wiki/Special_Tasks_Group"
+  },
+  {
+   "id": "roekaar",
+   "name": "Roekaar",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/0/0f/Roekaar_logo_box.png/revision/latest/scale-to-width-down/500?cb=20201223195320",
+   "summary": "The Roekaar is a faction of angara active in the Andromeda Galaxy. More ruthless and xenophobic than the mainstream Angaran Resistance, the Roekaar intend to drive all alien invaders, kett and Milky Way alike, out of the Heleus Cluster.",
+   "url": "https://masseffect.fandom.com/wiki/Roekaar"
+  },
+  {
+   "id": "geth-dropship",
+   "name": "Geth Dropship",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/8/8a/Therum_-_geth_dropship.png/revision/latest/scale-to-width-down/500?cb=20211231150710",
+   "summary": "A Geth Dropship is an approximately frigate-sized ship capable of carrying and rapidly deploying large numbers of geth troops. It appears almost organic in design, looking like an oversized hornet or wasp without wings.",
+   "url": "https://masseffect.fandom.com/wiki/Geth_Dropship"
+  },
+  {
+   "id": "space-hamster",
+   "name": "Space Hamster",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/4/47/LE2_Hamster_Codex.png/revision/latest/scale-to-width-down/500?cb=20210819135746",
+   "summary": "The Space Hamster is a pet that can be taken on board starships. It is a diminutive quadruped rodent with evolutionary origins from Earth that has ventured forth to the stars along with its owner.",
+   "url": "https://masseffect.fandom.com/wiki/Space_Hamster"
+  },
+  {
+   "id": "collective",
+   "name": "Collective",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/21/Collective_logo_box.png/revision/latest/scale-to-width-down/500?cb=20201223195113",
+   "summary": "The Collective are an Outlaw faction primarily operating in Kadara. They are led by an entity known only as the Charlatan, and they've emerged as a power rivaling the dominant Outcasts faction for control of Kadara Port.",
+   "url": "https://masseffect.fandom.com/wiki/Collective"
+  },
+  {
+   "id": "klixen",
+   "name": "Klixen",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/2/2f/ME2_Klixen.PNG/revision/latest/scale-to-width-down/451?cb=20100703065034",
+   "summary": "The klixen are an insectoid species resembling crabs or beetles that are encountered in Mass Effect 2. They bear a resemblance to the rachni but are clearly a different species. Klixen are usually—if not always—found with larger flying creatures called harvesters. Klixen do not appear to use weapons, and are likely…",
+   "url": "https://masseffect.fandom.com/wiki/Klixen"
+  },
+  {
+   "id": "pyjak",
+   "name": "Pyjak",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/39/Eletania_-_space_monkeys.png/revision/latest/scale-to-width-down/500?cb=20200708124930",
+   "summary": "Pyjaks, sometimes referred to as \"space monkeys\", are a primitive species found on several planets including Eletania, Tuchanka, and Zorya.",
+   "url": "https://masseffect.fandom.com/wiki/Pyjak"
+  },
+  {
+   "id": "eiroch",
+   "name": "Eiroch",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/b/b4/MEA_Enemy_Eiroch.png/revision/latest/scale-to-width-down/500?cb=20170705194149",
+   "summary": "An aggressive, hard-charging carnivore with tough plates and protruding scales. They tend to be solitary hunters, or \"rogues,\" but may be encountered in small packs.",
+   "url": "https://masseffect.fandom.com/wiki/Eiroch"
+  },
+  {
+   "id": "clan-nakmor",
+   "name": "Clan Nakmor",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/62/NakmorAmbassadorLE2.png/revision/latest/scale-to-width-down/375?cb=20251001192513",
+   "summary": "Clan Nakmor is a small tribe of krogan hailing from the Kraddack Wastes of Tuchanka.",
+   "url": "https://masseffect.fandom.com/wiki/Clan_Nakmor"
+  },
+  {
+   "id": "harvester",
+   "name": "Harvester",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/31/ME_LE_Harvester_Codex.png/revision/latest/scale-to-width-down/500?cb=20220708160348",
+   "summary": "Harvesters are huge creatures that inhabit several worlds in the Milky Way, including Tuchanka and Tarith.",
+   "url": "https://masseffect.fandom.com/wiki/Harvester"
+  },
+  {
+   "id": "space-cow",
+   "name": "Space Cow",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/6/63/Chasca_-_space_cow_herd.png/revision/latest/scale-to-width-down/500?cb=20220306164845",
+   "summary": "Space Cows are orange-and-white herbivores with orange irises, four legs, and two small arm-like forelimbs with two fingers each.",
+   "url": "https://masseffect.fandom.com/wiki/Space_Cow"
+  },
+  {
+   "id": "shifty-looking-cow",
+   "name": "Shifty Looking Cow",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/c/c2/Ontarom_-_shifty_looking_cow.png/revision/latest/scale-to-width-down/500?cb=20220306141155",
+   "summary": "The Shifty Looking Cow is a Space Cow found on the planet Ontarom, in the Newton system of the Kepler Verge. It roams near the southwestern corner of the operational area, near a deposit of gold.",
+   "url": "https://masseffect.fandom.com/wiki/Shifty_Looking_Cow"
+  },
+  {
+   "id": "outcasts",
+   "name": "Outcasts",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/masseffect/images/3/3a/Outcast_logo_box.png/revision/latest/scale-to-width-down/500?cb=20201223195036",
+   "summary": "Outcasts are an Outlaw faction led by former Nexus Security Director Sloane Kelly. Based on Kadara Port, the Outcasts run protection rackets on people under their rule as well as piratical raids on clusterwide shipping.",
+   "url": "https://masseffect.fandom.com/wiki/Outcasts"
+  }
+ ]
+}

@@ -1,0 +1,1644 @@
+{
+ "universe": "starwars",
+ "source": "https://starwars.fandom.com",
+ "cards": [
+  {
+   "id": "anakin-skywalker",
+   "name": "Anakin Skywalker",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest/scale-to-width-down/400?cb=20130621175844",
+   "summary": "Anakin Skywalker was a legendary Force-sensitive human male who was a Jedi Knight of the Galactic Republic and the prophesied Chosen One of the Jedi Order, destined to bring balance to the Force. Also known as \"Ani\" during his childhood, Skywalker earned the moniker \"Hero With No Fear\" from his accomplishments in…",
+   "url": "https://starwars.fandom.com/wiki/Anakin_Skywalker"
+  },
+  {
+   "id": "galactic-empire",
+   "name": "Galactic Empire",
+   "type": "faction",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/2e/Imperial_Emblem.svg/revision/latest/scale-to-width-down/500?cb=20250720193931",
+   "summary": "The Galactic Empire, also known as the First Galactic Empire, the Imperial regime, Palpatine's regime, or simply the Empire, and later as the Old Empire, was a totalitarian stratocratic fascist dictatorship that replaced the Galactic Republic at the end of the Clone Wars. Though the Empire rose to power by…",
+   "url": "https://starwars.fandom.com/wiki/Galactic_Empire"
+  },
+  {
+   "id": "luke-skywalker",
+   "name": "Luke Skywalker",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3d/LukeSkywalker.png/revision/latest/scale-to-width-down/375?cb=20241221010122",
+   "summary": "Luke Skywalker, a Force-sensitive human male, was a legendary Jedi Master who fought in the Galactic Civil War during the reign of the Galactic Empire. Along with his companions, Princess Leia Organa and General Han Solo, Skywalker served as a revolutionary on the side of the Alliance to Restore the Republic—an…",
+   "url": "https://starwars.fandom.com/wiki/Luke_Skywalker"
+  },
+  {
+   "id": "darth-sidious",
+   "name": "Darth Sidious",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e2/Palpatine-CEUEEd.png/revision/latest/scale-to-width-down/417?cb=20250105171652",
+   "summary": "Darth Sidious, born Sheev Palpatine and also simply known as the Emperor, was a male human Dark Lord of the Sith and Emperor of the Galactic Empire, with his reign lasting from 19 BBY to 4 ABY. Rising to power in the Galactic Senate as the senator of Naboo, the secretive Sith Lord cultivated two identities, Sidious…",
+   "url": "https://starwars.fandom.com/wiki/Darth_Sidious"
+  },
+  {
+   "id": "obi-wan-kenobi",
+   "name": "Obi-Wan Kenobi",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg/revision/latest/scale-to-width-down/375?cb=20111115052816",
+   "summary": "Obi-Wan Kenobi was a legendary Force-sensitive human male Jedi Master who served on the Jedi High Council during the final years of the Republic Era. As a High Jedi General, Kenobi served in the Grand Army of the Republic that fought against the Separatist Droid Army during the Clone Wars, and was nicknamed \"the…",
+   "url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi"
+  },
+  {
+   "id": "ahsoka-tano",
+   "name": "Ahsoka Tano",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/27/Ahsoka-Tano-AG-2023.png/revision/latest/scale-to-width-down/382?cb=20231009063143",
+   "summary": "Ahsoka Tano was a female Togruta who was a Force-sensitive outcast from the Jedi Order. After the Clone Wars, she helped establish a network of various rebel cells against the Galactic Empire. Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to…",
+   "url": "https://starwars.fandom.com/wiki/Ahsoka_Tano"
+  },
+  {
+   "id": "han-solo",
+   "name": "Han Solo",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e2/TFAHanSolo.png/revision/latest/scale-to-width-down/375?cb=20160208055002",
+   "summary": "Han Solo, known only as Han until being given the surname Solo, was a human male smuggler and hero of the Alliance to Restore the Republic. He rose from an impoverished childhood to become captain of the Millennium Falcon, a leader in the Rebel Alliance and an instrumental figure in the Galactic Civil War during…",
+   "url": "https://starwars.fandom.com/wiki/Han_Solo"
+  },
+  {
+   "id": "leia-skywalker-organa-solo",
+   "name": "Leia Skywalker Organa Solo",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f1/Leia_Organa_TROS.png/revision/latest/scale-to-width-down/375?cb=20200102034101",
+   "summary": "Leia Skywalker Organa Solo was a Force-sensitive human Alderaanian female politician, Jedi, and military leader who served in the Alliance to Restore the Republic during the Imperial Era and the New Republic and Resistance in the subsequent New Republic Era. Shortly after birth on Polis Massa, she was adopted into…",
+   "url": "https://starwars.fandom.com/wiki/Leia_Skywalker_Organa_Solo"
+  },
+  {
+   "id": "jedi-order",
+   "name": "Jedi Order",
+   "type": "faction",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9d/Jedi_symbol.svg/revision/latest/scale-to-width-down/492?cb=20080329163323",
+   "summary": "The Jedi Order, also known as the Order of the Jedi, and the New Jedi Order under Jedi Master Luke Skywalker, was a noble monastic and nontheistic religious order united in their devotion to the light side of the Force. They served as mediators, warriors, and with teaching and exploratory efforts. With a history…",
+   "url": "https://starwars.fandom.com/wiki/Jedi_Order"
+  },
+  {
+   "id": "human",
+   "name": "Human",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3f/HumansInTheResistance-TROS.jpg/revision/latest/scale-to-width-down/500?cb=20200305153027",
+   "summary": "Humans were a species of sentient, bipedal mammals with bilateral symmetry. Throughout the galaxy, they constituted the culturally dominant species and were commonly encountered on most settled planets, from the bountiful planet of Naboo to the desert world of Tatooine. Some believed humans were possibly native to…",
+   "url": "https://starwars.fandom.com/wiki/Human"
+  },
+  {
+   "id": "yoda",
+   "name": "Yoda",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest/scale-to-width-down/417?cb=20150206140125",
+   "summary": "Yoda was a legendary Jedi Grand Master who led the Jedi Order through the time of the High Republic, in the years leading up to its destruction by the Sith, and during the transformation of the Galactic Republic into the Galactic Empire. Small in stature but revered for his wisdom and power, Yoda trained…",
+   "url": "https://starwars.fandom.com/wiki/Yoda"
+  },
+  {
+   "id": "chewbacca",
+   "name": "Chewbacca",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/25/Chewbacca-SWBC5cvr.png/revision/latest/scale-to-width-down/375?cb=20260426033709",
+   "summary": "Chewbacca, known affectionately to his friends as Chewie, was a Wookiee male warrior, smuggler, mechanic, pilot, and resistance fighter who fought in the Clone Wars, the Galactic Civil War, the Cold War, and the subsequent First Order-Resistance War. He hailed from the planet Kashyyyk where he was born during the…",
+   "url": "https://starwars.fandom.com/wiki/Chewbacca"
+  },
+  {
+   "id": "sith",
+   "name": "Sith",
+   "type": "faction",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/bf/Sith_canon.svg/revision/latest/scale-to-width-down/500?cb=20160702013109",
+   "summary": "The Sith, also referred to as the Sith Order, was an ancient religious order of Force-wielders devoted to the dark side of the Force. Driven by their raw emotions, including hate, anger, and greed, the Sith were deceptive and obsessed with gaining power no matter the cost. The order had many forms until it reached…",
+   "url": "https://starwars.fandom.com/wiki/Sith"
+  },
+  {
+   "id": "coruscant",
+   "name": "Coruscant",
+   "type": "lieu",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/84/CoruscantGlobeE1.png/revision/latest/scale-to-width-down/500?cb=20240513175137",
+   "summary": "Coruscant (pronounced /'kɔɹəsɑnt/), also known as Jewel of the Core Worlds, or Imperial Center during the Imperial Era, was an ecumenopolis planet located in the Coruscant system of the Coruscant subsector in the Core Worlds's Corusca sector that served as the throneworld of the both the Galactic Republic and the…",
+   "url": "https://starwars.fandom.com/wiki/Coruscant"
+  },
+  {
+   "id": "confederacy-of-independent-systems",
+   "name": "Confederacy of Independent Systems",
+   "type": "faction",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/34/CIS_roundel.svg/revision/latest/scale-to-width-down/500?cb=20240821212021",
+   "summary": "The Confederacy of Independent Systems, abbreviated to CIS, and otherwise known as the Separatist Alliance, the Separatist State, the Separatist Confederacy, the Separatist coalition, or simply the Separatists, were a confederacy of star systems in the galaxy that had declared independence from the Galactic…",
+   "url": "https://starwars.fandom.com/wiki/Confederacy_of_Independent_Systems"
+  },
+  {
+   "id": "tatooine",
+   "name": "Tatooine",
+   "type": "lieu",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b0/Tatooine_TPM.png/revision/latest/scale-to-width-down/500?cb=20241209041104",
+   "summary": "Tatooine was a sparsely inhabited circumbinary desert planet located in the galaxy's Outer Rim Territories. Part of a binary star system, the planet orbited two scorching suns, resulting in the world lacking the necessary surface water to sustain large populations. As a result, many residents of the planet instead…",
+   "url": "https://starwars.fandom.com/wiki/Tatooine"
+  },
+  {
+   "id": "nihil",
+   "name": "Nihil",
+   "type": "faction",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/45/NihilEye-PhaseIII.svg/revision/latest/scale-to-width-down/500?cb=20231205051912",
+   "summary": "The Nihil, briefly known as the Nihil Empire or Nihil Union, were anarchistic marauders who rose to prominence during the High Republic Era. They had access to mysterious hyperspace routes known as \"Paths\" that defied conventional hyperspace logic and allowed them to travel through hyperspace in ways no one else…",
+   "url": "https://starwars.fandom.com/wiki/Nihil"
+  },
+  {
+   "id": "wookiee",
+   "name": "Wookiee",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/1e/Chewbacca-Fathead.png/revision/latest/scale-to-width-down/274?cb=20161108052810",
+   "summary": "Wookiees, known in their own language of Shyriiwook as \"the People of the Trees,\" were a species of tall, hairy humanoids that were native to the planet Kashyyyk. A notable member of this species was the warrior Chewbacca, Han Solo's best friend and co-pilot, who played a vital role in the Clone Wars during the…",
+   "url": "https://starwars.fandom.com/wiki/Wookiee"
+  },
+  {
+   "id": "twi-lek",
+   "name": "Twi'lek",
+   "type": "espece",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/54/Twileks.png/revision/latest/scale-to-width-down/289?cb=20151229035344",
+   "summary": "Twi'leks, sometimes referred to xenophobically as tail-heads or Twi, occasionally referred to as Rylothians, were a tall near-human species whose most striking feature was a pair of long appendages protruding from their skulls, called lekku. They hailed from the planet of Ryloth, in the Outer Rim Territories, and…",
+   "url": "https://starwars.fandom.com/wiki/Twi'lek"
+  },
+  {
+   "id": "freighter",
+   "name": "Freighter",
+   "type": "vaisseau",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/21/Ghost2-Fathead.png/revision/latest/scale-to-width-down/500?cb=20260223010127",
+   "summary": "A freighter, also reffered to as a star freighter, space freighter, cargo ship or simply, a barge, was a kind of spacecraft used for hauling cargo from one place to another. Although light freighters could usually hold their own in combat against other fighter craft, larger vessels, such as bulk freighters tended…",
+   "url": "https://starwars.fandom.com/wiki/Freighter"
+  },
+  {
+   "id": "shuttle",
+   "name": "Shuttle",
+   "type": "vaisseau",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d2/StarCommuterShuttle-SWRebelsFB.png/revision/latest/scale-to-width-down/500?cb=20221022040916",
+   "summary": "Shuttles were a type of starship used to transport personnel and cargo through space, often from one starship to another or from a ship to a planetary body. There were a number of different types of shuttles in the galaxy, including the Imperial Lambda-class T-4a shuttle and the civilian Star Commuter 2000.",
+   "url": "https://starwars.fandom.com/wiki/Shuttle"
+  },
+  {
+   "id": "mitth-raw-nuruodo",
+   "name": "Mitth'raw'nuruodo",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fe/Thrawn_Character_poster.png/revision/latest/scale-to-width-down/375?cb=20260325022606",
+   "summary": "Mitth'raw'nuruodo, born as Kivu'raw'nuru with the core name Vurawn, recognized in his early military career as Mitth'raw'nuru, and better known by his core name Thrawn, was a Chiss male officer of the Chiss Ascendancy and Grand Admiral in the Imperial Navy during the age of the Galactic Empire. An alien Imperial…",
+   "url": "https://starwars.fandom.com/wiki/Mitth'raw'nuruodo"
+  },
+  {
+   "id": "grievous",
+   "name": "Grievous",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/45/GrievousStand-SWHC821.png/revision/latest/scale-to-width-down/375?cb=20241118020627",
+   "summary": "Grievous, born Qymaen jai Sheelal, was a Kaleesh male warlord who served within the military forces of the Confederacy of Independent Systems as a commanding officer during the Clone Wars in the final years of the Republic Era. In addition to his position as a general within the Separatist Droid Army, the Kaleesh…",
+   "url": "https://starwars.fandom.com/wiki/Grievous"
+  },
+  {
+   "id": "ben-solo",
+   "name": "Ben Solo",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/bc/KyloRenVFcover-TROS.png/revision/latest/scale-to-width-down/375?cb=20250126000852",
+   "summary": "Ben Solo was a Force-sensitive human male who turned to the dark side of the Force and became known as Kylo Ren, the \"Jedi Killer\" who rose to power as master of the Knights of Ren and Supreme Leader of the First Order during the New Republic Era. Though neither Jedi nor Sith, Ren was trained in the ways of both…",
+   "url": "https://starwars.fandom.com/wiki/Ben_Solo"
+  },
+  {
+   "id": "ezra-bridger",
+   "name": "Ezra Bridger",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/ad/Ezra_Bridger_character_poster.png/revision/latest/scale-to-width-down/375?cb=20260201003755",
+   "summary": "Ezra Bridger was a human male Jedi Padawan, a freedom fighter, and a revolutionary leader in the early rebellion against the Galactic Empire. He was born on Empire Day in 19 BBY to Ephraim and Mira Bridger. His parents' public criticism of the Empire led to their imprisonment, leaving Bridger an orphan on the…",
+   "url": "https://starwars.fandom.com/wiki/Ezra_Bridger"
+  },
+  {
+   "id": "sabine-wren",
+   "name": "Sabine Wren",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/cc/Sabine_Wren-AG.png/revision/latest/scale-to-width-down/400?cb=20241217034612",
+   "summary": "Sabine Wren was a Force-sensitive human female Mandalorian warrior and revolutionary leader during the Galactic Civil War against the Galactic Empire, and later a Jedi during the early years of the New Republic. Her artistry during the early rebellion inspired the symbol of the Alliance to Restore the Republic, and…",
+   "url": "https://starwars.fandom.com/wiki/Sabine_Wren"
+  },
+  {
+   "id": "hera-syndulla",
+   "name": "Hera Syndulla",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/cc/MaryElizabethWinsteadasHeraSyndulla-ToppsChoice2025.png/revision/latest/scale-to-width-down/400?cb=20251206225907",
+   "summary": "Hera Syndulla was a Twi'lek female revolutionary leader who became a central figure in the early rebellion against the Galactic Empire and the formation of the Alliance to Restore the Republic. Born the daughter of General Cham Syndulla and Eleni Syndulla on Ryloth with a brother who died young, she saw firsthand…",
+   "url": "https://starwars.fandom.com/wiki/Hera_Syndulla"
+  },
+  {
+   "id": "bail-prestor-organa",
+   "name": "Bail Prestor Organa",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b0/Bailrogueone.jpg/revision/latest/scale-to-width-down/362?cb=20241219201015",
+   "summary": "Bail Prestor Organa of the planet Alderaan was a human male Alderaanian politician, statesman, and revolutionary leader who championed democratic and progressively-minded causes during the decades he represented his homeworld in the Senates of the Galactic Republic and the Galactic Empire. Born Bail Prestor, the…",
+   "url": "https://starwars.fandom.com/wiki/Bail_Prestor_Organa"
+  },
+  {
+   "id": "kazuda-xiono",
+   "name": "Kazuda Xiono",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/38/KazudaXiono-Card.png/revision/latest/scale-to-width-down/333?cb=20240427213651",
+   "summary": "Kazuda Xiono, nicknamed \"Kaz,\" was a human male military pilot and later Resistance spy who served in the years following the conclusion of the Galactic Civil War. The son of Senator Hamato Xiono, Kazuda served with the Starfighter Corps of the New Republic Defense Fleet during the Cold War, at which point the…",
+   "url": "https://starwars.fandom.com/wiki/Kazuda_Xiono"
+  },
+  {
+   "id": "din-djarin",
+   "name": "Din Djarin",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/46/DinDjarinArmor-CGSWG.png/revision/latest/scale-to-width-down/403?cb=20241206044557",
+   "summary": "Din Djarin, also known as \"the Mandalorian,\" or simply \"Mando,\" was a human male Mandalorian warrior during the era of the New Republic. With his Mandalorian armor, IB-94 blaster pistol, Amban sniper rifle, and distinctive beskar helmet, Djarin was both well-equipped and enigmatic—a stranger whose past was shrouded…",
+   "url": "https://starwars.fandom.com/wiki/Din_Djarin"
+  },
+  {
+   "id": "maul",
+   "name": "Maul",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/89/MaulHS_SWI185.png/revision/latest/scale-to-width-down/375?cb=20181108061212",
+   "summary": "Maul was a Force-sensitive Dathomirian Zabrak male who was apprenticed to the Sith Lord Darth Sidious, and after his defeat by the Jedi Obi-Wan Kenobi, he established himself as a crime lord during the Clone Wars and the Imperial Era. The renegade Sith Lord was a formidable warrior, driven by hatred against the…",
+   "url": "https://starwars.fandom.com/wiki/Maul"
+  },
+  {
+   "id": "kanan-jarrus",
+   "name": "Kanan Jarrus",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f6/Kanan-JediNight.png/revision/latest/scale-to-width-down/375?cb=20241231035454",
+   "summary": "Kanan Jarrus, born Caleb Dume, was a Force-sensitive human male Jedi Knight who survived Order 66 during the Clone Wars. Living on thanks to the sacrifice of his Master, Depa Billaba, on Kaller, he met the smuggler Janus Kasmir, who taught him how to survive as a fugitive. Going into hiding, he forsook the Jedi…",
+   "url": "https://starwars.fandom.com/wiki/Kanan_Jarrus"
+  },
+  {
+   "id": "wilhuff-tarkin",
+   "name": "Wilhuff Tarkin",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg/revision/latest/scale-to-width-down/375?cb=20100620213033",
+   "summary": "Wilhuff Tarkin was an Eriaduan bureaucrat, military officer, and politician whose career spanned the waning years of the Galactic Republic into the Imperial Era. A member of Eriadu's prominent Tarkin family, the man served the Republic's Judicial Department before returning to his homeworld to serve as its…",
+   "url": "https://starwars.fandom.com/wiki/Wilhuff_Tarkin"
+  },
+  {
+   "id": "omega",
+   "name": "Omega",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/73/OlderOmega-TBB-Cavalry.png/revision/latest/scale-to-width-down/366?cb=20240501084428",
+   "summary": "Omega was an enhanced human female clone, created from the genetic template of the Mandalorian bounty hunter Jango Fett, who lived in the years following the Clone Wars. Originally created as a pure genetic replication of Fett, she was a medical assistant to Kaminoan Chief Medical Scientist Nala Se and spent her…",
+   "url": "https://starwars.fandom.com/wiki/Omega"
+  },
+  {
+   "id": "boba-fett",
+   "name": "Boba Fett",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/62/BobaFettHS-SWI213.png/revision/latest/scale-to-width-down/394?cb=20250317160100",
+   "summary": "Boba Fett was a human male crime lord and former bounty hunter whose career spanned decades, from the fall of the Galactic Republic to the end of the rule of the Galactic Empire. Originally code-named Alpha, he was an unaltered clone of the famed Mandalorian bounty hunter, Jango Fett, who raised the boy as his son.…",
+   "url": "https://starwars.fandom.com/wiki/Boba_Fett"
+  },
+  {
+   "id": "asajj-ventress",
+   "name": "Asajj Ventress",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fb/AsajjVentress-2024Base.png/revision/latest/scale-to-width-down/375?cb=20251026185311",
+   "summary": "Asajj Ventress was a Dathomirian Nightsister who lived through the fall of the Galactic Republic, becoming an accomplished warrior in the Clone Wars. She was taken from her family as an infant on the planet Dathomir and enslaved by pirates on the war-torn world of Rattatak, where the stranded Jedi Knight Ky Narec…",
+   "url": "https://starwars.fandom.com/wiki/Asajj_Ventress"
+  },
+  {
+   "id": "rey-skywalker",
+   "name": "Rey Skywalker",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/2b/Rey_TROS_Fathead.png/revision/latest/scale-to-width-down/326?cb=20231113074423",
+   "summary": "Rey Skywalker, also known simply as Rey, was a Jedi member of the Resistance during the war against the First Order. The human woman was a scavenger on the planet Jakku, but her life was changed by tumultuous events in the last days of the New Republic Era. Rey's decision to help the droid BB-8 set her on a course…",
+   "url": "https://starwars.fandom.com/wiki/Rey_Skywalker"
+  },
+  {
+   "id": "dooku",
+   "name": "Dooku",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/5f/Dooku-SWBC61.png/revision/latest/scale-to-width-down/375?cb=20241118020049",
+   "summary": "Dooku was a Force-sensitive human male Serennian who served as a Jedi Master during the waning years of the Galactic Republic and later Count of House Serenno. He became dissatisfied with the Jedi Order and fell to the dark side of the Force, becoming the Dark Lord of the Sith Darth Tyranus. After leaving the Jedi…",
+   "url": "https://starwars.fandom.com/wiki/Dooku"
+  },
+  {
+   "id": "padme-amidala-naberrie",
+   "name": "Padmé Amidala Naberrie",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg/revision/latest/scale-to-width-down/344?cb=20100423143631",
+   "summary": "Padmé Amidala Naberrie, also simply known as Padmé Amidala, was a human female politician who represented the people of Naboo during the final years of the Galactic Republic. Prior to her career as a senator in the Galactic Senate, Amidala was the elected ruler of the Royal House of Naboo. A political idealist, she…",
+   "url": "https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala_Naberrie"
+  },
+  {
+   "id": "chelli-lona-aphra",
+   "name": "Chelli Lona Aphra",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9a/Aphra-Reis.png/revision/latest/scale-to-width-down/396?cb=20210410102958",
+   "summary": "Chelli Lona Aphra, also known as \"Smallfry,\" was a human female archaeologist. Born in 24 BBY as the daughter of Korin and Lona Aphra, she learned much about the galaxy due to Korin's scholarly ambitions. Korin was particularly interested in the Jedi Order as well as the ancient Ordu Aspectu, but when his work…",
+   "url": "https://starwars.fandom.com/wiki/Chelli_Lona_Aphra"
+  },
+  {
+   "id": "rex",
+   "name": "Rex",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/89/Captain_Rex_old.png/revision/latest/scale-to-width-down/375?cb=20250413205834",
+   "summary": "Rex, designated CT-7567, was a veteran Clone Captain, Clone Commander, and Advanced Recon Commando who commanded the Grand Army of the Republic's famed 501st Legion of clone troopers during the Clone Wars. Rex later served as a captain and commander within the Alliance to Restore the Republic during the Galactic…",
+   "url": "https://starwars.fandom.com/wiki/Rex"
+  },
+  {
+   "id": "garazeb-orrelios",
+   "name": "Garazeb Orrelios",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/59/ZebOrrelios-TMGPremiere.png/revision/latest/scale-to-width-down/375?cb=20260523150814",
+   "summary": "Garazeb Orrelios, commonly known as Zeb, was a male Lasat rebel who helped man the starship the Ghost. Prior to joining the Spectres rebel cell, Orrelios was a Captain of the Lasan Honor Guard and was trained to fight with a bo-rifle. He was one of the few Lasat to survive the devastation of his homeworld of Lasan…",
+   "url": "https://starwars.fandom.com/wiki/Garazeb_Orrelios"
+  },
+  {
+   "id": "mustafar",
+   "name": "Mustafar",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/61/Mustafar-TROSGG.png/revision/latest/scale-to-width-down/500?cb=20200722072411",
+   "summary": "Mustafar was a young, small planet located in the Mustafar system, within the Atravis sector of the galaxy's Outer Rim Territories. Once a garden world nourished by the Bright Star artifact, its orbit was shifted when Lady Corvax unleashed the energies of the Bright Star in an attempt to return her husband to life.…",
+   "url": "https://starwars.fandom.com/wiki/Mustafar"
+  },
+  {
+   "id": "mon-mothma",
+   "name": "Mon Mothma",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/22/Mon_Mothma_Ahsoka_poster.png/revision/latest/scale-to-width-down/375?cb=20230904071259",
+   "summary": "Mon Mothma, also known affectionately as Double-M, was a human female Chandrilan politician and revolutionary leader who was one of the Alliance to Restore the Republic's founding members and its civilian leader. During the final decades of the Galactic Republic Era, Mothma represented her homeworld of Chandrila in…",
+   "url": "https://starwars.fandom.com/wiki/Mon_Mothma"
+  },
+  {
+   "id": "satine-kryze",
+   "name": "Satine Kryze",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3b/DuchessSatine-SWE.png/revision/latest/scale-to-width-down/375?cb=20251224054051",
+   "summary": "Satine Kryze, a human female Mandalorian, was the Duchess of Kalevala and the pacifistic ruler of the New Mandalorians and the planet Mandalore during the final decades of the Galactic Republic Era. Believing that change was Mandalore's only hope for a future, she longed to move her people beyond their violent…",
+   "url": "https://starwars.fandom.com/wiki/Satine_Kryze"
+  },
+  {
+   "id": "mace-windu",
+   "name": "Mace Windu",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/27/MaceWindu_-WoSW.png/revision/latest/scale-to-width-down/394?cb=20220914013358",
+   "summary": "Mace Windu was a revered Force-sensitive human male Jedi Master and member of the Jedi High Council during the last years of the Republic Era. During his time in the Jedi Order, he once served as an elected leader of the Jedi and, during the Clone Wars, as a Jedi General in The Grand Army of the Republic. He was…",
+   "url": "https://starwars.fandom.com/wiki/Mace_Windu"
+  },
+  {
+   "id": "saw-gerrera",
+   "name": "Saw Gerrera",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/06/SawGerrera-Platinum2025.png/revision/latest/scale-to-width-down/374?cb=20251228041951",
+   "summary": "Saw Gerrera was a human male Onderonian resistance fighter who, as a leading member of the Onderon rebels, fought against the Confederacy of Independent Systems on Onderon during the Clone Wars. He and his sister, Steela Gerrera, were instrumental in the rebel liberation of their homeworld during the Onderonian…",
+   "url": "https://starwars.fandom.com/wiki/Saw_Gerrera"
+  },
+  {
+   "id": "echo",
+   "name": "Echo",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/EchoTBB.png/revision/latest/scale-to-width-down/375?cb=20220101233012",
+   "summary": "Echo, formerly designated CT-1409 and known as the Hero of Anaxes, was a genetically defective human male clone trooper, veteran Clone Corporal, and former Advanced Recon Commando of the elite 501st Legion. He would also serve as a CT-99 clone commando of the elite Clone Force 99 in the Grand Army of the Republic…",
+   "url": "https://starwars.fandom.com/wiki/Echo"
+  },
+  {
+   "id": "qui-gon-jinn",
+   "name": "Qui-Gon Jinn",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f6/Qui-Gon_Jinn_Headshot_TPM.jpg/revision/latest/scale-to-width-down/366?cb=20180430174809",
+   "summary": "Qui-Gon Jinn, a Force-sensitive human male, was a venerable if maverick Jedi Master who lived during the last years of the Republic Era. He was a wise and well-respected member of the Jedi Order, and was offered a seat on the Jedi Council, but chose to reject and follow his own path. Adhering to a philosophy…",
+   "url": "https://starwars.fandom.com/wiki/Qui-Gon_Jinn"
+  },
+  {
+   "id": "landonis-balthazar-calrissian",
+   "name": "Landonis Balthazar Calrissian",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/29/LandoCalrissian-TROSOCE.png/revision/latest/scale-to-width-down/375?cb=20200101050952",
+   "summary": "Landonis Balthazar Calrissian, otherwise known as Lando Calrissian, was a human smuggler, gambler, and entrepreneur who became Baron Administrator of Cloud City and, later, a general in the Rebel Alliance. Born on Socorro, he was the owner of the Millennium Falcon before losing it to Han Solo in a game of sabacc on…",
+   "url": "https://starwars.fandom.com/wiki/Landonis_Balthazar_Calrissian"
+  },
+  {
+   "id": "ar-alani",
+   "name": "Ar'alani",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/dc/Aralani-HS.png/revision/latest/scale-to-width-down/375?cb=20200125233233",
+   "summary": "Ar'alani, born as Irizi'ar'alani and also known by her core name Ziara, was a Chiss female admiral who served in the Expansionary Defense Fleet of the Chiss Ascendancy nation during the Clone Wars and the reign of the Galactic Empire. A Chiss with blue skin and striking red eyes, Ar'alani was known as a brilliant…",
+   "url": "https://starwars.fandom.com/wiki/Ar'alani"
+  },
+  {
+   "id": "reath-silas",
+   "name": "Reath Silas",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/41/ReathSilas-IntoTheLight.png/revision/latest/scale-to-width-down/500?cb=20250418065232",
+   "summary": "Though the discoveries and adventures on this station accidentally released the long-dormant threat of the Drengir into the wider galaxy, Reath Silas and his new master, Cohmac Vitus, would go and fight this threat alongside those Jedi stationed at Starlight Beacon. He would participate in the Assault on Mulita and…",
+   "url": "https://starwars.fandom.com/wiki/Reath_Silas"
+  },
+  {
+   "id": "cassian-jeron-andor",
+   "name": "Cassian Jeron Andor",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/31/CassianAndor-Fathead.png/revision/latest/scale-to-width-down/375?cb=20161108051806",
+   "summary": "Cassian Jeron Andor was a human male operative of the Alliance to Restore the Republic who was remembered as a hero after his sacrifice to secure the Galactic Empire's Death Star plans at the Battle of Scarif. An accomplished spy and assassin, Andor was well-respected within the Rebellion and was trusted with…",
+   "url": "https://starwars.fandom.com/wiki/Cassian_Jeron_Andor"
+  },
+  {
+   "id": "indara",
+   "name": "Indara",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3c/Indara-DressingAcolyte.png/revision/latest/scale-to-width-down/374?cb=20240607044202",
+   "summary": "Indara was a human female who joined the Jedi Order as a youngling during the High Republic Era. As a Padawan, she trained under her Jedi Master's tutelage before later attaining the rank of Jedi Knight around 161 BBY. Around the same year, Indara was trapped in the mines of Seswenna during the Farlingan Collapse.…",
+   "url": "https://starwars.fandom.com/wiki/Indara"
+  },
+  {
+   "id": "marchion-ro",
+   "name": "Marchion Ro",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/96/MarchionUnmasked-2021THRA5.png/revision/latest/scale-to-width-down/379?cb=20230708205430",
+   "summary": "Marchion Ro was a male Evereni who held the title of Eye of the Nihil in the days of the High Republic. The son of Asgar Ro, he grew up on the Gaze Electric, his family's ship, and watched as his grandmother, Shalla, and his father developed the marauder group known as the Nihil in the Outer Rim of the galaxy. The…",
+   "url": "https://starwars.fandom.com/wiki/Marchion_Ro"
+  },
+  {
+   "id": "poe-dameron",
+   "name": "Poe Dameron",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/6b/PoeDameron-Heroes2023.png/revision/latest/scale-to-width-down/375?cb=20251128064305",
+   "summary": "Poe Dameron was a human male who originally served as a member of the Spice Runners of Kijimi, before becoming a pilot in the New Republic and eventually joining the Resistance, rising to become acting General of the Resistance, during the Cold War and subsequent war with the First Order. The son of Lieutenant…",
+   "url": "https://starwars.fandom.com/wiki/Poe_Dameron"
+  },
+  {
+   "id": "porter-engle",
+   "name": "Porter Engle",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f8/PorterEngle-THRABakeOff.png/revision/latest/scale-to-width-down/375?cb=20250811163847",
+   "summary": "Porter Engle, known as the Blade of Bardotta, was a male Ikkrukkian Jedi Master and cook who lived during the High Republic Era. Sporting an enormous beard, Engle was a legend in the Jedi Order and formed a bond of siblinghood with fellow Jedi Barash Silvain, whose memories of infancy drove her desire for family.…",
+   "url": "https://starwars.fandom.com/wiki/Porter_Engle"
+  },
+  {
+   "id": "gial-ackbar",
+   "name": "Gial Ackbar",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/29/Admiral_Ackbar_RH.png/revision/latest/scale-to-width-down/376?cb=20221224032123",
+   "summary": "Gial Ackbar was a male Mon Calamari veteran soldier and prominent revolutionary leader during the Clone Wars, the Galactic Civil War, the Cold War, and the war between the Resistance and the First Order. Throughout his sixty years of service, Ackbar was regarded as a brilliant tactician.",
+   "url": "https://starwars.fandom.com/wiki/Gial_Ackbar"
+  },
+  {
+   "id": "snoke",
+   "name": "Snoke",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f0/Snoke-TLJOCE.png/revision/latest/scale-to-width-down/375?cb=20221204063658",
+   "summary": "Snoke was a Force-sensitive humanoid male who ruled the First Order as Supreme Leader during the New Republic Era and was considered to be a enigmatic seeker of arcane lore who possessed a dark nature from the Unknown Regions. Likely unaware of his true nature, Snoke was an artificial genetic strandcast created on…",
+   "url": "https://starwars.fandom.com/wiki/Snoke"
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/8f/Tech-TBBTilt.png/revision/latest/scale-to-width-down/430?cb=20260107023646",
+   "summary": "Tech, formerly designated CT-9902, was a clone commando who served in the Grand Army of the Republic during the Clone Wars as a member of Clone Force 99, also known as the \"Bad Batch,\" and who later deserted the Galactic Empire. As a result of his genetic mutations, he served as the brains of his squad and was a…",
+   "url": "https://starwars.fandom.com/wiki/Tech"
+  },
+  {
+   "id": "inquisitorius",
+   "name": "Inquisitorius",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/22/Inquisitors-SWCT.png/revision/latest/scale-to-width-down/500?cb=20251021051154",
+   "summary": "The Inquisitorius, also known as the Inquisitorius Program, the Order of Inquisitors, the Inquisitor corps, the Imperial Inquisition, or simply Inquisition, was an organization of Force-sensitive operatives under the Galactic Empire. Inquisitors were tasked with hunting the remaining Jedi throughout the galaxy…",
+   "url": "https://starwars.fandom.com/wiki/Inquisitorius"
+  },
+  {
+   "id": "finn",
+   "name": "Finn",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/1a/Finn-TSWB.png/revision/latest/scale-to-width-down/456?cb=20250106074103",
+   "summary": "Finn, formerly designated FN-2187 (\"Eight-Seven\"), was a Force-sensitive human male and former stormtrooper who served the First Order until his desertion and subsequent defection to the Resistance during the First Order-Resistance War. Though trained since birth to be a loyal and obedient soldier, FN-2187's…",
+   "url": "https://starwars.fandom.com/wiki/Finn"
+  },
+  {
+   "id": "din-grogu",
+   "name": "Din Grogu",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/06/Grogu-BoBFBox.png/revision/latest/scale-to-width-down/500?cb=20251105060853",
+   "summary": "Din Grogu, known only as Grogu until being formally adopted by Din Djarin after the Liberation of Mandalore, was a male Force-sensitive Mandalorian belonging to the same mysterious species as the legendary Grand Master Yoda. Grogu was born around the year 41 BBY, and was raised at the Jedi Temple on Coruscant as a…",
+   "url": "https://starwars.fandom.com/wiki/Din_Grogu"
+  },
+  {
+   "id": "mandalorian",
+   "name": "Mandalorian",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/35/JaingHead.svg/revision/latest/scale-to-width-down/387?cb=20251223220728",
+   "summary": "The Mandalorians—known in Mando'a as the Mando'ade (\"Children of Mandalore\")—were a clan-based culture composed of members from multiple species and bound by a common creed, language, and code. Known primarily as highly-effective mercenaries and bounty hunters, Mandalorians as a socio-cultural group have at various…",
+   "url": "https://starwars.fandom.com/wiki/Mandalorian"
+  },
+  {
+   "id": "bo-katan-kryze",
+   "name": "Bo-Katan Kryze",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/ec/BoKatanKryze-TTG2024.png/revision/latest/scale-to-width-down/375?cb=20251118053437",
+   "summary": "Bo-Katan Kryze was a Mandalorian human female princess born into House Kryze and was the Mand'alor during the New Republic Era. Over her life, she became a lieutenant in the Death Watch terrorist group, the commanding officer of its Nite Owls subdivision, the leader of the Mandalore resistance, and even laid claim…",
+   "url": "https://starwars.fandom.com/wiki/Bo-Katan_Kryze"
+  },
+  {
+   "id": "the-grand-inquisitor",
+   "name": "The Grand Inquisitor",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/7d/TheGrandInquisitor-SWR.png/revision/latest?cb=20260313200114",
+   "summary": "The Grand Inquisitor was the title adopted by a Pau'an male Jedi Knight who turned to the dark side of the Force and became the leader of the Inquisitorius, a band of Jedi hunters who served the Galactic Empire. The Grand Inquisitor was once a Jedi Temple Guard and was involved in the events surrounding the bombing…",
+   "url": "https://starwars.fandom.com/wiki/The_Grand_Inquisitor"
+  },
+  {
+   "id": "millennium-falcon",
+   "name": "Millennium Falcon",
+   "type": "vaisseau",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/52/Millennium_Falcon_Fathead_TROS.png/revision/latest/scale-to-width-down/500?cb=20221029015218",
+   "summary": "The Millennium Falcon, originally designated YT 492727ZED and formerly known as the Stellar Envoy, and registered or known under various aliases and pseudonyms including Broken Bell, Corell's Pride, Close Shave, Fickle Flyer, Foul Matter, Graphite Skipper, Jin-Den Smoke, Longshot, Lost and Found, Star Princess,…",
+   "url": "https://starwars.fandom.com/wiki/Millennium_Falcon"
+  },
+  {
+   "id": "cal-kestis",
+   "name": "Cal Kestis",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b0/9BBY_Cal.png/revision/latest/scale-to-width-down/375?cb=20250109160127",
+   "summary": "Cal Kestis was a Force-sensitive human male who became a Jedi Knight during the reign of the Galactic Empire. As one of the few Jedi who survived the purge that all but destroyed the Jedi Order, Kestis lived in seclusion on the planet Bracca for years until a confrontation with the Inquisitorius compelled him to…",
+   "url": "https://starwars.fandom.com/wiki/Cal_Kestis"
+  },
+  {
+   "id": "vernestra-rwoh",
+   "name": "Vernestra Rwoh",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/81/VernestraRwoh-DressingAcolyteUpdated.png/revision/latest/scale-to-width-down/363?cb=20251221214105",
+   "summary": "Vernestra Rwoh was a Mirialan female Jedi Master who lived during the High Republic Era. She was also occasionally nicknamed \"Vern\", although she disliked it. Rwoh was the Padawan of Jedi Master Stellan Gios and she was promoted to the rank of Jedi Knight at the age of fifteen, making her the youngest Jedi to…",
+   "url": "https://starwars.fandom.com/wiki/Vernestra_Rwoh"
+  },
+  {
+   "id": "beilert-valance",
+   "name": "Beilert Valance",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f7/BountyHunters4-textless.png/revision/latest/scale-to-width-down/329?cb=20210504232002",
+   "summary": "Beilert Valance, also known as Valance the Hunter, was a human male bounty hunter. Born into slavery on Chorin, Valance became a miner like his father. He grew up idealizing the Galactic Empire, which he later left his homeworld to join, under designation Cadet 404-913.",
+   "url": "https://starwars.fandom.com/wiki/Beilert_Valance"
+  },
+  {
+   "id": "lourna-dee",
+   "name": "Lourna Dee",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f6/LournaDeeUnmasked-THR2021-10.png/revision/latest/scale-to-width-down/411?cb=20230804043135",
+   "summary": "Lourna Dee, born Lourna'dee and known by the code Unit 4978/7179 and the pseudonyms Inun and Sal Krost, was a Twi'lek female from the planet Aaloth who held the rank of Tempest Runner in the marauder organization known as the Nihil. One of three Tempest Runners, Dee led a Tempest that was noted for their sadism and…",
+   "url": "https://starwars.fandom.com/wiki/Lourna_Dee"
+  },
+  {
+   "id": "hondo-ohnaka",
+   "name": "Hondo Ohnaka",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b8/HondoOhnaka-TGTB.png/revision/latest/scale-to-width-down/354?cb=20251217184604",
+   "summary": "Hondo Ohnaka was a male Weequay pirate and outlaw whose varied exploits garnered him notoriety and infamy throughout the galaxy. Over the course of Ohnaka's storied and decades-long career as the head of self-styled operations such as the Ohnaka Gang and Ohnaka Transport Solutions, he often became intertwined with…",
+   "url": "https://starwars.fandom.com/wiki/Hondo_Ohnaka"
+  },
+  {
+   "id": "orson-callan-krennic",
+   "name": "Orson Callan Krennic",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/05/OrsonKrennic-SWI171.png/revision/latest/scale-to-width-down/375?cb=20221004010739",
+   "summary": "Orson Callan Krennic was a human male who served as Director of the Imperial Military Department of Advanced Weapons Research, which belonged to Imperial Intelligence and the Imperial Security Bureau during the Imperial Era. Additionally, he was the commander of the DS-1 Death Star Mobile Battle Station up to the…",
+   "url": "https://starwars.fandom.com/wiki/Orson_Callan_Krennic"
+  },
+  {
+   "id": "alexsandr-kallus",
+   "name": "Alexsandr Kallus",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/85/Kallus-SWCT.png/revision/latest/scale-to-width-down/394?cb=20251225043454",
+   "summary": "Alexsandr Kallus was a human male revolutionary who served as a rebel spy in the formative days of the Alliance to Restore the Republic and into the early phase of the Galactic Civil War. Kallus had once been an agent and captain of the Imperial Security Bureau, operating number ISB-021 and was a firm believer in…",
+   "url": "https://starwars.fandom.com/wiki/Alexsandr_Kallus"
+  },
+  {
+   "id": "bossk-wassak-cradossk",
+   "name": "Bossk'wassak'Cradossk",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/1d/Bossk.png/revision/latest/scale-to-width-down/450?cb=20130219044712",
+   "summary": "Bossk'wassak'Cradossk, known more commonly as Bossk, was a male Trandoshan bounty hunter and the son of Cradossk who was known for hunting Wookiees. During the Clone Wars, Bossk worked alongside fellow hunters Aurra Sing and Castas to mentor the orphaned Boba Fett. Their scheme to kill Fett's hated enemy, the Jedi…",
+   "url": "https://starwars.fandom.com/wiki/Bossk'wassak'Cradossk"
+  },
+  {
+   "id": "phasma",
+   "name": "Phasma",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/02/Phasma.png/revision/latest/scale-to-width-down/375?cb=20220915042839",
+   "summary": "Phasma, a human female stormtrooper captain of the First Order, grew up as a member of the Scyre clan on the nuclear-ravaged world of Parnassos in the Unknown Regions, where she became a formidable warrior, eventually becoming the clan's military leader. Seeking passage offworld, Phasma helped the First Order…",
+   "url": "https://starwars.fandom.com/wiki/Phasma"
+  },
+  {
+   "id": "jabba-desilijic-tiure",
+   "name": "Jabba Desilijic Tiure",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fe/Jabba_MMSWCA.png/revision/latest/scale-to-width-down/410?cb=20231031040818",
+   "summary": "Jabba Desilijic Tiure, more commonly referred to as Jabba the Hutt or simply Jabba, and formally styled as His Excellency Jabba Desilijic Tiure of Nal Hutta, Eminence of Tatooine, was a Hutt male gangster and crime lord, who led a criminal empire from his palace on the world of Tatooine where he controlled the bulk…",
+   "url": "https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure"
+  },
+  {
+   "id": "zare-leonis",
+   "name": "Zare Leonis",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d2/ZareLeonis-FFp79.png/revision/latest/scale-to-width-down/421?cb=20220817024459",
+   "summary": "Zare Leonis was a male human Imperial cadet at the Academy for Young Imperials on the planet Lothal who worked as a spy for the rebels. Born to Leo and Tepha Leonis on the planet Uquine, Leonis and his family traveled as part of their work for the Empire before settling on Lothal. Leonis joined the planet's…",
+   "url": "https://starwars.fandom.com/wiki/Zare_Leonis"
+  },
+  {
+   "id": "rae-sloane",
+   "name": "Rae Sloane",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fa/RaeSloane-WOTG.png/revision/latest/scale-to-width-down/375?cb=20260119011959",
+   "summary": "Rae Sloane was a human female dedicated to serving the Galactic Empire as a naval officer. She was instrumental in its survival in the aftermath of the Battle of Endor. While an Imperial cadet at the Defiance Flight Training Institute, she foiled a plot by Commandant Pell Baylo to assassinate Emperor Palpatine and…",
+   "url": "https://starwars.fandom.com/wiki/Rae_Sloane"
+  },
+  {
+   "id": "pre-vizsla",
+   "name": "Pre Vizsla",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/PreVizsla-Eminence.png/revision/latest/scale-to-width-down/375?cb=20131024191840",
+   "summary": "Pre Vizsla was a human male Mandalorian warrior who, during the final years of the Galactic Republic Era, led the terrorist organization known as the Death Watch and briefly ruled as the Mand'alor before his death. A descendant of the ancient Mandalorian ruler Tarre Vizsla, Pre Vizsla's rise to prominence came with…",
+   "url": "https://starwars.fandom.com/wiki/Pre_Vizsla"
+  },
+  {
+   "id": "knights-of-ren",
+   "name": "Knights of Ren",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/46/KnightsOfRen-DB.png/revision/latest/scale-to-width-down/500?cb=20220509230610",
+   "summary": "The Knights of Ren were masked marauders from the Unknown Regions of the galaxy. They did not adhere to any code and were willing to do anything to prevail. Despite this, they were warriors devoteed the \"shadow\" imbued with the power of the Force. Their leadership was symbolized by the red-bladed lightsaber. The…",
+   "url": "https://starwars.fandom.com/wiki/Knights_of_Ren"
+  },
+  {
+   "id": "keeve-trennis",
+   "name": "Keeve Trennis",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/a5/KeeveTrennis-THRTheFinale1.png/revision/latest/scale-to-width-down/392?cb=20250907075510",
+   "summary": "Keeve Trennis was a human female Jedi Master who lived during the High Republic Era. Originally the Padawan of the Trandoshan Jedi Master Sskeer, Trennis rose to the rank of Jedi Knight in 232 BBY after saving a city of diminuitive Ximpi on the planet Shuraden from space-faring ridadi. She found herself stationed…",
+   "url": "https://starwars.fandom.com/wiki/Keeve_Trennis"
+  },
+  {
+   "id": "adi-gallia",
+   "name": "Adi Gallia",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/AdiGallia2-SWE.png/revision/latest/scale-to-width-down/434?cb=20240922163922",
+   "summary": "Adi Gallia was a Force-sensitive Tholothian female Jedi Master of the Jedi Order and member of the Jedi High Council during the final decades of the Galactic Republic Era. Born into an upper-class diplomatic family on the Republic capital of Coruscant, Gallia was highly regarded by both the Jedi and the Republic…",
+   "url": "https://starwars.fandom.com/wiki/Adi_Gallia"
+  },
+  {
+   "id": "merrin",
+   "name": "Merrin",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fb/Merrin_SWJediSurvivor.png/revision/latest/scale-to-width-down/321?cb=20230429082518",
+   "summary": "Merrin was a Dathomirian Nightsister who lived on her homeworld of Dathomir during the Imperial Era. A survivor of General Grievous' massacre of the Nightsisters during the Clone Wars, Merrin encountered the Jedi Master Taron Malicos after he crash-landed on Dathomir following the execution of Order 66 in 19 BBY,…",
+   "url": "https://starwars.fandom.com/wiki/Merrin"
+  },
+  {
+   "id": "skywalker-lightsaber",
+   "name": "Skywalker lightsaber",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d9/SkywalkerLightsaberRepaired-SW100Objects.png/revision/latest/scale-to-width-down/166?cb=20230420131754",
+   "summary": "The Skywalker lightsaber, also known at various times as Anakin's, Luke's, and Rey's lightsaber, was a blue-bladed Jedi lightsaber constructed by Anakin Skywalker—Jedi Knight and prophesied Chosen One of the Force—during the final years of the Republic Era. Built as a replacement for his first lightsaber, Anakin…",
+   "url": "https://starwars.fandom.com/wiki/Skywalker_lightsaber"
+  },
+  {
+   "id": "shaak-ti",
+   "name": "Shaak Ti",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/84/Shaak_Ti_Card_Trader.png/revision/latest/scale-to-width-down/343?cb=20251109005332",
+   "summary": "Shaak Ti ( pronounced /ʃɑk ti/) was a Force-sensitive Togruta female Jedi Master who served as one of the final members of the Jedi High Council before the Great Jedi Purge. Highly regarded amongst the Jedi Order for her wisdom, Ti excelled as a teacher and was a highly skilled combatant and swordsman, as well as a…",
+   "url": "https://starwars.fandom.com/wiki/Shaak_Ti"
+  },
+  {
+   "id": "hunter",
+   "name": "Hunter",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/dc/OldHunter-TBB-Cavalry.png/revision/latest/scale-to-width-down/381?cb=20260106045022",
+   "summary": "Hunter, formerly designated CT-9901, was a veteran Clone Sergeant who served as the commanding officer of Clone Force 99 in the Grand Army of the Republic during the Clone Wars, fought between the Galactic Republic and the Confederacy of Independent Systems. He was genetically altered to have heightened senses and…",
+   "url": "https://starwars.fandom.com/wiki/Hunter"
+  },
+  {
+   "id": "onaconda-farr",
+   "name": "Onaconda Farr",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/OnacondaFarr-SM.png/revision/latest/scale-to-width-down/375?cb=20221219145819",
+   "summary": "Onaconda Farr, also known by the nickname \"Ono,\" was a Rodian male politician and statesman who represented his homeworld of Rodia and the greater Savareen sector in the Republic Senate during the final decades of the Galactic Republic Era. Though a complicated and self-conscious individual in private, Farr was an…",
+   "url": "https://starwars.fandom.com/wiki/Onaconda_Farr"
+  },
+  {
+   "id": "armitage-hux",
+   "name": "Armitage Hux",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d0/HuxTLJPromo.png/revision/latest/scale-to-width-down/352?cb=20250815234411",
+   "summary": "Armitage Hux was a human male who served as a general in the military forces of the First Order during the New Republic Era. With the support of Supreme Leader Snoke, Hux took command of Starkiller Base and promoted the development of new technology that allowed the First Order fleet to track targets through…",
+   "url": "https://starwars.fandom.com/wiki/Armitage_Hux"
+  },
+  {
+   "id": "naboo",
+   "name": "Naboo",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f0/Naboo_planet.png/revision/latest/scale-to-width-down/500?cb=20251122020213",
+   "summary": "Naboo was a bountiful planet in the Chommell sector of the Mid Rim, in the Trailing Sectors and close to the border of the Outer Rim Territories. It was home to the indigenous Gungan species and to a population of humans known as the Naboo. Naboo was pushed to the forefront of galactic politics as the birthplace of…",
+   "url": "https://starwars.fandom.com/wiki/Naboo"
+  },
+  {
+   "id": "jyn-erso",
+   "name": "Jyn Erso",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b3/JynErsoPromo.png/revision/latest/scale-to-width-down/334?cb=20180211063950",
+   "summary": "Jyn Erso, known by the aliases Kestrel Dawn, Jyn Dawn, Tanith Ponta, Liana Hallik, Lyra Rallik, and Nari McVee, was a human female soldier and former criminal who became a pivotal member of the Alliance to Restore the Republic when she led Rogue One in stealing the Death Star plans during the Battle of Scarif. She…",
+   "url": "https://starwars.fandom.com/wiki/Jyn_Erso"
+  },
+  {
+   "id": "mas-amedda",
+   "name": "Mas Amedda",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/37/Mas_Amedda_SWCT.png/revision/latest/scale-to-width-down/444?cb=20240803045307",
+   "summary": "Mas Amedda was a Chagrian male politician who served as Vice Chair of the Galactic Republic during the late Republic Era and later as the Grand Vizier of the Galactic Empire. Hailing from the Inner Rim planet Champala, Amedda rose to the position of Vice Chair of the Republic Senate with his impeccable political…",
+   "url": "https://starwars.fandom.com/wiki/Mas_Amedda"
+  },
+  {
+   "id": "even-piell",
+   "name": "Even Piell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/ea/EvenPiellInfobox-SWE.png/revision/latest/scale-to-width-down/361?cb=20240209023854",
+   "summary": "Even Piell, a Force-sensitive Lannik male, was a Jedi Master who served as a senior member of the Jedi High Council in the final decades of the Galactic Republic Era. A native of the politically unstable planet Lannik, the battle-hardened Piell was regarded as brusque and bellicose and was renowned as a warrior and…",
+   "url": "https://starwars.fandom.com/wiki/Even_Piell"
+  },
+  {
+   "id": "avar-kriss",
+   "name": "Avar Kriss",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e4/AvarKriss-SWULotF.png/revision/latest/scale-to-width-down/375?cb=20260814230909",
+   "summary": "Avar Kriss was a human female Jedi Master of the Jedi Order during the High Republic Era. Noble and selfless, Kriss was an inspiration to many of her fellow Jedi. She served on the Starlight Beacon, a space station on the frontier of the galaxy. Kriss was heavily involved in the aftermath of the hyperspace…",
+   "url": "https://starwars.fandom.com/wiki/Avar_Kriss"
+  },
+  {
+   "id": "cad-bane",
+   "name": "Cad Bane",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9a/CadBane-Bravura.png/revision/latest/scale-to-width-down/439?cb=20260214050607",
+   "summary": "Cad Bane, formerly known as Colby, was a Duros male bounty hunter and mercenary in the galaxy whose career spanned from the fall of the Galactic Republic, the reign of the Galactic Empire and into the era of the New Republic. Once a street rat, Bane first became involved in criminal activity when he joined the…",
+   "url": "https://starwars.fandom.com/wiki/Cad_Bane"
+  },
+  {
+   "id": "kelnacca",
+   "name": "Kelnacca",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4d/Kelnacca-OfficialAcolyteX.png/revision/latest/scale-to-width-down/375?cb=20240617221646",
+   "summary": "Kelnacca was a Force-sensitive Wookiee who served as a Jedi Master of the Jedi Order during the High Republic Era. In 230 BBY, Kelnacca was sent to the crash site of the Starlight Beacon space station on the planet Eiram to help with the relief effort. There, he was introduced to Padawan Yarzion Vell, whose master…",
+   "url": "https://starwars.fandom.com/wiki/Kelnacca"
+  },
+  {
+   "id": "ruescott-melshi",
+   "name": "Ruescott Melshi",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3b/MelshiGunpointClose-Andor-JedhaKyberErso.png/revision/latest/scale-to-width-down/402?cb=20250516095806",
+   "summary": "Ruescott Melshi was a human male who, growing up, came to resent the Galactic Empire, the successor state of the Galactic Republic. By 5 BBY, he was imprisoned and forced to labor at the Imperial Prison Complex on the moon Narkina 5, producing complex machinery bound for the Empire's secret superweapon, the Death…",
+   "url": "https://starwars.fandom.com/wiki/Ruescott_Melshi"
+  },
+  {
+   "id": "cere-junda",
+   "name": "Cere Junda",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/31/CereJundaPose-JediSurvivor.png/revision/latest/scale-to-width-down/375?cb=20250308170605",
+   "summary": "Cere Junda was a Force-sensitive human female Jedi Master who mentored Padawan Cal Kestis in the ways of the Force during the rise of the Galactic Empire. At one time she was trained as the Padawan of Jedi Master Eno Cordova, before graduating to the rank of Jedi Knight and taking Trilla Suduri as her own apprentice.",
+   "url": "https://starwars.fandom.com/wiki/Cere_Junda"
+  },
+  {
+   "id": "qi-ra",
+   "name": "Qi'ra",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/05/QiraDress-SWI185.png/revision/latest/scale-to-width-down/375?cb=20260614213214",
+   "summary": "Lady Qi'ra was a human female crime lord from the planet Corellia who lived during the reign of the Galactic Empire. She grew up on the streets along with Han as part of the White Worms. Though they were at first rivals, the two scrumrats eventually became lovers. Sometime after Qi'ra was made Head Girl by Lady…",
+   "url": "https://starwars.fandom.com/wiki/Qi'ra"
+  },
+  {
+   "id": "ochi",
+   "name": "Ochi",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/10/OchiIsASquare-CEUEEd.png/revision/latest/scale-to-width-down/375?cb=20241123194709",
+   "summary": "Ochi, known as Ochi of Bestoon, was a Bestoonian male Sith assassin and Jedi hunter from the planet Bestoon with a career spanning decades, from the twilight of the Galactic Republic, and the subsequent rise of the Galactic Empire to the era of the New Republic. Ochi possessed a personal Sith dagger used to commit…",
+   "url": "https://starwars.fandom.com/wiki/Ochi"
+  },
+  {
+   "id": "jedha",
+   "name": "Jedha",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/38/Jedha-2015StarWars38.png/revision/latest/scale-to-width-down/500?cb=20240114021800",
+   "summary": "Jedha, also known as the Pilgrim Moon, the Cold Moon, or the Kyber Heart, and formerly known as NiJedha, was a small desert moon which orbited the planet NaJedha. Located in the Jedha system of the galaxy's Mid Rim, the moon had a cold climate due to its lasting winter. The historical and spiritual significance of…",
+   "url": "https://starwars.fandom.com/wiki/Jedha"
+  },
+  {
+   "id": "temmin-wexley",
+   "name": "Temmin Wexley",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/22/SnapWexley-SWI198.png/revision/latest/scale-to-width-down/375?cb=20201114055022",
+   "summary": "Temmin \"Snap\" Wexley was a human male who lived during the Age of the Empire and the time of the New Republic. At a young age, Temmin was separated from his parents after his father Brentin was taken away by the Galactic Empire and his mother Norra Wexley joined the Rebel Alliance. He became an independent…",
+   "url": "https://starwars.fandom.com/wiki/Temmin_Wexley"
+  },
+  {
+   "id": "greez-dritus",
+   "name": "Greez Dritus",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/68/GreezHeadshot-JediSurvivor.png/revision/latest/scale-to-width-down/389?cb=20260321160849",
+   "summary": "Greez Dritus was a Latero male who lived during the end of the Galactic Republic and into the Imperial Era. He was captain of the Stinger Mantis, a luxury yacht with controls customized for piloting with his four arms. The former Jedi Cere Junda, on a personal mission to rebuild the Jedi Order, hired him as her…",
+   "url": "https://starwars.fandom.com/wiki/Greez_Dritus"
+  },
+  {
+   "id": "wedge-antilles",
+   "name": "Wedge Antilles",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/WedgeAntilles-Masterwork2020.png/revision/latest/scale-to-width-down/393?cb=20241228034128",
+   "summary": "Wedge Antilles, known as TIE SS-2-5 during his time at Skystrike Academy, was a renowned human male starfighter pilot from Corellia who first served in the Imperial Navy as a TIE fighter pilot until defecting to join the rebellion. He would also serve in the Alliance to Restore the Republic and years later the New…",
+   "url": "https://starwars.fandom.com/wiki/Wedge_Antilles"
+  },
+  {
+   "id": "plo-koon",
+   "name": "Plo Koon",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png/revision/latest/scale-to-width-down/375?cb=20251218183946",
+   "summary": "Plo Koon was a Force-sensitive Kel Dor Jedi Master who served as a noble member of the Jedi High Council during the last years of the Galactic Republic. He served as a respected Jedi General during the Clone Wars, a pan-galactic conflict between the Republic and its splinter state, the Confederacy of Independent…",
+   "url": "https://starwars.fandom.com/wiki/Plo_Koon"
+  },
+  {
+   "id": "yarael-poof",
+   "name": "Yarael Poof",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/YaraelPoof-SWCT.png/revision/latest/scale-to-width-down/376?cb=20251107071536",
+   "summary": "Yarael Poof was a Quermian Jedi Master who served on the Jedi High Council during the High Republic Era through the final years of the Galactic Republic. He was both an expert practitioner of Jedi mind tricks and illusions and a skilled diplomat and teacher. Following the Great Hyperspace Disaster, Chancellor Lina…",
+   "url": "https://starwars.fandom.com/wiki/Yarael_Poof"
+  },
+  {
+   "id": "crosshair",
+   "name": "Crosshair",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/7f/Crosshair-TBBs2.png/revision/latest/scale-to-width-down/375?cb=20260106045740",
+   "summary": "Crosshair, formerly designated CT-9904, was a veteran clone commando who served in the Grand Army of the Republic during the Clone Wars as part of Clone Force 99. Crosshair possessed genetic mutations that gave him exceptional eyesight and marksmanship skills. As a result, he acted as a sniper and a long-range…",
+   "url": "https://starwars.fandom.com/wiki/Crosshair"
+  },
+  {
+   "id": "dathomir",
+   "name": "Dathomir",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/34/DathomirJFO.jpg/revision/latest/scale-to-width-down/500?cb=20200222032237",
+   "summary": "Dathomir was a remote, verdant, and dangerous planet of the Dathomir system in the Outer Rim Territories' Quelii sector. Strongly influenced by the dark side of the Force, the world had varied terrains all dimly bathed in blood-red light, and it was home to plenty of vegetation and predators who preyed on each…",
+   "url": "https://starwars.fandom.com/wiki/Dathomir"
+  },
+  {
+   "id": "arihnda-pryce",
+   "name": "Arihnda Pryce",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/af/GovernorPryce-TotOR2023.png/revision/latest/scale-to-width-down/375?cb=20251207040149",
+   "summary": "Arihnda Pryce was a Lothalite human female who served as the Galactic Empire's imperial Governor of the planet Lothal under the jurisdiction of Moff Stattata. Deceitful and opportunistic, Pryce rose to political power and gained the position of Planetary Governor through underhanded tactics and power plays. Under…",
+   "url": "https://starwars.fandom.com/wiki/Arihnda_Pryce"
+  },
+  {
+   "id": "breha-organa",
+   "name": "Breha Organa",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/62/BrehaOrgana-DoRTVG.png/revision/latest/scale-to-width-down/330?cb=20250108072726",
+   "summary": "Breha Organa was a human female Alderaanian who served as queen of her homeworld of Alderaan during the final decades of the Galactic Republic and was one of the founding members of the Alliance to Restore the Republic. Following the rise of the Galactic Empire at the end of the Clone Wars, Alderaan became a source…",
+   "url": "https://starwars.fandom.com/wiki/Breha_Organa"
+  },
+  {
+   "id": "ghost",
+   "name": "Ghost",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/Ghost-CGSWG.png/revision/latest/scale-to-width-down/500?cb=20241213072753",
+   "summary": "The Ghost was a modified VCX-100 light freighter owned by the Twi'lek Hera Syndulla that was used by the Spectres rebel cell during the Age of the Empire. As part of the rebellion, the Ghost saw actions on numerous missions and skirmishes against the forces of the Galactic Empire. The Ghost also had an auxiliary…",
+   "url": "https://starwars.fandom.com/wiki/Ghost"
+  },
+  {
+   "id": "lothal",
+   "name": "Lothal",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/ac/Lothal-SM.png/revision/latest/scale-to-width-down/500?cb=20200909025000",
+   "summary": "Lothal was a planet in the Outer Rim Territories. During the early years of the Galactic Empire, Lothal was in a state of economic disrepair and invited the Empire to take over the planet's industries, with the promise of prosperity and security. Although many people said the Empire would bring doom, their…",
+   "url": "https://starwars.fandom.com/wiki/Lothal"
+  },
+  {
+   "id": "sana-starros",
+   "name": "Sana Starros",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/19/SanaStarros-2015StarWars42.png/revision/latest/scale-to-width-down/374?cb=20230716065833",
+   "summary": "Sana Starros, also called Sanisi by her family, was a human female who lived during the time of the Galactic Civil War. She was once a student at the University of Bar'leth, where she had a romantic relationship with Chelli Lona Aphra. Later, she claimed to be married to Han Solo, though he denied it, and…",
+   "url": "https://starwars.fandom.com/wiki/Sana_Starros"
+  },
+  {
+   "id": "pijal",
+   "name": "Pijal",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/33/PijalCover.jpg/revision/latest/scale-to-width-down/349?cb=20210404112612",
+   "summary": "Pijal was a terrestrial planet located in the Inner Rim Territories' Pijal system that was connected to the hyperspace route known as the Pijal Hyperspace Corridor. The world had a moon nearly as large as itself and was affected by solar flares from its sun roughly every decade. Pijal's surface consisted of small,…",
+   "url": "https://starwars.fandom.com/wiki/Pijal"
+  },
+  {
+   "id": "lightsaber-combat",
+   "name": "Lightsaber combat",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/81/Kenobi_Mustafar.jpg/revision/latest?cb=20210327221125",
+   "summary": "Lightsaber combat occurred when two or more opponents using lightsabers, or at least one of the combatants used a lightsaber while the other used a different bladed weapon, engaged in a duel. Such opponents were often, though not always, Sith and Jedi. Though lightsaber combat decided the results of some important…",
+   "url": "https://starwars.fandom.com/wiki/Lightsaber_combat"
+  },
+  {
+   "id": "darksaber",
+   "name": "Darksaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4c/Darksaber-SWGE.png/revision/latest/scale-to-width-down/500?cb=20250601050517",
+   "summary": "The Darksaber was an ancient and unique black-bladed lightsaber created by Tarre Vizsla, the first Mandalorian ever inducted into the Jedi Order, around 1050 BBY. The weapon was kept in the Jedi Temple after Vizsla's passing, but members of House Vizsla stole the saber in a conflict with the Jedi during the fall of…",
+   "url": "https://starwars.fandom.com/wiki/Darksaber"
+  },
+  {
+   "id": "darth-vader-s-lightsaber",
+   "name": "Darth Vader's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/8e/VadersLightsaber-DB.png/revision/latest/scale-to-width-down/500?cb=20221116043952",
+   "summary": "Darth Vader's lightsaber was the third and final lightsaber personally built by Anakin Skywalker after he became Darth Vader, a Sith Lord who served as Darth Sidious' last apprentice and Commander-in-Chief of the Galactic Empire's military. He built the weapon after he lost his previous lightsaber during a skirmish…",
+   "url": "https://starwars.fandom.com/wiki/Darth_Vader's_lightsaber"
+  },
+  {
+   "id": "imperial-holdouts",
+   "name": "Imperial holdouts",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/2e/Imperialcrest-RiseandFallPreCover.png/revision/latest/scale-to-width-down/500?cb=20260425011824",
+   "summary": "Imperial holdouts, also known as Imperial remnants or as Imperial hideouts, were various fractured political and military remnants of the Galactic Empire which emerged following its collapse and prevailed throughout the first few years of the New Republic Era.",
+   "url": "https://starwars.fandom.com/wiki/Imperial_holdouts"
+  },
+  {
+   "id": "braha-tok-class-gunship",
+   "name": "Braha'tok-class gunship",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e6/Brahatok-classGunship-Fathead.png/revision/latest/scale-to-width-down/500?cb=20230802024254",
+   "summary": "The Braha'tok-class gunship, also known as the Dornean gunship or shortened to Braha'tok, was a model of gunship designed by the Dornean species and built by the Dornean Braha'ket Fleetworks Conglomerate to protect the Dornean homeworld, Dornea, and its star system from the Galactic Empire. Standing at 90 meters…",
+   "url": "https://starwars.fandom.com/wiki/Braha'tok-class_gunship"
+  },
+  {
+   "id": "pelta-class-frigate",
+   "name": "Pelta-class frigate",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/36/TB73-TCWS2E08.jpg/revision/latest/scale-to-width-down/500?cb=20110918051056",
+   "summary": "The Pelta-class frigate was a versatile and long-used model of frigate manufactured by Kuat Drive Yards that had several different configured variants. During the Clone Wars between the Galactic Republic and Separatist Alliance, the frigates were used by the Republic Navy as a critical component of its war effort.…",
+   "url": "https://starwars.fandom.com/wiki/Pelta-class_frigate"
+  },
+  {
+   "id": "yoda-s-species",
+   "name": "Yoda's species",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Yoda_TPM_RotS.png/revision/latest/scale-to-width-down/375?cb=20130810185858",
+   "summary": "The species to which the Jedi Grand Master Yoda belonged was ancient and shrouded in mystery. Members of this species were rarely seen anywhere in the galaxy. The few members of this species seen in the galaxy were all Force-sensitive, and the species' homeworld and name were unknown.",
+   "url": "https://starwars.fandom.com/wiki/Yoda's_species"
+  },
+  {
+   "id": "jedi-vector",
+   "name": "Jedi Vector",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/c1/JediVector-CGSWG.png/revision/latest/scale-to-width-down/500?cb=20241130005638",
+   "summary": "The Vector was instrumental in rescue operations during the Great Hyperspace Disaster of the Hetzal system and the catastrophes known as Emergences that followed. After the freighter Legacy Run was mysteriously destroyed in hyperspace, passenger compartments and debris from the ship began to enter realspace across…",
+   "url": "https://starwars.fandom.com/wiki/Jedi_Vector"
+  },
+  {
+   "id": "quarren",
+   "name": "Quarren",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/15/The_Quarren.png/revision/latest/scale-to-width-down/399?cb=20151124051036",
+   "summary": "The Quarren were a bipedal squid-like species with four facial tentacles which protruded from their lower jaw. Their skin-color range included various hues of orange, salmon, tan, pink, and purple. They had a pair of deep turquoise eyes, finned hands with suction-tipped fingers, and small tusks on their mouth. In…",
+   "url": "https://starwars.fandom.com/wiki/Quarren"
+  },
+  {
+   "id": "ginivex-class-fanblade-starfighter",
+   "name": "Ginivex-class fanblade starfighter",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/2e/Fanblade_fighter_TVE.png/revision/latest/scale-to-width-down/285?cb=20250928043410",
+   "summary": "The Ginivex-class fanblade starfighter, also known as the Ginivex series and the Geonosian fanblade starfighter, was a model of starfighter manufactured by Huppla Pasa Tisc Shipwrights Collective. It was flown by Sith apprentice and Separatist commander Asajj Ventress during the Clone Wars against the Galactic…",
+   "url": "https://starwars.fandom.com/wiki/Ginivex-class_fanblade_starfighter"
+  },
+  {
+   "id": "superweapon",
+   "name": "Superweapon",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/80/ElectroProtonBomb-EG.jpg/revision/latest/scale-to-width-down/500?cb=20100411165735",
+   "summary": "Superweapons or megaweapons were weapons of extremely devastating power, ranging from the capacity to destroy a city to entire planets.",
+   "url": "https://starwars.fandom.com/wiki/Superweapon"
+  },
+  {
+   "id": "gr-75-medium-transport",
+   "name": "GR-75 medium transport",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/44/RebelTransport-CGSWG.png/revision/latest/scale-to-width-down/500?cb=20250407140245",
+   "summary": "The GR-75 medium transport, sometimes referred to as the Gallofree transport, was a transport designed and constructed by Gallofree Yards, Inc.. They were lightly armed with a clamshell-like hull to protect the cargo pods it carried. They could not reach anymore than 650 kilometers per hour and had a class 4…",
+   "url": "https://starwars.fandom.com/wiki/GR-75_medium_transport"
+  },
+  {
+   "id": "dooku-s-lightsaber",
+   "name": "Dooku's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/03/CountDookusLightsaber-DB.png/revision/latest/scale-to-width-down/500?cb=20230409213029",
+   "summary": "Dooku's lightsaber, also known as Darth Tyranus' lightsaber, or Dooku's Sith lightsaber, was the personal curved-hilt lightsaber of Dooku, the Count of Serenno. The former Jedi Master, who became Darth Tyranus and the political leader of the Separatist Alliance, had originally constructed the weapon's unusual hilt…",
+   "url": "https://starwars.fandom.com/wiki/Dooku's_lightsaber"
+  },
+  {
+   "id": "n-1-starfighter",
+   "name": "N-1 starfighter",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d3/N-1_BF2.png/revision/latest/scale-to-width-down/500?cb=20170825000654",
+   "summary": "The N-1 starfighter, also referred to as the Royal Naboo N-1 starfighter, Naboo N-1 starfighter, Naboo starfighter, N-1 fighter, or more simply, the N-1, was a single seat patrol craft developed by the Theed Palace Space Vessel Engineering Corps and used by the Royal Naboo Security Forces.",
+   "url": "https://starwars.fandom.com/wiki/N-1_starfighter"
+  },
+  {
+   "id": "sarlacc",
+   "name": "Sarlacc",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fd/Sarlacc-BTM-DB.png/revision/latest/scale-to-width-down/500?cb=20130401044241",
+   "summary": "Sarlaccs were dangerous, carnivorous creatures located on Tatooine and several other planets throughout the galaxy. It shared common ancestry with other species, including the rathtar, blixus, and vixus. One sarlacc identified as the \"almighty Sarlacc\" lived in the Great Pit of Carkoon, a depression of sand within…",
+   "url": "https://starwars.fandom.com/wiki/Sarlacc"
+  },
+  {
+   "id": "st-70-m-111-razor-crest-series",
+   "name": "ST-70 M-111 Razor Crest series",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/7a/RazorCrest-DB.png/revision/latest/scale-to-width-down/500?cb=20220201130550",
+   "summary": "The ST-70 M-111 Razor Crest series, also known as the ST-70 assault ship, ST-70 Razor Crest assault ship or simply as the ST-70 class, was a class of gunship manufactured by the Corellian Engineering Corporation. Ships of the class were sometimes informally referred to as a \"Razor Crest\". Its usage predated the…",
+   "url": "https://starwars.fandom.com/wiki/ST-70_M-111_Razor_Crest_series"
+  },
+  {
+   "id": "v-19-torrent-starfighter",
+   "name": "V-19 Torrent starfighter",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/57/V-19Torrent-TCW.png/revision/latest/scale-to-width-down/500?cb=20241230003503",
+   "summary": "The V-19 Torrent starfighter, or the V-19 Torrent Interceptor, was a sturdy, fast, and long-range space superiority starfighter produced by Slayn & Korpil for the Galactic Republic's naval forces. It possessed a flat, broad and roughly square-shaped fuselage with a cockpit mounted far aft on the starfighter's…",
+   "url": "https://starwars.fandom.com/wiki/V-19_Torrent_starfighter"
+  },
+  {
+   "id": "darth-maul-s-double-bladed-lightsaber",
+   "name": "Darth Maul's double-bladed lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d5/Darth_Maul_Lightsaber_DB.png/revision/latest/scale-to-width-down/500?cb=20231227015442",
+   "summary": "Darth Maul's double-bladed lightsaber, also known as Maul's saberstaff, was the first personal double-bladed lightsaber of Darth Maul, a Sith Lord who took part in the Invasion of Naboo and the Clone Wars. The Sith lightsaber was cut in half by Obi-Wan Kenobi during their duel on Naboo, and Maul continued to use…",
+   "url": "https://starwars.fandom.com/wiki/Darth_Maul's_double-bladed_lightsaber"
+  },
+  {
+   "id": "z-28-skywing",
+   "name": "Z-28 Skywing",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d4/Z28Skywing-2021THR1.png/revision/latest?cb=20210113062525",
+   "summary": "The Z-28 Skywing was a model of starfighter utilized by the Galactic Republic during the High Republic Era. Produced by Incom Corporation, the fighters had an arrowhead shape. The Republic possessed direct control of a number of Skywings, while further squadrons of Skywings were owned by the member worlds of the…",
+   "url": "https://starwars.fandom.com/wiki/Z-28_Skywing"
+  },
+  {
+   "id": "marrok-s-lightsaber",
+   "name": "Marrok's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/98/MarroksLightsaber-Ahsoka.png/revision/latest/scale-to-width-down/500?cb=20250709040747",
+   "summary": "Marrok's lightsaber was the red double-bladed spinning lightsaber owned by the Inquisitor Marrok, once known as the First Brother. Marrok continued to use the lightsaber after becoming a mercenary by 9 ABY. The saber was capable of switching between crescent mode, single-bladed, and disk mode double-bladed. While…",
+   "url": "https://starwars.fandom.com/wiki/Marrok's_lightsaber"
+  },
+  {
+   "id": "evereni",
+   "name": "Evereni",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/51/YanaRo-CGSWG.png/revision/latest/scale-to-width-down/268?cb=20250105043733",
+   "summary": "The Evereni were a sentient humanoid nomadic species, distinguished by their slate-gray skin and pitch-black eyes. They once hailed from the planet Everon before the Great Storm ravaged their homeworld, which led to centuries of wars between the Evereni people and ultimately forced the survivors to flee into the…",
+   "url": "https://starwars.fandom.com/wiki/Evereni"
+  },
+  {
+   "id": "bomber",
+   "name": "Bomber",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/62/Y-Wing-Fighter-SWCT.png/revision/latest/scale-to-width-down/500?cb=20251208041646",
+   "summary": "Bombers were starships designed to strike heavily armored targets, like capital ships or ground artillery. Most of these ships were armed with projectile weapons, such as proton torpedoes, proton bombs, and concussion missiles. Even externally-mounted cargo containers could be used for bombing runs.",
+   "url": "https://starwars.fandom.com/wiki/Bomber"
+  },
+  {
+   "id": "yoda-s-lightsaber",
+   "name": "Yoda's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/ca/Yoda_lightsaber.png/revision/latest/scale-to-width-down/500?cb=20250510235556",
+   "summary": "Yoda's lightsaber smaller size was a unique quality matching its wielder's small stature. The weapon had a simple design, consisting of a studded chrome handle with black trim and an emitter shroud. It contained a kyber crystal that put forth a bright green plasma blade.",
+   "url": "https://starwars.fandom.com/wiki/Yoda's_lightsaber"
+  },
+  {
+   "id": "hmp-droid-gunship",
+   "name": "HMP droid gunship",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/6d/DroidGunship-DB.png/revision/latest/scale-to-width-down/500?cb=20241003001621",
+   "summary": "The HMP (Heavy Missile Platform) droid gunship, also known as the HMP Predator gunship, Droid Heavy Missile Platform, or droid gunship, was a model of repulsorlift airspeeder created by Geonosians and manufactured by Baktoid Fleet Ordnance and Haor Chall Engineering Corporation. Operated by an advanced droid brain,…",
+   "url": "https://starwars.fandom.com/wiki/HMP_droid_gunship"
+  },
+  {
+   "id": "low-altitude-assault-transport",
+   "name": "Low Altitude Assault Transport",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/49/LAATGunship-Convergence.png/revision/latest/scale-to-width-down/500?cb=20190616225054",
+   "summary": "The Low Altitude Assault Transport, or LAAT, was a line of gunship used by the Grand Army of the Republic. Models in the line included the Low Altitude Assault Transport carrier designed to transport a single All Terrain Tactical Enforcer and the Low Altitude Assault Transport/infantry that served mainly as a…",
+   "url": "https://starwars.fandom.com/wiki/Low_Altitude_Assault_Transport"
+  },
+  {
+   "id": "z-95-headhunter",
+   "name": "Z-95 Headhunter",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/8e/OuterRimHeadhunter-SoR.png/revision/latest/scale-to-width-down/500?cb=20261006132405",
+   "summary": "The Z-95 Headhunter, also referred to as the Z-95 starfighter or simply the Z-95, was a multi-purpose starfighter jointly manufactured by Incom Corporation and Sublights Products Corporation. Despite being considered outdated, the Z-95 was durable and adaptable to a variety of different roles, which led many to…",
+   "url": "https://starwars.fandom.com/wiki/Z-95_Headhunter"
+  },
+  {
+   "id": "darth-sidious-lightsabers",
+   "name": "Darth Sidious' lightsabers",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/7d/DarthSidiousLightsaber-SW100Objects.png/revision/latest/scale-to-width-down/500?cb=20230419231248",
+   "summary": "Darth Sidious' lightsabers were the pair of nearly identical personal electrum-finish lightsabers of Darth Sidious, built during his apprenticeship under Darth Plagueis. Although a skilled and deadly combatant, Sidious rarely used his weapons—only doing so when absolutely necessary—as he would have been immediately…",
+   "url": "https://starwars.fandom.com/wiki/Darth_Sidious'_lightsabers"
+  },
+  {
+   "id": "interdictor-class-star-destroyer",
+   "name": "Interdictor-class Star Destroyer",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e2/InterdictorClassSD-EGTW.png/revision/latest/scale-to-width-down/500?cb=20211203104222",
+   "summary": "The Interdictor-class Star Destroyer was a model of Star Destroyer derived from the Imperial-class Star Destroyer that was active during the Imperial Era. The Galactic Empire utilized the Interdictor-class and the other models of the Imperial-class to inspect vessels along their patrol routes. An Interdictor…",
+   "url": "https://starwars.fandom.com/wiki/Interdictor-class_Star_Destroyer"
+  },
+  {
+   "id": "fang-class-protectorate-fighter",
+   "name": "Fang-class Protectorate fighter",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/5e/FangFighrter-SWESOV.png/revision/latest/scale-to-width-down/500?cb=20250927202745",
+   "summary": "Fang fighters were fast and highly maneuverable starship designed specifically for combat. The craft's narrow attack profile and swivel-mounted wings that provided vectored-thrust control gave the fighter unmatched agility.",
+   "url": "https://starwars.fandom.com/wiki/Fang-class_Protectorate_fighter"
+  },
+  {
+   "id": "reva-s-lightsaber",
+   "name": "Reva's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4d/RevasLightsaber-SW100Objects.png/revision/latest/scale-to-width-down/500?cb=20250222162547",
+   "summary": "While many Inquisitors carried their lightsabers on their backs, the Third Sister kept hers hang on her right side. The saber was able to be split into two separate blades with the ringed emitter retracting at the sides so the hilt can extend and split apart. This allowed Reva to utilize her Jar'Kai skills, which…",
+   "url": "https://starwars.fandom.com/wiki/Reva's_lightsaber"
+  },
+  {
+   "id": "law-enforcement-agency",
+   "name": "Law enforcement agency",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4f/Divoanddroids.png/revision/latest/scale-to-width-down/500?cb=20130507044431",
+   "summary": "A law enforcement agency, also referred to as a planetary security force, police force, or security force, was an organization charged with enforcing laws, maintaining order, and protecting life and property. They were staffed by police officers or some cases soldiers and were generally structured as a paramilitary…",
+   "url": "https://starwars.fandom.com/wiki/Law_enforcement_agency"
+  },
+  {
+   "id": "sol-s-lightsaber",
+   "name": "Sol's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e2/SolLightsaber-SDCC.png/revision/latest/scale-to-width-down/183?cb=20240729010530",
+   "summary": "The damaged weapon was retrieved by Sol's former Jedi Padawan, and Mae's twin, Verosha Aniseya, who bled its kyber crystal while Force choking Sol for his part in the murder of the twins' mother and as an outburst of her other complex emotions, pain, and anger. Afterwards, Osha took the weapon with her when…",
+   "url": "https://starwars.fandom.com/wiki/Sol's_lightsaber"
+  },
+  {
+   "id": "eleventh-brother-s-lightsaber",
+   "name": "Eleventh Brother's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/98/EleventhBrothersLightsaber-Resolve.png/revision/latest/scale-to-width-down/500?cb=20241115095439",
+   "summary": "A double-bladed spinning lightsaber was utilized by the Eleventh Brother during his time as an Inquisitor of the Galactic Empire. It was similar in appearance to other double-bladed spinning lightsabers wielded by Inquisitors.",
+   "url": "https://starwars.fandom.com/wiki/Eleventh_Brother's_lightsaber"
+  },
+  {
+   "id": "vernestra-rwoh-s-purple-bladed-lightsaber",
+   "name": "Vernestra Rwoh's purple-bladed lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4c/VernestraRwohsLightsaber-THRLightsaberCollection.png/revision/latest/scale-to-width-down/500?cb=20250510235310",
+   "summary": "Vernestra Rwoh's purple-bladed lightsaber, also known as Vernestra Rwoh's lightsaber, or as Vernestra's lightsaber, was a purple-bladed lightsaber wielded by Jedi Master Vernestra Rwoh during the High Republic Era. Originally an ordinary single-bladed weapon, Rwoh modified it to be able to switch between lightsaber…",
+   "url": "https://starwars.fandom.com/wiki/Vernestra_Rwoh's_purple-bladed_lightsaber"
+  },
+  {
+   "id": "the-grand-inquisitor-s-lightsaber",
+   "name": "The Grand Inquisitor's lightsaber",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4e/GrandInquisitorLightsaber2-SWTLC.png/revision/latest/scale-to-width-down/500?cb=20220916014210",
+   "summary": "The Grand Inquisitor's lightsaber was the personal double-bladed spinning lightsaber of the Jedi hunter known as the Grand Inquisitor, similar to those wielded by the other Imperial Inquisitors.",
+   "url": "https://starwars.fandom.com/wiki/The_Grand_Inquisitor's_lightsaber"
+  },
+  {
+   "id": "tie-avenger-prototype",
+   "name": "TIE Avenger prototype",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/93/Tie_avenger_one_year_later.png/revision/latest/scale-to-width-down/500?cb=20250424011237",
+   "summary": "The TIE Avenger prototype was an experimental TIE series starfighter developed for the Galactic Empire and tested by Sienar Fleet Systems. It was heavily armed and armored, carrying an externally-mounted port side dual laser cannon, two anti-personnel rotary blaster cannons, and wing-mounted missiles and torpedoes.…",
+   "url": "https://starwars.fandom.com/wiki/TIE_Avenger_prototype"
+  },
+  {
+   "id": "tri-wing-s-91x-pegasus-starfighter",
+   "name": "Tri-Wing S-91x Pegasus Starfighter",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/cc/Tri-WingS-91xPegasusStarfighter.png/revision/latest/scale-to-width-down/500?cb=20240820234914",
+   "summary": "The Tri-Wing S-91x Pegasus Starfighter, or simply the Tri-wing, was a type of starship that was manufactured by Incom Corporation and later classified as a New Republic Light Assault Starship. It was active during the Imperial Era, with one spotted by Princess Leia Organa on Alderaan in 9 BBY. The Tri-wing…",
+   "url": "https://starwars.fandom.com/wiki/Tri-Wing_S-91x_Pegasus_Starfighter"
+  },
+  {
+   "id": "rogue-class-porax-38-starfighter",
+   "name": "Rogue-class Porax-38 starfighter",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/5a/RogueClassStarfighters-MF94.png/revision/latest/scale-to-width-down/500?cb=20260312133604",
+   "summary": "The Rogue-class Porax-38 starfighter, also known simply as the Rogue-class starfighter, Porax-38 starfighter, or P-38 fighter, was a model of starfighter manufactured by Baktoid Armor Workshop and Buuper Torsckil Abbey Devices and used by the Confederacy of Independent Systems during the Clone Wars. Often flown by…",
+   "url": "https://starwars.fandom.com/wiki/Rogue-class_Porax-38_starfighter"
+  },
+  {
+   "id": "regineer-teed-s-species",
+   "name": "Regineer Teed's species",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/32/RegineerTeed.png/revision/latest/scale-to-width-down/346?cb=20180922010441",
+   "summary": "A species of sentient humanoid with yellow-and-blue skin and a pair of protruding tusks existed in the galaxy by the time of the reign of the Galactic Empire. Regineer Teed was a member of the species who, in 10 BBY, was part of the Cloud-Riders pirate gang, with the membership of the group being drawn from worlds…",
+   "url": "https://starwars.fandom.com/wiki/Regineer_Teed's_species"
+  },
+  {
+   "id": "troop-transport",
+   "name": "Troop transport",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/7c/MTTopenforbusiness-SWE.png/revision/latest/scale-to-width-down/500?cb=20240921040440",
+   "summary": "A troop transport, also known as a troopship, was a vehicle that ferried troopers.",
+   "url": "https://starwars.fandom.com/wiki/Troop_transport"
+  },
+  {
+   "id": "dual-hemisphere-omni-support-vessel",
+   "name": "Dual Hemisphere-Omni Support Vessel",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/49/SeparatistSupplyShip-MF70.png/revision/latest/scale-to-width-down/500?cb=20260227063107",
+   "summary": "The Dual Hemisphere-Omni Support Vessel, otherwise identified as the DH-Omni Support Vessel, DH-O Support Vessel, or simply as the DH-O and dubbed as the Separatist supply ship or Separatist support ship, or Separatist transport, was a model of massive transport and supply ship manufactured by Hoersch-Kessel Drive,…",
+   "url": "https://starwars.fandom.com/wiki/Dual_Hemisphere-Omni_Support_Vessel"
+  },
+  {
+   "id": "gen-dai",
+   "name": "Gen'Dai",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/6d/Rayvis-CGSWG.png/revision/latest/scale-to-width-down/436?cb=20241211045007",
+   "summary": "The Gen'Dai were a species of large, sentient beings. Their bodies were made up of a mass of regenerative tentacles, which allowed them to regenerate wounds quickly and, notoriously, be almost impossible to kill. Once a peaceful people, the Gen'Dai became violent nomads centuries before the Imperial Era and after…",
+   "url": "https://starwars.fandom.com/wiki/Gen'Dai"
+  },
+  {
+   "id": "interceptor",
+   "name": "Interceptor",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4e/TIE_Interceptor_DICE.png/revision/latest/scale-to-width-down/500?cb=20161022010105",
+   "summary": "An interceptor was a starfighter classification typically applied to starships that sacrificed heavy ordnance payloads, armor, deflector shields, and/or a hyperdrive in favor of pure speed and agility in combat. To compensate for the lack of a hyperdrive, some types of interceptors could dock with an external…",
+   "url": "https://starwars.fandom.com/wiki/Interceptor"
+  },
+  {
+   "id": "theelin",
+   "name": "Theelin",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b6/LattsRazziDetail-SWE.png/revision/latest/scale-to-width-down/235?cb=20160912043402",
+   "summary": "The Theelin were a rare sentient species recognizable by their brightly colored hair and spotted skin.",
+   "url": "https://starwars.fandom.com/wiki/Theelin"
+  },
+  {
+   "id": "namara",
+   "name": "Namara",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/ce/SilvasuFi.png/revision/latest/scale-to-width-down/337?cb=20180922010353",
+   "summary": "The Namara were a sentient species distinguished by their black eyes and downward-turning horns that extended from the sides of their heads. Some Namara had a second, smaller pair of forward facing horns on top of their heads and elongated jowls.",
+   "url": "https://starwars.fandom.com/wiki/Namara"
+  },
+  {
+   "id": "dyplotid",
+   "name": "Dyplotid",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/16/Dyplotid.png/revision/latest/scale-to-width-down/238?cb=20221105201750",
+   "summary": "Dyplotids were a bipedal humanoid sentient species that were commonly brown, pink, or purple in coloration, possessing two legs, as well as two arms that ended in five-fingered hands. Dyplotids had large craniums, with flat faces that displayed no visible nose. These faces did, however, feature four keen eyes which…",
+   "url": "https://starwars.fandom.com/wiki/Dyplotid"
+  },
+  {
+   "id": "trident-class-assault-ship",
+   "name": "Trident-class assault ship",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/78/Trident_USW.png/revision/latest/scale-to-width-down/394?cb=20241229181141",
+   "summary": "The Trident-class assault ship, also known as the Trident assault ship, Trident drill assault craft, or simply drill assault craft, was a type of assault ship manufactured by Colicoid Creation Nest. They had four durasteel-armored tentacles equipped with magnetic grapples that served both as weapons and as a means…",
+   "url": "https://starwars.fandom.com/wiki/Trident-class_assault_ship"
+  },
+  {
+   "id": "zeffonian",
+   "name": "Zeffonian",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fe/Zeffo_Sage.png/revision/latest/scale-to-width-down/405?cb=20191213215603",
+   "summary": "The Zeffonians, or Zeffo for short, were an ancient sentient species native to the planet Zeffo. Many Zeffonians could wield the Force, which they referred to as the \"Life Wind,\" and those who did became known as sages.",
+   "url": "https://starwars.fandom.com/wiki/Zeffonian"
+  },
+  {
+   "id": "lepi",
+   "name": "Lepi",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fa/Jaxxon-SWGoH.png/revision/latest/scale-to-width-down/326?cb=20260807185500",
+   "summary": "The Lepi was a sentient species characterized by their lanky frame, long ears, and buck teeth. One notable Lepi was the smuggler Jaxxon.",
+   "url": "https://starwars.fandom.com/wiki/Lepi"
+  },
+  {
+   "id": "pooba",
+   "name": "Pooba",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/08/Poobas_Big_Pooba_Problems.png/revision/latest/scale-to-width-down/500?cb=20250702174203",
+   "summary": "Pooba were a bipedal sentient species that lived in the galaxy. They were covered in furry blue hair and had multihued eye color. Two members of the species, Nubs and Barabo, served the Jedi Order as a Jedi youngling and a Jedi Master during the High Republic Era, respectively. Pooba spoke the language Poobian.",
+   "url": "https://starwars.fandom.com/wiki/Pooba"
+  },
+  {
+   "id": "omicron-class-attack-shuttle",
+   "name": "Omicron-class attack shuttle",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e5/HavocMarauder-SWCT.png/revision/latest/scale-to-width-down/500?cb=20251113012212",
+   "summary": "The Omicron-class attack shuttle, also known as an Omicron-class shuttle,, Omicron-class gunship or simply, the Omicron was a class of attack shuttle that was active during the Clone Wars. The Marauder, the starship of the Galactic Republic's Clone Force 99, was a modified Omicron-class attack shuttle. Halland Goth…",
+   "url": "https://starwars.fandom.com/wiki/Omicron-class_attack_shuttle"
+  },
+  {
+   "id": "dp20-gunship",
+   "name": "DP20 gunship",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/ab/Corellian_gunship-TRF.jpg/revision/latest/scale-to-width-down/500?cb=20180507144614",
+   "summary": "The DP20 gunship, also known as the DP20 Frigate or simply as the DP20 and colloquially referred to as the Corellian Gunship, was a warship model manufactured by the Corellian Engineering Corporation. It saw service in the Galactic Republic, the Galactic Empire, and then notably in the Alliance to Restore the Republic.",
+   "url": "https://starwars.fandom.com/wiki/DP20_gunship"
+  },
+  {
+   "id": "sana-starros-crew",
+   "name": "Sana Starros' crew",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4d/StarrosCrew-2020DoctorAphra25.jpg/revision/latest/scale-to-width-down/500?cb=20230619090924",
+   "summary": "After rogue archaeologist Doctor Chelli Lona Aphra was possessed by the Spark Eternal, the smuggler Sana Starros and archaeologist Kho Phon Farrus assembled a crew that consisted of her father Korin Aphra, two of her exes, rebel Captain Magna Tolvan and Professor Eustacia Okka, and the University of Bar'leth…",
+   "url": "https://starwars.fandom.com/wiki/Sana_Starros'_crew"
+  },
+  {
+   "id": "hardcell-class-interstellar-transport",
+   "name": "Hardcell-class interstellar transport",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/30/HardcellClassTransport-MF57.png/revision/latest/scale-to-width-down/229?cb=20260225045212",
+   "summary": "The Hardcell-class interstellar transport, also known as the Hardcell-class transport, the Hardcell transport, Techno Union transport, or Techno Union starship, was a model of transport manufactured by the Techno Union and utilized by the Confederacy of Independent Systems during the First Battle of Geonosis, the…",
+   "url": "https://starwars.fandom.com/wiki/Hardcell-class_interstellar_transport"
+  },
+  {
+   "id": "auzituck-anti-slaver-gunship",
+   "name": "Auzituck anti-slaver gunship",
+   "type": "vaisseau",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3b/WookieeGunship-2024ToppsSWHyperspace.png/revision/latest/scale-to-width-down/500?cb=20251027041055",
+   "summary": "Auzituck roughly translated to \"liberated one\" in Shyriiwook, the native language of the Wookiees. The gunship was fast, well-armored and heavily armed with a narrow profile and large engines. It had a dual-tiered, bubble-shaped canopy that housed the pilot in the upper, rear section with the copilot and gunner in…",
+   "url": "https://starwars.fandom.com/wiki/Auzituck_anti-slaver_gunship"
+  },
+  {
+   "id": "sith-cult",
+   "name": "Sith cult",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4b/SithEternal-DB.jpg/revision/latest/scale-to-width-down/500?cb=20200319155905",
+   "summary": "A Sith cult was a cult comprised of Sith cultists that followed the Sith religion and worshiped the dark side of the Force. Some cults, such as the Sith Eternal, would worship one or more specific Sith Lords and practice their teachings, sometimes even with the goal of resurrecting the Sith Lord. Some cults were in…",
+   "url": "https://starwars.fandom.com/wiki/Sith_cult"
+  },
+  {
+   "id": "everon",
+   "name": "Everon",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/27/Everon-THREOTS1.png/revision/latest/scale-to-width-down/500?cb=20220321124747",
+   "summary": "Before the High Republic Era, the Evereni put their trust in their stormy homeworld of Everon in an attempt to live in harmony with nature; however, the Great Storm came, in the form of a vortex storm that rose from the planet's core bringing strong winds and lightning, destroying the native Evereni's civilization.",
+   "url": "https://starwars.fandom.com/wiki/Everon"
+  },
+  {
+   "id": "core-founder",
+   "name": "Core Founder",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/53/Unityarc.png/revision/latest/scale-to-width-down/500?cb=20230604040752",
+   "summary": "The Core Founders were a group of twenty-two worlds, all located in the Core Worlds region, which founded the Galactic Republic around 25,000 BBY. Founder worlds included Alderaan, Chandrila, Corellia, Coruscant, and Duro. The Avenue of the Core Founders in front of the Galactic Senate Building on Coruscant, the…",
+   "url": "https://starwars.fandom.com/wiki/Core_Founder"
+  },
+  {
+   "id": "anzellan-droidsmiths",
+   "name": "Anzellan Droidsmiths",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/8e/AnzellanDroidsmiths-AG.png/revision/latest/scale-to-width-down/500?cb=20260113044646",
+   "summary": "The Anzellan Droidsmiths were a legendary crew of four (originally three) Anzellan droidsmiths living on the planet Nevarro. By the time of the New Republic, they found great commercial success when Nevarro was thriving, as they had precise and affordable expertise to keep automated excavation equipment used for…",
+   "url": "https://starwars.fandom.com/wiki/Anzellan_Droidsmiths"
+  },
+  {
+   "id": "skeleton-crew",
+   "name": "Skeleton Crew",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d8/SkeletonCrew.jpg/revision/latest/scale-to-width-down/500?cb=20250111185724",
+   "summary": "At first, the four younglings divided amongst themselves into two distinct groups. The boys, Wim and Neel, as one group and the girls, Fern and KB, as the other. However, during their adventures, the four, who had initially fought over who had \"claimsies\" on the ship and who got to be captain, learned to trust one…",
+   "url": "https://starwars.fandom.com/wiki/Skeleton_Crew"
+  },
+  {
+   "id": "megacorporation",
+   "name": "Megacorporation",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9d/Safe_In_Our_Hands.png/revision/latest/scale-to-width-down/375?cb=20170305062755",
+   "summary": null,
+   "url": "https://starwars.fandom.com/wiki/Megacorporation"
+  },
+  {
+   "id": "nagi",
+   "name": "Nagi",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3a/Nagi-2025StarWars8.png/revision/latest/scale-to-width-down/500?cb=20251225125648",
+   "summary": "Nagi was a planet that was the homeworld of the Nagai species. During the New Republic Era, a number of Nagai were forcefully removed from their homeworld to the planet Gadrilam by other members of the species. Later, the Zantarrk Gang were informed a few hundred more Nagai were en route from Nagi to them.",
+   "url": "https://starwars.fandom.com/wiki/Nagi"
+  },
+  {
+   "id": "leresai-assembly",
+   "name": "Leresai Assembly",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/1f/MarchionRoTransmission-2021THR9.jpg/revision/latest/scale-to-width-down/500?cb=20211231185454",
+   "summary": "The Leresai Assembly was an organization active during the High Republic Era. In 231 BBY, the Assembly intercepted several garbled transmissions of the Eye of the Nihil, Marchion Ro, which it passed on to the Jedi Order and Galactic Republic, who were attempting to hunt down the Nihil pirates.",
+   "url": "https://starwars.fandom.com/wiki/Leresai_Assembly"
+  },
+  {
+   "id": "aquillian-ranger",
+   "name": "Aquillian Ranger",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/ab/MCQ-AquillianRanger.jpg/revision/latest/scale-to-width-down/500?cb=20070805220325",
+   "summary": "An Aquillian Ranger was a type of individual who was active during the Imperial Era. While starship spotting on Alderaan in 9 BBY, Princess Leia Organa spotted a Tri-Wing S-91x Pegasus Starfighter, and hypothesized that it was an Aquillian Ranger scouting for the Merson pirates.",
+   "url": "https://starwars.fandom.com/wiki/Aquillian_Ranger"
+  },
+  {
+   "id": "alderaanian-refugee-convoy",
+   "name": "Alderaanian refugee convoy",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/64/Alderaanian-convoy.png/revision/latest/scale-to-width-down/500?cb=20201020201743",
+   "summary": "Following the Disaster, a convoy of Alderaanian survivors aboard three GR-75 medium transports traveled to Fostar Haven in the hopes of evading the Galactic Empire, which was under orders from Darth Vader to destroy all remainders of Alderaan.",
+   "url": "https://starwars.fandom.com/wiki/Alderaanian_refugee_convoy"
+  },
+  {
+   "id": "varovia",
+   "name": "Varovia",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fb/Varovia-THRAEchoesFear3.png/revision/latest/scale-to-width-down/435?cb=20241222135340",
+   "summary": "Varovia was a planet located in the galaxy that was the homeworld of the Varovian species. Jedi Master Atticus Cale, his Padawan Jadia Brink, Golo and Tilli traveled to Varovia in search for the missing Jedi Master Barnabas Vim, but had no luck in discovering him on the planet. Instead they destroyed the Rod of…",
+   "url": "https://starwars.fandom.com/wiki/Varovia"
+  },
+  {
+   "id": "adelhard-coalition",
+   "name": "Adelhard coalition",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d1/AdelhardCoalition-BattleOfJakkuLastStand3.png/revision/latest/scale-to-width-down/500?cb=20250212044122",
+   "summary": "The Adelhard coalition was a faction created late into the Galactic Civil War by Grand Moff Ubrik Adelhard out of scattered Imperial forces, smugglers, and the Spice Runners of Kijimi.",
+   "url": "https://starwars.fandom.com/wiki/Adelhard_coalition"
+  },
+  {
+   "id": "suboreen",
+   "name": "Suboreen",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d1/StarWars2025-3-Suboreen.png/revision/latest/scale-to-width-down/500?cb=20250716114831",
+   "summary": "Suboreen first appeared in the third issue of the canon comic book series Star Wars, published by Marvel Comics on July 16, 2025.",
+   "url": "https://starwars.fandom.com/wiki/Suboreen"
+  }
+ ]
+}

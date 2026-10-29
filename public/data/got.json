@@ -1,0 +1,1806 @@
+{
+ "universe": "got",
+ "source": "https://gameofthrones.fandom.com",
+ "cards": [
+  {
+   "id": "jon-snow",
+   "name": "Jon Snow",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d0/JonSnow8x06.PNG/revision/latest?cb=20190714094440",
+   "summary": "Jon Snow, born Aegon Targaryen, is the son of Lyanna Stark and Rhaegar Targaryen, the late Prince of Dragonstone. From infancy, Jon is presented as the bastard son of Lord Eddard Stark, Lyanna's brother, and raised alongside Eddard's lawful children at Winterfell. Jon's true parentage is kept secret from everyone,…",
+   "url": "https://gameofthrones.fandom.com/wiki/Jon_Snow"
+  },
+  {
+   "id": "daenerys-targaryen",
+   "name": "Daenerys Targaryen",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/301?cb=20190415212013",
+   "summary": "Queen Daenerys Targaryen, also known as Daenerys Stormborn, and affectionately known as Dany, was the only daughter of King Aerys II Targaryen and Queen Rhaella, and the younger sister of Rhaegar and Viserys Targaryen.",
+   "url": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen"
+  },
+  {
+   "id": "tyrion-lannister",
+   "name": "Tyrion Lannister",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/95/HandoftheKingTyrionLannister.PNG/revision/latest/scale-to-width-down/330?cb=20190520175204",
+   "summary": "Lord Tyrion Lannister is the youngest child of Lord Tywin Lannister and younger brother of Cersei and Jaime Lannister. A dwarf, he uses his wit and intellect to overcome the prejudice he faces. He is the current Lord of Casterly Rock and Hand of the King to Brandon Stark.",
+   "url": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister"
+  },
+  {
+   "id": "jaime-lannister",
+   "name": "Jaime Lannister",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/51/JaimeLannisterSeason8.PNG/revision/latest/scale-to-width-down/317?cb=20190207112813",
+   "summary": "Ser Jaime Lannister was the elder son of Lord Tywin Lannister, younger twin brother of Queen Cersei, and older brother of Tyrion. He was involved in an incestuous relationship with Cersei, and unknown to most, he was the biological father of her three bastard children, Joffrey, Myrcella, and Tommen, as well as her…",
+   "url": "https://gameofthrones.fandom.com/wiki/Jaime_Lannister"
+  },
+  {
+   "id": "sansa-stark",
+   "name": "Sansa Stark",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG/revision/latest?cb=20210215100224",
+   "summary": "Queen Sansa Stark is the eldest daughter of Lord Eddard Stark and his wife, Lady Catelyn, sister of Robb, Arya, Bran, and Rickon Stark, and \"half-sister\" of Jon Snow; though truthfully he is her cousin.",
+   "url": "https://gameofthrones.fandom.com/wiki/Sansa_Stark"
+  },
+  {
+   "id": "cersei-lannister",
+   "name": "Cersei Lannister",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b0/CERSEIBATTLEOFKINGSLANDING.PNG/revision/latest/scale-to-width-down/338?cb=20190906021534",
+   "summary": "Queen Cersei I Lannister was the twentieth ruler of the Seven Kingdoms and the widow of King Robert Baratheon. She was the daughter of Lord Tywin Lannister, twin sister of Jaime Lannister and elder sister of Tyrion Lannister. She was involved in an incestuous relationship with Jaime, who was secretly the father of…",
+   "url": "https://gameofthrones.fandom.com/wiki/Cersei_Lannister"
+  },
+  {
+   "id": "arya-stark",
+   "name": "Arya Stark",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/be/AryaShipIronThrone.PNG/revision/latest/scale-to-width-down/335?cb=20190520174300",
+   "summary": "Arya Stark is the third child and second daughter of Lord Eddard Stark and his wife, Lady Catelyn Stark. She is the sister of the incumbent Westerosi monarchs, Sansa, Queen in the North, and Brandon, King of the Andals and the First Men.",
+   "url": "https://gameofthrones.fandom.com/wiki/Arya_Stark"
+  },
+  {
+   "id": "stannis-baratheon",
+   "name": "Stannis Baratheon",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/2f/StannisNew.png/revision/latest/scale-to-width-down/387?cb=20210313165449",
+   "summary": "Stannis Baratheon was the younger brother of King Robert Baratheon and older brother of Renly Baratheon.",
+   "url": "https://gameofthrones.fandom.com/wiki/Stannis_Baratheon"
+  },
+  {
+   "id": "tywin-lannister",
+   "name": "Tywin Lannister",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/71/Tywin_Lannister_4x08.jpg/revision/latest/scale-to-width-down/348?cb=20170830015346",
+   "summary": "Lord Tywin Lannister was the head of House Lannister, Lord of Casterly Rock, Warden of the West, Hand of the King for three different kings, and Protector of the Realm. He was the father of Cersei, Jaime, and Tyrion Lannister, and sole grandfather of the incest-born Joffrey, Myrcella, and Tommen Baratheon.",
+   "url": "https://gameofthrones.fandom.com/wiki/Tywin_Lannister"
+  },
+  {
+   "id": "robb-stark",
+   "name": "Robb Stark",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/50/S3E9_Robb_Stark_main.jpg/revision/latest/scale-to-width-down/327?cb=20160718071203",
+   "summary": "King Robb Stark was the eldest son of Lord Eddard Stark of Winterfell and his wife, Lady Catelyn. Following his father's execution, Robb was declared King in the North, won many battles against the House Lannister, but eventually he, his mother, and his forces were slain at the Red Wedding.",
+   "url": "https://gameofthrones.fandom.com/wiki/Robb_Stark"
+  },
+  {
+   "id": "theon-greyjoy",
+   "name": "Theon Greyjoy",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/78/TheonS8E1.PNG/revision/latest/scale-to-width-down/314?cb=20190415192721",
+   "summary": "Prince Theon Greyjoy was the youngest son of King Balon Greyjoy of the Iron Islands and the younger brother of Rodrik, Maron, and Yara Greyjoy.",
+   "url": "https://gameofthrones.fandom.com/wiki/Theon_Greyjoy"
+  },
+  {
+   "id": "joffrey-baratheon",
+   "name": "Joffrey Baratheon",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/25/Joffrey_Season_4_Episode_2_TLATR.jpg/revision/latest/scale-to-width-down/301?cb=20210722092942",
+   "summary": "King Joffrey I Baratheon was the eighteenth king to rule from the Iron Throne and the second king of the Baratheon dynasty. Though believed by most to be the eldest son of King Robert Baratheon and Queen Cersei Lannister, Joffrey is actually a bastard born from Cersei's incestuous relationship with her twin brother…",
+   "url": "https://gameofthrones.fandom.com/wiki/Joffrey_Baratheon"
+  },
+  {
+   "id": "rhaenyra-targaryen",
+   "name": "Rhaenyra Targaryen",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/40/Rhaenyra_308.png/revision/latest/scale-to-width-down/352?cb=20260811075912",
+   "summary": "Queen Rhaenyra Targaryen is the only surviving child and daughter of King Viserys I Targaryen and his first wife, Queen Aemma Arryn, and a member of the Targaryen dynasty. She disputes the claim of her younger half-brother Aegon II, using the style Queen of the Andals and the Rhoynar and the First Men, Lady of the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Rhaenyra_Targaryen"
+  },
+  {
+   "id": "jorah-mormont",
+   "name": "Jorah Mormont",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/Winterfell_ep_Jorah_s8.jpg/revision/latest/scale-to-width-down/291?cb=20210722093523",
+   "summary": "Ser Jorah Mormont was an exiled Northern lord from Westeros, previously living in Essos. He had sworn fealty to his fellow exile Daenerys Targaryen, the Targaryen claimant to the Iron Throne, and was the first to help her adapt to life as a khaleesi of the Dothraki.",
+   "url": "https://gameofthrones.fandom.com/wiki/Jorah_Mormont"
+  },
+  {
+   "id": "eddard-stark",
+   "name": "Eddard Stark",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/34/Eddard_Stark.jpg/revision/latest/scale-to-width-down/357?cb=20190701140812",
+   "summary": "Lord Eddard Stark, also known as Ned Stark, was the head of House Stark, the Lord of Winterfell and Warden of the North, and later Hand of the King to King Robert I Baratheon. He was the son of Lord Rickard Stark, older brother of Benjen and Lyanna Stark, and the younger brother of Brandon Stark. He is the father…",
+   "url": "https://gameofthrones.fandom.com/wiki/Eddard_Stark"
+  },
+  {
+   "id": "varys",
+   "name": "Varys",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/ff/Varys8x05Dragonstone.PNG/revision/latest?cb=20190513041715",
+   "summary": "Varys, popularly known as the Spider, was the eunuch Master of Whisperers on the Baratheon Small Council until he was forced to flee King's Landing with Tyrion Lannister. He was a skilled manipulator and commanded a network of informants across two continents.",
+   "url": "https://gameofthrones.fandom.com/wiki/Varys"
+  },
+  {
+   "id": "robert-baratheon",
+   "name": "Robert Baratheon",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/43/Robert_crop.png/revision/latest/scale-to-width-down/423?cb=20210223122212",
+   "summary": "King Robert I Baratheon was the seventeenth ruler of the Seven Kingdoms and the first king of the Baratheon dynasty.",
+   "url": "https://gameofthrones.fandom.com/wiki/Robert_Baratheon"
+  },
+  {
+   "id": "samwell-tarly",
+   "name": "Samwell Tarly",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/8f/Maester_Sam.png/revision/latest/scale-to-width-down/381?cb=20190609215621",
+   "summary": "Samwell, born Samwell Tarly, and often called Sam, is Jon Snow's closest friend, the eldest son of Lord Randyll Tarly and Lady Melessa Tarly of Horn Hill, and the older brother of Dickon and Talla Tarly. Eventually he becomes the new Grand Maester.",
+   "url": "https://gameofthrones.fandom.com/wiki/Samwell_Tarly"
+  },
+  {
+   "id": "petyr-baelish",
+   "name": "Petyr Baelish",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/9f/Profile-Littlefinger.png/revision/latest/scale-to-width-down/335?cb=20170826005231",
+   "summary": "Lord Petyr Baelish, popularly called Littlefinger, was the Master of Coin on the Small Council under King Robert Baratheon and King Joffrey Baratheon. He was a skilled manipulator and used his ownership of brothels in King's Landing to both acquire vast wealth and accrue intelligence on political rivals. Baelish's…",
+   "url": "https://gameofthrones.fandom.com/wiki/Petyr_Baelish"
+  },
+  {
+   "id": "bran-stark",
+   "name": "Bran Stark",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/81/KingBran.PNG/revision/latest/scale-to-width-down/336?cb=20190520173855",
+   "summary": "King Bran I the Broken, born Brandon Stark and commonly known simply as Bran, is the fourth child and second son of Eddard and Catelyn Stark. Bran is a warg and a greenseer serving as the new Three-Eyed Raven. Eventually, he was crowned as the first elected ruler of the Six Kingdoms.",
+   "url": "https://gameofthrones.fandom.com/wiki/Bran_Stark"
+  },
+  {
+   "id": "davos-seaworth",
+   "name": "Davos Seaworth",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/9d/DAVOSINFOBOXBELLS.PNG/revision/latest?cb=20190513052340",
+   "summary": "Davos Seaworth, also known as the Onion Knight and formerly Davos of Flea Bottom, is a landed knight, and a former smuggler who was in the service of Stannis Baratheon, claimant to the Iron Throne, whom he served as Hand of the King.",
+   "url": "https://gameofthrones.fandom.com/wiki/Davos_Seaworth"
+  },
+  {
+   "id": "brienne-of-tarth",
+   "name": "Brienne of Tarth",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/a9/S8_Brienne_Profil.jpg/revision/latest?cb=20190423165941",
+   "summary": "Ser Brienne of Tarth is a knight of House Tarth and the only daughter of Lord Selwyn Tarth.",
+   "url": "https://gameofthrones.fandom.com/wiki/Brienne_of_Tarth"
+  },
+  {
+   "id": "daemon-targaryen",
+   "name": "Daemon Targaryen",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d5/Daemon_S3_Profile.png/revision/latest/scale-to-width-down/333?cb=20260702220100",
+   "summary": "Prince Daemon Targaryen is a prince of the Targaryen dynasty, and the younger brother of King Viserys I Targaryen. He is the uncle and King Consort of Queen Rhaenyra Targaryen.",
+   "url": "https://gameofthrones.fandom.com/wiki/Daemon_Targaryen"
+  },
+  {
+   "id": "catelyn-stark",
+   "name": "Catelyn Stark",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d8/CatelynS3Promo.jpg/revision/latest/scale-to-width-down/303?cb=20190427043743",
+   "summary": "Lady Catelyn Stark, née Tully, was born into House Tully as the daughter of Hoster Tully, the Lord Paramount of the Trident, and sister of Lysa and Edmure Tully. She was the wife of Eddard Stark and the mother of his five children.",
+   "url": "https://gameofthrones.fandom.com/wiki/Catelyn_Stark"
+  },
+  {
+   "id": "sandor-clegane",
+   "name": "Sandor Clegane",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b5/SandorConfrontsGregor.PNG/revision/latest/scale-to-width-down/326?cb=20210722093812",
+   "summary": "Sandor Clegane, popularly known as the Hound, was the younger brother of Ser Gregor Clegane and the personal bodyguard of Prince Joffrey Baratheon. When Joffrey ascended the Iron Throne, Sandor was named into his Kingsguard (despite not being a knight), but deserted his post at the Battle of the Blackwater. After…",
+   "url": "https://gameofthrones.fandom.com/wiki/Sandor_Clegane"
+  },
+  {
+   "id": "viserys-i-targaryen",
+   "name": "Viserys I Targaryen",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/38/Viserys_I_Targaryen_Official_Guide.jpg/revision/latest/scale-to-width-down/340?cb=20220826232345",
+   "summary": "King Viserys I Targaryen, remembered as Viserys the Peaceful, was the fifth king of the Targaryen dynasty to rule the Seven Kingdoms.",
+   "url": "https://gameofthrones.fandom.com/wiki/Viserys_I_Targaryen"
+  },
+  {
+   "id": "ramsay-bolton",
+   "name": "Ramsay Bolton",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d2/Ramsay_S06E09_RESZIED_FOR_INFOBOX.jpg/revision/latest/scale-to-width-down/377?cb=20160622071734",
+   "summary": "Lord Ramsay Bolton, born Ramsay Snow, was the legitimized bastard son of Roose Bolton, Lord of the Dreadfort, and the unidentified wife of a miller.",
+   "url": "https://gameofthrones.fandom.com/wiki/Ramsay_Bolton"
+  },
+  {
+   "id": "bronn",
+   "name": "Bronn",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/f5/Bronn_S8E6.png/revision/latest/scale-to-width-down/378?cb=20210722075802",
+   "summary": "Lord Bronn is the Lord of Highgarden, Lord Paramount of the Reach, Master of Coin, and the founder of his house.",
+   "url": "https://gameofthrones.fandom.com/wiki/Bronn"
+  },
+  {
+   "id": "house-targaryen",
+   "name": "House Targaryen",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1e/House_Targaryen.svg/revision/latest/scale-to-width-down/458?cb=20230905234715",
+   "summary": "House Targaryen of Dragonstone is an exiled Great House of Westeros and the former royal house of the Seven Kingdoms. House Targaryen conquered and unified the realm before it was deposed during Robert's Rebellion, where House Baratheon replaced it as the new royal house. The two surviving Targaryens, Viserys and…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Targaryen"
+  },
+  {
+   "id": "alicent-hightower",
+   "name": "Alicent Hightower",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/18/AlicentASfASInfobox.PNG/revision/latest/scale-to-width-down/357?cb=20260802193803",
+   "summary": "Queen Alicent Hightower is the second wife of King Viserys I Targaryen and daughter of Ser Otto Hightower, the Hand of the King. She is the mother of King Aegon II Targaryen, Queen Helaena Targaryen, Prince Aemond Targaryen, and Prince Daeron Targaryen.",
+   "url": "https://gameofthrones.fandom.com/wiki/Alicent_Hightower"
+  },
+  {
+   "id": "margaery-tyrell",
+   "name": "Margaery Tyrell",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b5/Margaery_Tyrell_S6.png/revision/latest?cb=20210722163311",
+   "summary": "Queen Margaery Tyrell was the only daughter of Lord Mace Tyrell and Lady Alerie Tyrell, granddaughter of Lady Olenna Tyrell and sister of Ser Loras Tyrell. Margaery became Queen Consort through her marriage to King Joffrey Baratheon, and later his younger brother, King Tommen Baratheon, following Joffrey's death.…",
+   "url": "https://gameofthrones.fandom.com/wiki/Margaery_Tyrell"
+  },
+  {
+   "id": "dragon",
+   "name": "Dragon",
+   "type": "creature",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/e/e0/Dragons_S8_Ep_1.jpg/revision/latest/scale-to-width-down/500?cb=20190415031732",
+   "summary": "Dragons are massive, flying reptiles that can breathe fire. They are rumored to have a strong connection to magic, which seems to be proven true when magic begins to return to the world after the birth of the first three in over a hundred years. Dragons possess awesome and devastating power, capable of laying waste…",
+   "url": "https://gameofthrones.fandom.com/wiki/Dragon"
+  },
+  {
+   "id": "house-stark",
+   "name": "House Stark",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/7e/House_Stark.svg/revision/latest/scale-to-width-down/458?cb=20230905233833",
+   "summary": "House Stark of Winterfell is a Great House of Westeros and the royal house of the Kingdom of the North. They rule over the vast region known as the North. It is one of the oldest lines of Westerosi nobility by far, claiming a line of descent stretching back over eight thousand years. Before Aegon's Conquest, as…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Stark"
+  },
+  {
+   "id": "tormund",
+   "name": "Tormund",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/97/Tormund_Profile.PNG/revision/latest/scale-to-width-down/320?cb=20170818044433",
+   "summary": "Tormund, often called Tormund Giantsbane, is a renowned warrior and raider among the Free Folk and one of the key leaders behind Mance Rayder. Tormund respected Mance as the King-Beyond-the-Wall and suspected he was the man to lead them through the Long Night. As time passes and Mance is killed on the orders of…",
+   "url": "https://gameofthrones.fandom.com/wiki/Tormund"
+  },
+  {
+   "id": "melisandre",
+   "name": "Melisandre",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/07/Melisandre_%28The_Queen%27s_Justice%29.png/revision/latest/scale-to-width-down/319?cb=20170830235514",
+   "summary": "Melisandre, often referred to as the Red Woman or the Red Witch, was a red priestess in the religion of the Lord of Light, and had been a close counselor to King Stannis Baratheon in his campaign to take the Iron Throne.",
+   "url": "https://gameofthrones.fandom.com/wiki/Melisandre"
+  },
+  {
+   "id": "euron-greyjoy",
+   "name": "Euron Greyjoy",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/fc/Euron-Profile.PNG/revision/latest/scale-to-width-down/318?cb=20210722093627",
+   "summary": "King Euron Greyjoy was the brother of Balon Greyjoy, the Lord Reaper of Pyke and later King of the Iron Islands, and Aeron Greyjoy, a Drowned Man. He was also uncle to Balon's children, Rodrik, Maron, Yara, and Theon Greyjoy. After murdering Balon, Euron takes control of the Salt Throne with the support of many…",
+   "url": "https://gameofthrones.fandom.com/wiki/Euron_Greyjoy"
+  },
+  {
+   "id": "roose-bolton",
+   "name": "Roose Bolton",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/Profile-RooseBolton.png/revision/latest/scale-to-width-down/367?cb=20170728090234",
+   "summary": "Lord Roose Bolton was the Lord of the Dreadfort and the head of House Bolton, the former ruling Great House of the North after usurping the position from House Stark. He was the father of Ramsay Bolton – his legitimized bastard – and a newborn son from his wife, Walda Frey.",
+   "url": "https://gameofthrones.fandom.com/wiki/Roose_Bolton"
+  },
+  {
+   "id": "aegon-ii-targaryen",
+   "name": "Aegon II Targaryen",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/da/Aegon_302_Profile.jpg/revision/latest/scale-to-width-down/340?cb=20260802193229",
+   "summary": "King Aegon II Targaryen is the former sixth King of the Andals and the Rhoynar and the First Men and Lord of the Seven Kingdoms. His rule is disputed by his older half-sister, Rhaenyra Targaryen. He is the firstborn son of King Viserys I Targaryen and his second wife, Queen Alicent Hightower, and a member of the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Aegon_II_Targaryen"
+  },
+  {
+   "id": "house-lannister",
+   "name": "House Lannister",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d5/House_Lannister.svg/revision/latest/scale-to-width-down/458?cb=20230905230248",
+   "summary": "House Lannister of Casterly Rock is one of the Great Houses of Westeros, one of its richest and most powerful families and one of its oldest dynasties. It was briefly the royal house of the Seven Kingdoms until their defeat in the Last War.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Lannister"
+  },
+  {
+   "id": "barristan-selmy",
+   "name": "Barristan Selmy",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1f/Barristan_Selmy_Sons_of_the_Harpy.jpg/revision/latest/scale-to-width-down/328?cb=20150504180820",
+   "summary": "Ser Barristan Selmy was a knight who served in the Kingsguard with distinction for over forty years. Nicknamed Barristan the Bold, he was considered by many to be one of the best swordsmen and most honorable men in all the Seven Kingdoms.",
+   "url": "https://gameofthrones.fandom.com/wiki/Barristan_Selmy"
+  },
+  {
+   "id": "missandei",
+   "name": "Missandei",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/de/Missandei8X04.PNG/revision/latest/scale-to-width-down/330?cb=20190722224410",
+   "summary": "Missandei was originally a polyglottic slave from Naath who served as an interpreter to Kraznys mo Nakloz of Astapor, until she was freed by Daenerys Targaryen, serving as her trusted advisor and handmaiden ever since. She was among Daenerys's most loyal subordinates.",
+   "url": "https://gameofthrones.fandom.com/wiki/Missandei"
+  },
+  {
+   "id": "gendry-baratheon",
+   "name": "Gendry Baratheon",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/7b/GendryBaratheon.png/revision/latest/scale-to-width-down/373?cb=20190520221935",
+   "summary": "Lord Gendry Baratheon, formerly known simply as Gendry, is an unacknowledged bastard son of King Robert Baratheon. He has since been legitimized and inherited all titles held by his father before Robert became king, and appointed the new Warden of the South.",
+   "url": "https://gameofthrones.fandom.com/wiki/Gendry_Baratheon"
+  },
+  {
+   "id": "yara-greyjoy",
+   "name": "Yara Greyjoy",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/a8/Game_of_thrones_6x5_yara_promo.jpg/revision/latest?cb=20160808022737",
+   "summary": "Lady Yara Greyjoy is the Lady of the Iron Islands and Lady Reaper of Pyke, the daughter and last surviving child of Balon Greyjoy, and older sister and only surviving sibling of Theon Greyjoy. She was raised at Pyke, the stronghold of House Greyjoy. Yara is a fierce warrior and commands her own longship, the Black…",
+   "url": "https://gameofthrones.fandom.com/wiki/Yara_Greyjoy"
+  },
+  {
+   "id": "tommen-baratheon",
+   "name": "Tommen Baratheon",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/7c/Tommen_blood_of_my_blood.jpg/revision/latest/scale-to-width-down/377?cb=20160530234845",
+   "summary": "King Tommen I Baratheon was the nineteenth ruler of the Seven Kingdoms, the third and final king of the Baratheon dynasty, and the younger brother of Joffrey and Myrcella Baratheon. Though legally the son of the late King Robert Baratheon and Queen Cersei Lannister, his true father is Ser Jaime Lannister, the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Tommen_Baratheon"
+  },
+  {
+   "id": "rhaegar-targaryen",
+   "name": "Rhaegar Targaryen",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/51/Rhaeger_main_infobox.png/revision/latest/scale-to-width-down/306?cb=20210722174123",
+   "summary": "Prince Rhaegar Targaryen, the last Prince of Dragonstone, was the eldest son and heir to King Aerys II Targaryen, the Mad King. He was the older brother of Viserys and Daenerys Targaryen and the husband of Elia Martell, with whom he had two children, Rhaenys and Aegon. He also fathered Jon Snow with Lyanna Stark,…",
+   "url": "https://gameofthrones.fandom.com/wiki/Rhaegar_Targaryen"
+  },
+  {
+   "id": "gregor-clegane",
+   "name": "Gregor Clegane",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/81/GregorGregorLightenedProfile.png/revision/latest/scale-to-width-down/450?cb=20190724144505",
+   "summary": "Ser Gregor Clegane, popularly known as the Mountain That Rides or simply the Mountain, was a knight of House Clegane in service to House Lannister, the older brother of Sandor Clegane, and a notoriously fearsome, extremely lethal, and much-feared warrior, with a tendency toward extreme and excessive violence and…",
+   "url": "https://gameofthrones.fandom.com/wiki/Gregor_Clegane"
+  },
+  {
+   "id": "ellaria-sand",
+   "name": "Ellaria Sand",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/4c/Ellaria_Sand_The_End.png/revision/latest/scale-to-width-down/332?cb=20170830014137",
+   "summary": "Ellaria Sand was the paramour of Prince Oberyn Martell of Dorne and a bastard, carrying the bastard surname \"Sand\" like all bastards in Dorne.",
+   "url": "https://gameofthrones.fandom.com/wiki/Ellaria_Sand"
+  },
+  {
+   "id": "night-s-watch",
+   "name": "Night's Watch",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/f3/Night%27s_Watch.svg/revision/latest/scale-to-width-down/458?cb=20230905231631",
+   "summary": "The Night's Watch is a military order which holds and guards the Wall to keep the wildlings and White Walkers from crossing into the Seven Kingdoms. The order is a shadow of its former strength and its meager forces have been decimated by recent attacks from both wildlings and White Walkers. For the past couple of…",
+   "url": "https://gameofthrones.fandom.com/wiki/Night's_Watch"
+  },
+  {
+   "id": "viserys-targaryen-son-of-aerys-ii",
+   "name": "Viserys Targaryen (son of Aerys II)",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/46/Viseryspromoheadshot.jpg/revision/latest/scale-to-width-down/392?cb=20210722093457",
+   "summary": "Viserys Targaryen was the second son of Aerys II Targaryen, the \"Mad King.\" Following Robert's Rebellion, he and his sister Daenerys Targaryen were the remnants of the exiled House Targaryen. He claimed the Iron Throne as King Viserys III, but was killed before he could make any attempt to take the throne.",
+   "url": "https://gameofthrones.fandom.com/wiki/Viserys_Targaryen_(son_of_Aerys_II)"
+  },
+  {
+   "id": "criston-cole",
+   "name": "Criston Cole",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b6/Criston_Cole-306.jpg/revision/latest/scale-to-width-down/415?cb=20260727072530",
+   "summary": "Ser Criston Cole, also known as the Kingmaker, was a knight of House Cole, Lord Commander of the Kingsguard, and Hand of the King under Aegon II Targaryen. He previously served as a member of the Kingsguard under Viserys I Targaryen and as Rhaenyra Targaryen's sworn protector. Criston was one of the primary leaders…",
+   "url": "https://gameofthrones.fandom.com/wiki/Criston_Cole"
+  },
+  {
+   "id": "aerys-ii-targaryen",
+   "name": "Aerys II Targaryen",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/47/Aerys_II_Targaryen_Mad_King.jpg/revision/latest/scale-to-width-down/412?cb=20170821102509",
+   "summary": "King Aerys II Targaryen, commonly called the Mad King, was the sixteenth member of House Targaryen to rule from the Iron Throne. Although his rule began benevolently, he succumbed to the madness caused by his incestuous lineage, and was eventually deposed by Lord Robert Baratheon in a civil war. He was the last…",
+   "url": "https://gameofthrones.fandom.com/wiki/Aerys_II_Targaryen"
+  },
+  {
+   "id": "renly-baratheon",
+   "name": "Renly Baratheon",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/ff/Profile-Renly_Baratheon.png/revision/latest/scale-to-width-down/328?cb=20171006064500",
+   "summary": "Renly Baratheon was the youngest of the three brothers of House Baratheon and Lord of Storm's End.",
+   "url": "https://gameofthrones.fandom.com/wiki/Renly_Baratheon"
+  },
+  {
+   "id": "kingsguard",
+   "name": "Kingsguard",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/68/Kingsguard_Crown.svg/revision/latest?cb=20221121001515",
+   "summary": "The Kingsguard or Queensguard, in cases of a ruling female monarch, is an elite group of seven knights, supposedly the greatest and most skilled warriors in all of Westeros, who serve as the royal bodyguard of the King of the Andals and the First Men. Their duty is to protect the king and the royal family from harm…",
+   "url": "https://gameofthrones.fandom.com/wiki/Kingsguard"
+  },
+  {
+   "id": "oberyn-martell",
+   "name": "Oberyn Martell",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/44/Oberyn-Martell-house-martell_s3.jpg/revision/latest/scale-to-width-down/288?cb=20190427200207",
+   "summary": "Prince Oberyn Martell, also known as the Red Viper of Dorne, was a member of House Martell, the ruling family of Dorne, the younger brother of Doran Martell and the late Elia Martell, the father of eight bastard girls known as the Sand Snakes, and a member of the Small Council for Dorne to Tommen I. He was renowned…",
+   "url": "https://gameofthrones.fandom.com/wiki/Oberyn_Martell"
+  },
+  {
+   "id": "westeros",
+   "name": "Westeros",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/e/e0/Westeros.png/revision/latest/scale-to-width-down/500?cb=20221124173412",
+   "summary": "Westeros is a continent located in the far west of the known world. It is separated from the continent of Essos by a strip of water known as the Narrow Sea. Most of the action in Game of Thrones takes place in Westeros.",
+   "url": "https://gameofthrones.fandom.com/wiki/Westeros"
+  },
+  {
+   "id": "daario-naharis",
+   "name": "Daario Naharis",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d8/Daario-s6e4.jpg/revision/latest/scale-to-width-down/323?cb=20160512195958",
+   "summary": "Daario Naharis was originally a lieutenant in the Second Sons, a sellsword company, before taking over the company and killing his superiors, Mero and Prendahl na Ghezn. He then aligns with Daenerys Targaryen, serving as her advisor and enforcer, eventually becoming her lover. Following their victory in Slaver's…",
+   "url": "https://gameofthrones.fandom.com/wiki/Daario_Naharis"
+  },
+  {
+   "id": "aemond-targaryen",
+   "name": "Aemond Targaryen",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/Aemond_Targaryen-301.jpg/revision/latest/scale-to-width-down/395?cb=20260728150824",
+   "summary": "Prince Aemond Targaryen, also known as Aemond One-Eye, is the second son and third child of King Viserys I Targaryen and Queen Alicent Hightower. He is the rider of the dragon Vhagar.",
+   "url": "https://gameofthrones.fandom.com/wiki/Aemond_Targaryen"
+  },
+  {
+   "id": "pycelle",
+   "name": "Pycelle",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/0b/Pycelle_Infobo_Image.PNG/revision/latest?cb=20170421111211",
+   "summary": "Pycelle was the Grand Maester for multiple kings and a member of the Small Council, but his true loyalties laid with House Lannister.",
+   "url": "https://gameofthrones.fandom.com/wiki/Pycelle"
+  },
+  {
+   "id": "faith-of-the-seven",
+   "name": "Faith of the Seven",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/64/Faith_of_the_Seven.svg/revision/latest?cb=20230905235927",
+   "summary": "The Faith of the Seven, or simply the Faith, is the main religion of the Seven Kingdoms. It is little-practiced beyond its borders. The Faith of the Seven is dominant in the south of Westeros. The only regions where it is not the majority religion are the North, where worship of the Old Gods remains strong, and on…",
+   "url": "https://gameofthrones.fandom.com/wiki/Faith_of_the_Seven"
+  },
+  {
+   "id": "house-tyrell",
+   "name": "House Tyrell",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/31/House_Tyrell.svg/revision/latest/scale-to-width-down/458?cb=20230905235311",
+   "summary": "House Tyrell of Highgarden is an extinct Great House of Westeros. It ruled over the Reach, a vast, fertile, and heavily-populated region of southwestern Westeros as Lords Paramount of the Reach and Wardens of the South after taking control of the region from House Gardener during Aegon's Conquest.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Tyrell"
+  },
+  {
+   "id": "corlys-velaryon",
+   "name": "Corlys Velaryon",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/5a/Corlys_Velaryon_S2.jpg/revision/latest/scale-to-width-down/333?cb=20240606091353",
+   "summary": "Lord Corlys Velaryon, known as the Sea Snake, is the head of House Velaryon, widower of Princess Rhaenys Targaryen, and Hand of the Queen on the Black Council of Rhaenyra Targaryen.",
+   "url": "https://gameofthrones.fandom.com/wiki/Corlys_Velaryon"
+  },
+  {
+   "id": "rhaenys-targaryen-daughter-of-aemon",
+   "name": "Rhaenys Targaryen (daughter of Aemon)",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/39/S2_Rhaenys_Targaryen_Infobox.jpg/revision/latest/scale-to-width-down/393?cb=20240708102159",
+   "summary": "Princess Rhaenys Targaryen, also known as Rhaenys Velaryon and the Queen Who Never Was, was a princess of the Targaryen dynasty, and the wife of Lord Corlys Velaryon. She was a dragonrider, her mount being Meleys, the Red Queen. She was the first leader of the Blacks to die in the Dance of the Dragons.",
+   "url": "https://gameofthrones.fandom.com/wiki/Rhaenys_Targaryen_(daughter_of_Aemon)"
+  },
+  {
+   "id": "aegon-i-targaryen",
+   "name": "Aegon I Targaryen",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/41/Aegon_the_Conqueror.png/revision/latest/scale-to-width-down/433?cb=20171215014730",
+   "summary": "King Aegon I Targaryen, known as Aegon the Conqueror and Aegon the Dragon, was the founder and first king of the Targaryen dynasty who conquered Westeros and united the realm (with the exception of Dorne and the lands beyond the Wall) with three great dragons: Balerion, Vhagar, and Meraxes. He was married to both…",
+   "url": "https://gameofthrones.fandom.com/wiki/Aegon_I_Targaryen"
+  },
+  {
+   "id": "qyburn",
+   "name": "Qyburn",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/8a/804_Qyburn_Profile.png/revision/latest/scale-to-width-down/356?cb=20210722093554",
+   "summary": "Qyburn was an unethical former maester who was thrown out of the Citadel for conducting illegal human experimentats. After coming into Cersei Lannister's service, he became Varys's replacement as Master of Whisperers on the Small Council. Through the course of his time Cersei's service, he became one of her most…",
+   "url": "https://gameofthrones.fandom.com/wiki/Qyburn"
+  },
+  {
+   "id": "jeor-mormont",
+   "name": "Jeor Mormont",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1b/Jeor_Mormont_Season_2.jpg/revision/latest/scale-to-width-down/333?cb=20120705014740",
+   "summary": "Jeor Mormont was the 997th Lord Commander of the Night's Watch. Before joining the Night's Watch, he was the head of House Mormont and the Lord of Bear Island.",
+   "url": "https://gameofthrones.fandom.com/wiki/Jeor_Mormont"
+  },
+  {
+   "id": "high-sparrow",
+   "name": "High Sparrow",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/3b/Blood_of_My_Blood_16.jpg/revision/latest/scale-to-width-down/333?cb=20160527164016",
+   "summary": "The High Sparrow was the leader of the religious sect known as the Sparrows and the newly appointed High Septon. Under his tenure, the Faith Militant was reestablished, and amasses considerable influence over the Iron Throne during the reign of King Tommen I. His real name is unknown. The High Sparrow was immensely…",
+   "url": "https://gameofthrones.fandom.com/wiki/High_Sparrow"
+  },
+  {
+   "id": "alliser-thorne",
+   "name": "Alliser Thorne",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/16/Game-of-thrones-season-6-owen-teale.jpeg/revision/latest/scale-to-width-down/301?cb=20221114060552",
+   "summary": "Ser Alliser Thorne was the master-at-arms at Castle Black, responsible for training new recruits to the Night's Watch.",
+   "url": "https://gameofthrones.fandom.com/wiki/Alliser_Thorne"
+  },
+  {
+   "id": "shae",
+   "name": "Shae",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/01/Shae_in_Two_Swords.png/revision/latest/scale-to-width-down/333?cb=20140505142823",
+   "summary": "Shae was a prostitute and Tyrion Lannister's mistress. She was also Sansa Stark's former handmaiden during her time in King's Landing.",
+   "url": "https://gameofthrones.fandom.com/wiki/Shae"
+  },
+  {
+   "id": "grey-worm",
+   "name": "Grey Worm",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/77/Grey-Worm-S8E5.png/revision/latest/scale-to-width-down/345?cb=20190508211715",
+   "summary": "Grey Worm is the chosen commander of the Unsullied, the warrior-eunuchs of Astapor, whose reputation for combat is without equal.",
+   "url": "https://gameofthrones.fandom.com/wiki/Grey_Worm"
+  },
+  {
+   "id": "gilly",
+   "name": "Gilly",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/ad/Gilly8x02.PNG/revision/latest/scale-to-width-down/322?cb=20190417232735",
+   "summary": "Gilly is one of the Free Folk, and is a daughter and wife of Craster. She is the mother (and half-sister) of a baby named Sam, who was produced through a forced relationship with her late father.",
+   "url": "https://gameofthrones.fandom.com/wiki/Gilly"
+  },
+  {
+   "id": "ygritte",
+   "name": "Ygritte",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/28/Ygritte-promotionals4pic.jpg/revision/latest/scale-to-width-down/334?cb=20170107042949",
+   "summary": "Ygritte was a woman of the Free Folk who lived north of the Wall. She was a member of Mance Rayder's army and Jon Snow's lover.",
+   "url": "https://gameofthrones.fandom.com/wiki/Ygritte"
+  },
+  {
+   "id": "house-martell",
+   "name": "House Martell",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/60/House_Martell.svg/revision/latest/scale-to-width-down/500?cb=20230905231024",
+   "summary": "House Martell of Sunspear is one of the Great Houses of Westeros. It rules the peninsula of Dorne in the far south of the continent. Though loyal to the Iron Throne, the Martells were never conquered by the Targaryens and have pursued a more isolated role in wider political events since Robert's Rebellion.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Martell"
+  },
+  {
+   "id": "winterfell",
+   "name": "Winterfell",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1f/801_Winterfell_Overview.png/revision/latest/scale-to-width-down/500?cb=20190415031728",
+   "summary": "Winterfell is the capital of the Kingdom of the North and the seat and the ancestral home of the royal House Stark. It is a very large castle located at the center of the North, from where the head of House Stark rules over his or her people.",
+   "url": "https://gameofthrones.fandom.com/wiki/Winterfell"
+  },
+  {
+   "id": "harrenhal",
+   "name": "Harrenhal",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/9b/Harrenhal.jpg/revision/latest/scale-to-width-down/500?cb=20150328214605",
+   "summary": "Harrenhal is a huge castle, the largest one in all of Westeros, though it is also the most ill-omened. It is located on the northern shore of the Gods Eye lake at the heart of the Riverlands, south of the River Trident and northwest of King's Landing.",
+   "url": "https://gameofthrones.fandom.com/wiki/Harrenhal"
+  },
+  {
+   "id": "helaena-targaryen",
+   "name": "Helaena Targaryen",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/c8/Helaena_Targaryen-301.jpg/revision/latest/scale-to-width-down/384?cb=20260721134042",
+   "summary": "Queen Helaena Targaryen was the daughter of King Viserys I Targaryen and Alicent Hightower, the sister-wife of King Aegon II Targaryen and the former Queen Consort of the Seven Kingdoms. She was the rider of the dragon Dreamfyre.",
+   "url": "https://gameofthrones.fandom.com/wiki/Helaena_Targaryen"
+  },
+  {
+   "id": "brynden-rivers",
+   "name": "Brynden Rivers",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/a8/Oathbreaker_05.jpg/revision/latest/scale-to-width-down/312?cb=20170818202718",
+   "summary": "Brynden Rivers was the last greenseer, a human living among the last of the Children of the Forest beyond the Wall. Under the guise of a Three-Eyed Raven, he appears in Bran Stark's dreams, following his fall and injury, prompting his quest beyond the Wall and guiding him to the cave in which his real human body…",
+   "url": "https://gameofthrones.fandom.com/wiki/Brynden_Rivers"
+  },
+  {
+   "id": "jaqen-h-ghar",
+   "name": "Jaqen H'ghar",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/da/The_Door_Jaqen_infobox.jpg/revision/latest/scale-to-width-down/322?cb=20160808073200",
+   "summary": "Jaqen H'ghar is the alias assumed by one of the Faceless Men of Braavos, a feared order of mysterious assassins with the ability to change their appearance at will. He was first introduced as a Lorathi criminal - who was arrested and put in the dungeons of King's Landing, before being recruited by Yoren to join the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Jaqen_H'ghar"
+  },
+  {
+   "id": "randyll-tarly",
+   "name": "Randyll Tarly",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/78/Randyll-Tarly-Profile.png/revision/latest/scale-to-width-down/370?cb=20170815052729",
+   "summary": "Lord Randyll Tarly was the head of House Tarly, the husband of Melessa Tarly, and father of Dickon, Samwell, and Talla Tarly. He was a powerful bannerman of House Tyrell until he sided with House Lannister, after being offered the Wardenship of the South by Jaime Lannister, during the Last War.",
+   "url": "https://gameofthrones.fandom.com/wiki/Randyll_Tarly"
+  },
+  {
+   "id": "house-baratheon",
+   "name": "House Baratheon",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/2d/House_Baratheon.svg/revision/latest/scale-to-width-down/458?cb=20230905221339",
+   "summary": "House Baratheon of Storm's End is a Great House of Westeros that traditionally rules the Stormlands on the eastern coast of Westeros, aptly named for its frequent storms.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Baratheon"
+  },
+  {
+   "id": "crownlands",
+   "name": "Crownlands",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/59/The_Crownlands.png/revision/latest/scale-to-width-down/500?cb=20120719191632",
+   "summary": "The Crownlands are one of the nine constituent regions of the Seven Kingdoms. Instead of being ruled by a Lord Paramount, the Crownlands are ruled directly by the monarch on the Iron Throne from the city of King's Landing, the largest city in Westeros and the capital of the Seven Kingdoms.",
+   "url": "https://gameofthrones.fandom.com/wiki/Crownlands"
+  },
+  {
+   "id": "bastard-letter",
+   "name": "Bastard Letter",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d1/604_Bastard_Letter.jpg/revision/latest/scale-to-width-down/312?cb=20160518182901",
+   "summary": "The Bastard Letter is a fan-given name for a letter which Ramsay Bolton sends to Jon Snow at Castle Black. Book fandom has popularly nicknamed it either the \"Bastard Letter\" or the \"Pink Letter\" (the Bolton sigil in the novels is a flayed red man on a pink background, thus the wax seal was pink). In the TV series,…",
+   "url": "https://gameofthrones.fandom.com/wiki/Bastard_Letter"
+  },
+  {
+   "id": "essos",
+   "name": "Essos",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/28/Essos.png/revision/latest/scale-to-width-down/500?cb=20221124163511",
+   "summary": "Essos is an immense landmass located to the east of Westeros, extending into the far east of the known world. The Free Cities are located on its north-western shores, with the Dothraki Sea located deep in the continental interior and the cities of Slaver's Bay on the south coast. The continent extends far to the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Essos"
+  },
+  {
+   "id": "talisa-stark",
+   "name": "Talisa Stark",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/ca/Talisa3x9.jpg/revision/latest/scale-to-width-down/315?cb=20150515053353",
+   "summary": "Queen Talisa Stark, née Maegyr, was a healer on the battlefields of the Westerlands, where she met the King in the North, Robb Stark, fell in love with him, and eventually married him. She was killed at the Red Wedding.",
+   "url": "https://gameofthrones.fandom.com/wiki/Talisa_Stark"
+  },
+  {
+   "id": "dragonstone",
+   "name": "Dragonstone",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/a4/Dragonstone-season7-low.png/revision/latest/scale-to-width-down/500?cb=20170717082952",
+   "summary": "Dragonstone, or Dragonstone Castle, is the castle that stands upon the eponymous island located in Blackwater Bay. It is the ancestral seat of House Targaryen and the former stronghold of House Baratheon of Dragonstone, a cadet branch of House Baratheon of Storm's End. It is within the Crownlands, the capital…",
+   "url": "https://gameofthrones.fandom.com/wiki/Dragonstone"
+  },
+  {
+   "id": "brynden-tully",
+   "name": "Brynden Tully",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/61/6x07_Blackfish.png/revision/latest/scale-to-width-down/377?cb=20160601191023",
+   "summary": "Ser Brynden Tully, popularly called the Blackfish, was a knight and a member of House Tully. He was the younger brother of Lord Hoster Tully, and the uncle of Catelyn, Lysa, and Edmure Tully.",
+   "url": "https://gameofthrones.fandom.com/wiki/Brynden_Tully"
+  },
+  {
+   "id": "thoros",
+   "name": "Thoros",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/93/Profile-Thoros.png/revision/latest/scale-to-width-down/344?cb=20170916221933",
+   "summary": "Thoros, commonly known as Thoros of Myr, was a red priest of the Lord of Light and a noted warrior, fighting in the Greyjoy Rebellion. He was a leading member of the Brotherhood Without Banners and a good friend of the Brotherhood's leader, Lord Beric Dondarrion.",
+   "url": "https://gameofthrones.fandom.com/wiki/Thoros"
+  },
+  {
+   "id": "house-bolton",
+   "name": "House Bolton",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/0c/House_Bolton.svg/revision/latest/scale-to-width-down/458?cb=20230905222045",
+   "summary": "House Bolton of the Dreadfort is an extinct Great House of Westeros. After the Red Wedding, they became the rulers of the North, having usurped their position from their former liege lords, House Stark. Their original lands were in the northeast of the North. The head of the house was the Lord of the Dreadfort.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Bolton"
+  },
+  {
+   "id": "daeron-targaryen",
+   "name": "Daeron Targaryen",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1f/Daeron_Targaryen-306.jpg/revision/latest/scale-to-width-down/334?cb=20260722141016",
+   "summary": "Prince Daeron Targaryen is a prince of the Targaryen dynasty and the fourth child of King Viserys I Targaryen and Queen Alicent Hightower. He rides the dragon Tessarion.",
+   "url": "https://gameofthrones.fandom.com/wiki/Daeron_Targaryen"
+  },
+  {
+   "id": "dragonstone-island",
+   "name": "Dragonstone (island)",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/83/Dragonstone-Island-Concept-Art.jpg/revision/latest/scale-to-width-down/500?cb=20170901144851",
+   "summary": "Dragonstone is a volcanic island in the Narrow Sea that guards the entrance to Blackwater Bay and the sea approaches to King's Landing, off the east coast of Westeros. It is the location of the eponymous castle of Dragonstone, the ancestral seat of House Targaryen, the former seat of King Stannis Baratheon, one of…",
+   "url": "https://gameofthrones.fandom.com/wiki/Dragonstone_(island)"
+  },
+  {
+   "id": "meera-reed",
+   "name": "Meera Reed",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/93/Meera_Infobox.PNG/revision/latest?cb=20170807214241",
+   "summary": "Meera Reed is the elder sister of Jojen Reed, and the only daughter of Howland Reed.",
+   "url": "https://gameofthrones.fandom.com/wiki/Meera_Reed"
+  },
+  {
+   "id": "luwin",
+   "name": "Luwin",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/53/Luwin.jpg/revision/latest?cb=20190714181951",
+   "summary": "Luwin was the maester of Winterfell and a loyal servant to House Stark. He acted as a surrogate parent to Bran Stark and Rickon Stark in the absence of their family. Cite error: &lt;ref&gt; tags exist for a group named \"lower-alpha\", but no corresponding &lt;references group=\"lower-alpha\"/&gt; tag was found",
+   "url": "https://gameofthrones.fandom.com/wiki/Luwin"
+  },
+  {
+   "id": "house-tully",
+   "name": "House Tully",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/61/House_Tully.svg/revision/latest/scale-to-width-down/458?cb=20230905235150",
+   "summary": "House Tully of Riverrun is a Great House of Westeros. Its most senior member carried the title of Lord of Riverrun and Lord Paramount of the Trident, until the Red Wedding. The current head is Lord Edmure Tully, son of the late Hoster Tully. The Tully sigil is a silver trout on a red and blue background. Their…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Tully"
+  },
+  {
+   "id": "red-keep",
+   "name": "Red Keep",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/71/S8_Red_Keep.jpg/revision/latest/scale-to-width-down/500?cb=20190305171013",
+   "summary": "The Red Keep is the residence of the King of the Andals and the First Men, his family and his court, located within King's Landing, the capital of the Seven Kingdoms. It dominates the skyline of the city and serves as the city's primary fortress and redoubt. It also houses the Small Council, the royal privy council…",
+   "url": "https://gameofthrones.fandom.com/wiki/Red_Keep"
+  },
+  {
+   "id": "order-of-maesters",
+   "name": "Order of Maesters",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/ac/Order_of_Maesters.svg/revision/latest?cb=20221202164054",
+   "summary": "The Order of Maesters, also known as the Order of the Maesters, and most often simply as the Maesters, are an order of intellectuals (scholars, healers, and other learned men) in the Seven Kingdoms.",
+   "url": "https://gameofthrones.fandom.com/wiki/Order_of_Maesters"
+  },
+  {
+   "id": "casterly-rock",
+   "name": "Casterly Rock",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/a8/Casterly-rock.png/revision/latest/scale-to-width-down/500?cb=20170731025431",
+   "summary": "Casterly Rock, also known simply as the Rock, is the ancestral stronghold of House Lannister. It is located on the western coast of Westeros on a rocky promontory overlooking the Sunset Sea. It overlooks the major city of Lannisport. A major goldmine is located under Casterly Rock. It is one of the most productive…",
+   "url": "https://gameofthrones.fandom.com/wiki/Casterly_Rock"
+  },
+  {
+   "id": "oldtown",
+   "name": "Oldtown",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/01/BtD_AIH_Oldtown.png/revision/latest/scale-to-width-down/500?cb=20220805155230",
+   "summary": "Oldtown is the second largest and most populated city in the Seven Kingdoms, and by far the oldest major city in Westeros, dating back to the time of the First Men. It is located in the far southwest of the continent, at the mouth of the River Honeywine where it opens into Whispering Sound and the Sunset Sea beyond.",
+   "url": "https://gameofthrones.fandom.com/wiki/Oldtown"
+  },
+  {
+   "id": "beyond-the-wall",
+   "name": "Beyond the Wall",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/34/Beyond_the_Wall.png/revision/latest/scale-to-width-down/500?cb=20150709184625",
+   "summary": "Beyond the Wall and north of the Wall are generic terms employed by the people of the Six Kingdoms and the Kingdom of the North to refer to the large area of Westeros that lies north of the Wall. It is the only part of the continent that is not part of a realm, and thus the only place where particular attention is…",
+   "url": "https://gameofthrones.fandom.com/wiki/Beyond_the_Wall"
+  },
+  {
+   "id": "riverrun",
+   "name": "Riverrun",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/66/Riverrun._battlements.png/revision/latest/scale-to-width-down/500?cb=20160606102912",
+   "summary": "Riverrun is the seat of House Tully, which was once occupied by House Frey.",
+   "url": "https://gameofthrones.fandom.com/wiki/Riverrun"
+  },
+  {
+   "id": "castle-black",
+   "name": "Castle Black",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/7b/Castle_Black.jpg/revision/latest/scale-to-width-down/500?cb=20110920111941",
+   "summary": "Castle Black is the primary headquarters and redoubt of the Night's Watch. It is located roughly halfway along the length of the Wall on its southern side, at the northern end of the Kingsroad. It is a dark and chilling home to its garrison.",
+   "url": "https://gameofthrones.fandom.com/wiki/Castle_Black"
+  },
+  {
+   "id": "otto-hightower",
+   "name": "Otto Hightower",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b8/Otto_Hightower-302.jpg/revision/latest/scale-to-width-down/369?cb=20260719181441",
+   "summary": "Ser Otto Hightower was a knight of House Hightower who served as Hand of the King to Jaehaerys I, Viserys I, and Aegon II. He was one of the primary leaders of the Greens during the Dance of the Dragons.",
+   "url": "https://gameofthrones.fandom.com/wiki/Otto_Hightower"
+  },
+  {
+   "id": "armament",
+   "name": "Armament",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/35/Jon_Snow%2C_Stark_soldiers_%28The_Queen%27s_Justice%29.jpg/revision/latest/scale-to-width-down/425?cb=20240208172558",
+   "summary": "Many types of armament, including weapons, armor, and other instruments of war, can be found across the known world. Ranging from handheld weapons to modes of transport, the designs of these instruments are typically influenced both by the cultures that created them and their intended use on the battlefield. Cite…",
+   "url": "https://gameofthrones.fandom.com/wiki/Armament"
+  },
+  {
+   "id": "loras-tyrell",
+   "name": "Loras Tyrell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/02/LorasTyrell5X06.PNG/revision/latest?cb=20181013200613",
+   "summary": "Ser Loras Tyrell was a popular tourney knight and was regarded as one of the most skilled knights in Westeros. He was the heir to Highgarden, as well as the brother of Margaery Tyrell, who would later become Queen of the Seven Kingdoms. He also had a long-term romantic relationship with Renly Baratheon and was…",
+   "url": "https://gameofthrones.fandom.com/wiki/Loras_Tyrell"
+  },
+  {
+   "id": "olenna-tyrell",
+   "name": "Olenna Tyrell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/f2/OlennaS7E3.png/revision/latest/scale-to-width-down/365?cb=20170803074257",
+   "summary": "Lady Olenna Tyrell, née Redwyne, was the elderly matriarch of House Tyrell and the last known head of that house. Lady Olenna had been a mistress of court politics, plotting and intrigue par excellence throughout her life. She was also known for her wit and sarcasm. As a result, Lady Olenna was popularly nicknamed…",
+   "url": "https://gameofthrones.fandom.com/wiki/Olenna_Tyrell"
+  },
+  {
+   "id": "narrow-sea",
+   "name": "Narrow Sea",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/91/Tyrion_and_Varys.jpg/revision/latest/scale-to-width-down/500?cb=20150328213635",
+   "summary": "The Narrow Sea is the sea that lies to the east of Westeros. It separates Westeros from the larger continent of Essos to the east. The sea is relatively narrow passing east to west between the continents and easy to cross, hence its name. However, while it is narrow enough to allow commercial shipping and cultural…",
+   "url": "https://gameofthrones.fandom.com/wiki/Narrow_Sea"
+  },
+  {
+   "id": "jacaerys-velaryon",
+   "name": "Jacaerys Velaryon",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/5f/Jacaerys-206.jpeg/revision/latest/scale-to-width-down/364?cb=20240719110656",
+   "summary": "Prince Jacaerys Velaryon, nicknamed Jace, was a prince of the Targaryen dynasty, and the firstborn son of Queen Rhaenyra Targaryen. He was the rider of the dragon Vermax.",
+   "url": "https://gameofthrones.fandom.com/wiki/Jacaerys_Velaryon"
+  },
+  {
+   "id": "small-council",
+   "name": "Small Council",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/ac/Game-of-thrones-season-8-finale-tyrion-1558351315.jpg/revision/latest/scale-to-width-down/500?cb=20190522190741",
+   "summary": "The Small Council is a governing body which advises the king of the Seven Kingdoms, later the Six Kingdoms and institutes policy at his command. It is the inner (thus \"small\") council of the king, essentially forming the \"government cabinet\" of the Seven Kingdoms. Members are appointed to their position by the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Small_Council"
+  },
+  {
+   "id": "myrcella-baratheon",
+   "name": "Myrcella Baratheon",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/02/MyrcellaS5Cropped.jpg/revision/latest/scale-to-width-down/339?cb=20160802025401",
+   "summary": "Princess Myrcella Baratheon was legally the only daughter of King Robert Baratheon and Queen Cersei Lannister. However, like her brothers, her real father is Jaime Lannister, making her a bastard born out of incest.",
+   "url": "https://gameofthrones.fandom.com/wiki/Myrcella_Baratheon"
+  },
+  {
+   "id": "eddison-tollett",
+   "name": "Eddison Tollett",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/75/Edd_At_The_Wall.PNG/revision/latest?cb=20190415204333",
+   "summary": "Eddison Tollett was a steward of the Night's Watch and a close friend of Jon Snow, Samwell Tarly, Grenn, and Pypar. He also participated in the conflict beyond the Wall, taking command of the Wall whilst Jon reinforced the southern gate, during the battle for the Wall. He later accompanied Jon to Hardhome, where he…",
+   "url": "https://gameofthrones.fandom.com/wiki/Eddison_Tollett"
+  },
+  {
+   "id": "drogon",
+   "name": "Drogon",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/8f/DrogonWinterfell8x01.PNG/revision/latest/scale-to-width-down/362?cb=20190515233534",
+   "summary": "Drogon is one of the three dragons born in the Dothraki Sea, along with his brothers Rhaegal and Viserion. He is named after Daenerys's late husband Khal Drogo. He can be distinguished by his black and red colored scales, and red-black wings. He was also Daenerys's personal mount. With the deaths of Viserion and…",
+   "url": "https://gameofthrones.fandom.com/wiki/Drogon"
+  },
+  {
+   "id": "podrick-payne",
+   "name": "Podrick Payne",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/22/Podrick8x01.PNG/revision/latest/scale-to-width-down/315?cb=20190427145446",
+   "summary": "Ser Podrick Payne, often called Pod, is a knight of House Payne and a member of King Bran the Broken's Kingsguard. He began as a squire during the War of the Five Kings, and was eventually assigned to Lord Tyrion Lannister. Following Tyrion's arrest for the murder of King Joffrey Baratheon, and up until Podrick's…",
+   "url": "https://gameofthrones.fandom.com/wiki/Podrick_Payne"
+  },
+  {
+   "id": "doran-martell",
+   "name": "Doran Martell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/f9/Profile-DoranMartell.png/revision/latest/scale-to-width-down/425?cb=20170728221257",
+   "summary": "Prince Doran Martell was the head of House Martell and the ruling Prince of Dorne. He was the older brother of Elia and Oberyn Martell, and the father of Trystane Martell.",
+   "url": "https://gameofthrones.fandom.com/wiki/Doran_Martell"
+  },
+  {
+   "id": "ormund-hightower",
+   "name": "Ormund Hightower",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/9b/Ormund_Hightower-306.jpg/revision/latest/scale-to-width-down/389?cb=20260721223711",
+   "summary": "Lord Ormund Hightower was the head of House Hightower and Lord of Oldtown during the Dance of the Dragons. Although initially aligned under the banner of King Aegon II Targaryen, Ormund planned to install Aegon's youngest brother, Daeron Targaryen, on the Iron Throne. Ormund served as the effective leader of the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Ormund_Hightower"
+  },
+  {
+   "id": "walder-frey",
+   "name": "Walder Frey",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/e/e4/S06E06_-_Walder_Frey_Cropped_new.jpg/revision/latest/scale-to-width-down/329?cb=20161215025257",
+   "summary": "Lord Walder Frey was the Lord of the Crossing, Lord of Riverrun, Lord Paramount of the Trident, and the head of House Frey, the Great House of the Riverlands, and a former vassal to House Tully, the previous Great House which he betrayed.",
+   "url": "https://gameofthrones.fandom.com/wiki/Walder_Frey"
+  },
+  {
+   "id": "aemon",
+   "name": "Aemon",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/32/Aemonepisode5.png/revision/latest/scale-to-width-down/315?cb=20190427054732",
+   "summary": "Maester Aemon was the maester at Castle Black in service of the Night's Watch. He was among Lord Commander Jeor Mormont's closest advisors.",
+   "url": "https://gameofthrones.fandom.com/wiki/Aemon"
+  },
+  {
+   "id": "night-king",
+   "name": "Night King",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1f/Night_King_BTW.jpg/revision/latest?cb=20210722093007",
+   "summary": "The Night King was the master and the first of the White Walkers, having existed since the age of the First Men. He was also the supreme leader of the Army of the Dead.",
+   "url": "https://gameofthrones.fandom.com/wiki/Night_King"
+  },
+  {
+   "id": "lyanna-stark",
+   "name": "Lyanna Stark",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/85/Lyanna_S7_E7.jpg/revision/latest/scale-to-width-down/301?cb=20170830234842",
+   "summary": "Lyanna Stark was the daughter of Lord Rickard Stark and sister of Brandon, Eddard, and Benjen. She went on to be the wife of Rhaegar Targaryen, and mother to his son.",
+   "url": "https://gameofthrones.fandom.com/wiki/Lyanna_Stark"
+  },
+  {
+   "id": "shireen-baratheon",
+   "name": "Shireen Baratheon",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/e/eb/Shireen_Baratheon_Season_4_profile.jpg/revision/latest/scale-to-width-down/369?cb=20210722092809",
+   "summary": "Princess Shireen Baratheon was the only surviving child of Stannis and Selyse Baratheon.",
+   "url": "https://gameofthrones.fandom.com/wiki/Shireen_Baratheon"
+  },
+  {
+   "id": "balon-greyjoy",
+   "name": "Balon Greyjoy",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/19/Balon-profile.png/revision/latest/scale-to-width-down/458?cb=20170420085750",
+   "summary": "King Balon Greyjoy was the Lord Reaper of Pyke and the head of House Greyjoy. He was the father of Yara and Theon Greyjoy, and the older brother of Euron, and Aeron \"Damphair\" Greyjoy.",
+   "url": "https://gameofthrones.fandom.com/wiki/Balon_Greyjoy"
+  },
+  {
+   "id": "kevan-lannister",
+   "name": "Kevan Lannister",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/6d/Kevan-profile.png/revision/latest/scale-to-width-down/375?cb=20170421102914",
+   "summary": "Ser Kevan Lannister was the younger brother of Lord Tywin Lannister and one of his most loyal and trusted officers in the Lannister armies during the War of the Five Kings.",
+   "url": "https://gameofthrones.fandom.com/wiki/Kevan_Lannister"
+  },
+  {
+   "id": "lancel-lannister",
+   "name": "Lancel Lannister",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/a5/No_One_09.jpg/revision/latest/scale-to-width-down/296?cb=20170829235034",
+   "summary": "Lancel Lannister was the eldest son of Kevan Lannister and a nephew of Tywin Lannister. He served as a squire for King Robert Baratheon until Robert's death. Cite error: &lt;ref&gt; tags exist for a group named \"lower-alpha\", but no corresponding &lt;references group=\"lower-alpha\"/&gt; tag was found",
+   "url": "https://gameofthrones.fandom.com/wiki/Lancel_Lannister"
+  },
+  {
+   "id": "beric-dondarrion",
+   "name": "Beric Dondarrion",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/44/803_Beric_Promo_Crop.png/revision/latest/scale-to-width-down/351?cb=20190503201035",
+   "summary": "Lord Beric Dondarrion was the Lord of Blackhaven and the head of House Dondarrion. Initially assigned by Eddard Stark to apprehend Ser Gregor Clegane, he and his men formed a guerrilla resistance group known as the Brotherhood Without Banners, with Dondarrion as their leader.",
+   "url": "https://gameofthrones.fandom.com/wiki/Beric_Dondarrion"
+  },
+  {
+   "id": "lyanna-mormont",
+   "name": "Lyanna Mormont",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b9/Lyanna_S8_EP2infobox.jpg/revision/latest/scale-to-width-down/298?cb=20190418000519",
+   "summary": "Lady Lyanna Mormont was the young Lady of Bear Island and head of House Mormont following the death of her mother, Maege Mormont, in the War of the Five Kings.",
+   "url": "https://gameofthrones.fandom.com/wiki/Lyanna_Mormont"
+  },
+  {
+   "id": "great-house",
+   "name": "Great House",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1d/Jeyne_Arryn.png/revision/latest/scale-to-width-down/309?cb=20240502172801",
+   "summary": "The Great Houses are the most powerful of the noble houses of the Seven Kingdoms. They exercise immense authority and power over their vassals and territories and are answerable only to the King of the Andals and the Rhoynar and the First Men, with the exception of House Stark, which rules over an independent kingdom.",
+   "url": "https://gameofthrones.fandom.com/wiki/Great_House"
+  },
+  {
+   "id": "duncan-the-tall",
+   "name": "Duncan the Tall",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/31/Dunk-The_Morrow.png/revision/latest/scale-to-width-down/375?cb=20260219111850",
+   "summary": "Ser Duncan the Tall, known as Dunk in his years as squire, is a young hedge knight.",
+   "url": "https://gameofthrones.fandom.com/wiki/Duncan_the_Tall"
+  },
+  {
+   "id": "locke",
+   "name": "Locke",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/cf/Locke_Staffel_4.jpg/revision/latest?cb=20170905200142",
+   "summary": "Locke was a man-at-arms sworn to House Bolton, considered by Roose Bolton to be his best hunter. Cite error: &lt;ref&gt; tags exist for a group named \"lower-alpha\", but no corresponding &lt;references group=\"lower-alpha\"/&gt; tag was found",
+   "url": "https://gameofthrones.fandom.com/wiki/Locke"
+  },
+  {
+   "id": "elia-martell",
+   "name": "Elia Martell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/c6/Elia_Martell.png/revision/latest?cb=20161215025158",
+   "summary": "Princess Elia Martell was the sister of Doran Martell, the Prince of Dorne and head of House Martell, and Oberyn Martell, the Red Viper. She was married to Prince Rhaegar Targaryen, heir to Aerys II, and bore him two children: Rhaenys and Aegon. She and her children were killed by Gregor Clegane on the orders of…",
+   "url": "https://gameofthrones.fandom.com/wiki/Elia_Martell"
+  },
+  {
+   "id": "lysa-arryn",
+   "name": "Lysa Arryn",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/46/LysaArryn.png/revision/latest/scale-to-width-down/364?cb=20140523133128",
+   "summary": "Lady Lysa Arryn, née Tully, was born into House Tully as the daughter of Hoster Tully, the Lord Paramount of the Trident, and sister of Catelyn and Edmure Tully. She married into House Arryn through her marriage to Jon Arryn. After Jon's death, whom she had secretly murdered on behalf of Petyr Baelish, her true…",
+   "url": "https://gameofthrones.fandom.com/wiki/Lysa_Arryn"
+  },
+  {
+   "id": "edmure-tully",
+   "name": "Edmure Tully",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/12/EdmureInfobox.PNG/revision/latest/scale-to-width-down/336?cb=20190520033037",
+   "summary": "Lord Edmure Tully is the Lord of Riverrun and Lord Paramount of the Trident, the son and heir of the late Lord Hoster Tully of Riverrun. He is the younger brother of Catelyn and Lysa.",
+   "url": "https://gameofthrones.fandom.com/wiki/Edmure_Tully"
+  },
+  {
+   "id": "janos-slynt",
+   "name": "Janos Slynt",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/ce/S4_Slynt_HD.png/revision/latest/scale-to-width-down/312?cb=20190428041934",
+   "summary": "Lord Janos Slynt was the commander of the City Watch of King's Landing and founder of House Slynt. After being dismissed from his position by Tyrion Lannister, he was sent to Castle Black and forced to join the Night's Watch.",
+   "url": "https://gameofthrones.fandom.com/wiki/Janos_Slynt"
+  },
+  {
+   "id": "mace-tyrell",
+   "name": "Mace Tyrell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/f0/Profile-MaceTyrell.png/revision/latest/scale-to-width-down/384?cb=20170729074743",
+   "summary": "Lord Mace Tyrell was the Lord of Highgarden and head of House Tyrell. He was the father of Loras and Margaery Tyrell, and the son of Olenna Tyrell. He initially supported Renly Baratheon's claim to the Iron Throne in the War of the Five Kings, but after Renly's death he successfully negotiated an alliance with…",
+   "url": "https://gameofthrones.fandom.com/wiki/Mace_Tyrell"
+  },
+  {
+   "id": "robin-arryn",
+   "name": "Robin Arryn",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/8e/RobinArryn.png/revision/latest?cb=20190521213310",
+   "summary": "Lord Robin Arryn, called \"Sweetrobin\" by his mother, is the only surviving child and heir of Lord Jon Arryn by his wife, Lysa of House Tully, who served as Robin's regent during his minority. He is the head of House Arryn, the Warden of the East and Defender of the Vale.",
+   "url": "https://gameofthrones.fandom.com/wiki/Robin_Arryn"
+  },
+  {
+   "id": "hodor",
+   "name": "Hodor",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/18/Season_6_hodor_main.jpg/revision/latest/scale-to-width-down/317?cb=20210722015036",
+   "summary": "Hodor, originally named Wylis, was a simpleminded servant of House Stark at Winterfell working in the stables.",
+   "url": "https://gameofthrones.fandom.com/wiki/Hodor"
+  },
+  {
+   "id": "orwyle",
+   "name": "Orwyle",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/6e/Orwyle_Official_Guide.jpg/revision/latest/scale-to-width-down/340?cb=20220919025357",
+   "summary": "Orwyle is the Grand Maester on the Small Council of Viserys I Targaryen. He continued his service as part of the Green Council for Aegon II Targaryen during the inital phase of the Dance of the Dragons. Following the fall of King's Landing, Orwyle defected from the Greens and now serves as Grand Maester for…",
+   "url": "https://gameofthrones.fandom.com/wiki/Orwyle"
+  },
+  {
+   "id": "drogo",
+   "name": "Drogo",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/21/Khal_Drogo_infobox_promo.jpg/revision/latest/scale-to-width-down/317?cb=20190427051349",
+   "summary": "Khal Drogo was a chieftain of a Dothraki khalasar. He was often referred to as \"The Great Khal.\" He is also the namesake of the last living dragon in existence, Drogon, who was the personal mount of his late widow.",
+   "url": "https://gameofthrones.fandom.com/wiki/Drogo"
+  },
+  {
+   "id": "larys-strong",
+   "name": "Larys Strong",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/76/Larys_Strong_S2.jpg/revision/latest/scale-to-width-down/372?cb=20240606091503",
+   "summary": "Lord Larys Strong, called the Clubfoot due to his pronounced birth defect, is the Lord of Harrenhal and head of House Strong. He is the second son of Lord Lyonel Strong, and the younger brother of Ser Harwin Strong. Late in the reign of King Viserys I Targaryen, he rose to the position of Lord Confessor. He remains…",
+   "url": "https://gameofthrones.fandom.com/wiki/Larys_Strong"
+  },
+  {
+   "id": "mance-rayder",
+   "name": "Mance Rayder",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/17/GOT_Season_5_10.jpg/revision/latest/scale-to-width-down/333?cb=20160826005613",
+   "summary": "Mance Rayder was the leader of the Free Folk, holding the title of \"King-Beyond-the-Wall,\" and a feared opponent of the Night's Watch, which he formerly served in as a black brother.",
+   "url": "https://gameofthrones.fandom.com/wiki/Mance_Rayder"
+  },
+  {
+   "id": "jaehaerys-i-targaryen",
+   "name": "Jaehaerys I Targaryen",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/22/Jaehaerys_I_Targaryen_Official_Guide.jpg/revision/latest/scale-to-width-down/340?cb=20220823075450",
+   "summary": "King Jaehaerys I Targaryen, commonly known as the Old King and Jaehaerys the Conciliator, was the fourth king of the Targaryen dynasty. The longest-reigning king in the history of the Seven Kingdoms, he is known for building the Kingsroad and reconciling with the Faith after the Faith Militant uprising. He was a…",
+   "url": "https://gameofthrones.fandom.com/wiki/Jaehaerys_I_Targaryen"
+  },
+  {
+   "id": "tyene-sand",
+   "name": "Tyene Sand",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/66/TyeneS7E3.png/revision/latest/scale-to-width-down/311?cb=20170803071652",
+   "summary": "Tyene Sand was a bastard daughter of Prince Oberyn Martell and his paramour, Ellaria Sand, and one of the Sand Snakes. She takes part in the Coup in Dorne, during which she seizes power in Dorne from the legitimate House Martell along with her mother, Ellaria, and her half-sisters Obara Sand and Nymeria Sand, by…",
+   "url": "https://gameofthrones.fandom.com/wiki/Tyene_Sand"
+  },
+  {
+   "id": "mysaria",
+   "name": "Mysaria",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/78/305_Mysaria_Still.jpg/revision/latest/scale-to-width-down/333?cb=20260717142727",
+   "summary": "Mysaria is an information broker, former prostitute, and brothel proprietor. Under the alias of the White Worm, she leads a network of spies and informants active in King's Landing. She later becomes the Mistress of Whisperers of Queen Rhaenyra Targaryen.",
+   "url": "https://gameofthrones.fandom.com/wiki/Mysaria"
+  },
+  {
+   "id": "house-baratheon-of-king-s-landing",
+   "name": "House Baratheon of King's Landing",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/6f/House_Baratheon_of_King%27s_Landing.svg/revision/latest/scale-to-width-down/458?cb=20230905221114",
+   "summary": "House Baratheon of King's Landing is an extinct branch of the original House Baratheon of Storm's End. It had been the royal house of Westeros since the defeat of and exile of the Targaryen dynasty following Robert's Rebellion.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Baratheon_of_King's_Landing"
+  },
+  {
+   "id": "lyonel-strong",
+   "name": "Lyonel Strong",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/0e/Lyonel_Strong_TPATQ.jpg/revision/latest/scale-to-width-down/375?cb=20221115082105",
+   "summary": "Lord Lyonel Strong was the Lord of Harrenhal and Hand of the King to Viserys I Targaryen. He is the father of Ser Harwin Strong and Larys Strong.",
+   "url": "https://gameofthrones.fandom.com/wiki/Lyonel_Strong"
+  },
+  {
+   "id": "rickon-stark",
+   "name": "Rickon Stark",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d9/Battle_of_the_Bastards_42.jpg/revision/latest/scale-to-width-down/365?cb=20160621185459",
+   "summary": "Rickon Stark was the youngest child and third son of Eddard and Catelyn Stark.",
+   "url": "https://gameofthrones.fandom.com/wiki/Rickon_Stark"
+  },
+  {
+   "id": "house-arryn",
+   "name": "House Arryn",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b4/House_Arryn.svg/revision/latest/scale-to-width-down/458?cb=20230905220728",
+   "summary": "House Arryn of the Eyrie is one of the Great Houses of Westeros. It has ruled over the Vale of Arryn for millennia, originally as the Kings of the Mountain and the Vale and more recently as Defenders of the Vale and Wardens of the East under the Targaryen, Baratheon, and Lannister dynasties. The nominal head of…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Arryn"
+  },
+  {
+   "id": "sothoryos",
+   "name": "Sothoryos",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/78/Sothoryos.png/revision/latest/scale-to-width-down/500?cb=20221124174632",
+   "summary": "Sothoryos is the third continent in the known world, after Westeros and Essos. It lies to the southeast of Westeros and due south of Slaver's Bay in Essos, across the Summer Sea. Sothoryos is located in the extreme south of the known world, and it is mostly unexplored. It is unknown if there are other continents.",
+   "url": "https://gameofthrones.fandom.com/wiki/Sothoryos"
+  },
+  {
+   "id": "house-velaryon",
+   "name": "House Velaryon",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/5f/House_Velaryon.svg/revision/latest/scale-to-width-down/458?cb=20230905235447",
+   "summary": "House Velaryon of Driftmark is a noble house of Valyrians in the Crownlands, and one of the few houses of the Seven Kingdoms besides the Targaryens that originated in Essos. They rule Driftmark, an island in Blackwater Bay located west of Dragonstone. Their seat, High Tide, is located on a small island off the…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Velaryon"
+  },
+  {
+   "id": "house-mormont",
+   "name": "House Mormont",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/46/House_Mormont.svg/revision/latest/scale-to-width-down/458?cb=20230905231402",
+   "summary": "House Mormont of Bear Island is an extinct noble house from the North that held fealty to House Stark of Winterfell. They ruled Bear Island, an island far to the northwest of Winterfell, from the castle Mormont Keep. The head of the house was the Lord of Bear Island. The family possessed the Valyrian sword…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Mormont"
+  },
+  {
+   "id": "house-frey",
+   "name": "House Frey",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/da/House_Frey.svg/revision/latest/scale-to-width-down/458?cb=20230905224842",
+   "summary": "House Frey of the Twins is a noble house from the Riverlands and a vassal of House Tully. They were briefly a Great House of Westeros after betraying their liege lords at the Red Wedding, but they were eventually subdued once more.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Frey"
+  },
+  {
+   "id": "house-greyjoy",
+   "name": "House Greyjoy",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/5b/House_Greyjoy.svg/revision/latest/scale-to-width-down/458?cb=20230905225243",
+   "summary": "House Greyjoy of Pyke is one of the Great Houses of Westeros. It rules over the Iron Islands, a harsh and bleak collection of islands off the west coast of Westeros, from the castle at Pyke. The head of the house is the Lord Reaper of Pyke.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Greyjoy"
+  },
+  {
+   "id": "iron-bank-of-braavos",
+   "name": "Iron Bank of Braavos",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/8e/Iron_Bank_of_Braavos.svg/revision/latest/scale-to-width-down/500?cb=20240329235353",
+   "summary": "The Iron Bank of Braavos, or simply the Iron Bank, is a bank in the Free City of Braavos. It is arguably the most powerful financial institution in the known world, with clients across Essos and Westeros, including the government of the King of the Andals and the First Men who rules over the Seven Kingdoms.",
+   "url": "https://gameofthrones.fandom.com/wiki/Iron_Bank_of_Braavos"
+  },
+  {
+   "id": "house-karstark",
+   "name": "House Karstark",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/House_Karstark.svg/revision/latest/scale-to-width-down/458?cb=20230905225947",
+   "summary": "House Karstark of Karhold is an extinct noble house that held fealty to House Stark of Winterfell, and briefly did so for House Bolton of the Dreadfort after the Red Wedding due to Robb Stark executing their lord, Rickard Karstark, for treason during the War of the Five Kings. Their lands are northeast of…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Karstark"
+  },
+  {
+   "id": "highgarden",
+   "name": "Highgarden",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/a/a2/704_Highgarden.png/revision/latest/scale-to-width-down/500?cb=20170807030944",
+   "summary": "Highgarden was the seat of House Tyrell and is the regional capital of the Reach. Located on the banks of the river Mander, Highgarden sits astride the Roseroad, a major thoroughfare linking Oldtown and King's Landing. Highgarden also forms the southern terminus of the the Searoad, which leads to Lannisport. As…",
+   "url": "https://gameofthrones.fandom.com/wiki/Highgarden"
+  },
+  {
+   "id": "city-watch-of-king-s-landing",
+   "name": "City Watch of King's Landing",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/36/JanosSlynt.jpg/revision/latest/scale-to-width-down/500?cb=20110531002026",
+   "summary": "The City Watch of King's Landing, or simply the City Watch, is a law-enforcement and military institution responsible for the security of the capital city of the Seven Kingdoms. Men of the Watch are more colloquially known as \"Gold Cloaks\" because of the gold-colored capes they wear. The Crown pays the City Watch…",
+   "url": "https://gameofthrones.fandom.com/wiki/City_Watch_of_King's_Landing"
+  },
+  {
+   "id": "valyrian-steel",
+   "name": "Valyrian steel",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/23/S2_Daemon_Helmet.png/revision/latest/scale-to-width-down/500?cb=20231202183711",
+   "summary": "Valyrian steel is an alloy of primarily iron that was forged in the days of the mighty Valyrian Freehold. When fashioned into bladed weapons, the steel can hold an especially keen edge, remaining sharp forever without the need for honing.",
+   "url": "https://gameofthrones.fandom.com/wiki/Valyrian_steel"
+  },
+  {
+   "id": "house-baratheon-of-dragonstone",
+   "name": "House Baratheon of Dragonstone",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/44/House_Baratheon_of_Dragonstone.svg/revision/latest/scale-to-width-down/458?cb=20230905221034",
+   "summary": "House Baratheon of Dragonstone is an extinct branch of the original House Baratheon of Storm's End and was the ruling house of the island of Dragonstone after the defeat of House Targaryen in Robert's Rebellion. Stannis Baratheon, the head of the house, was a claimant to the Iron Throne in the War of the Five Kings.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Baratheon_of_Dragonstone"
+  },
+  {
+   "id": "greens",
+   "name": "Greens",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/c3/TLOTT_Criston%2C_Aegon%2C_Aemond%2C_Helaena%2C_Alicent_%26_Otto.png/revision/latest/scale-to-width-down/500?cb=20221004222448",
+   "summary": "The Greens are a political faction that support the claim of Aegon II Targaryen on the Iron Throne. During the Dance of the Dragons, they oppose the Blacks, who support Rhaenyra Targaryen.",
+   "url": "https://gameofthrones.fandom.com/wiki/Greens"
+  },
+  {
+   "id": "crown",
+   "name": "Crown",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/93/Aegon_the_Conqueror_Crown.png/revision/latest/scale-to-width-down/500?cb=20221024024649",
+   "summary": "Crowns are worn as a symbol of royal or elevated office, especially by kings. It is customary for kings in Westeros to wear a crown, though not all kings have. Monarchs may either use crowns inherited from their predecessors, to indicate continuity and right to rule, or for various reasons fashion new crowns for…",
+   "url": "https://gameofthrones.fandom.com/wiki/Crown"
+  },
+  {
+   "id": "dragonglass",
+   "name": "Dragonglass",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d8/Dragonglass.jpg/revision/latest/scale-to-width-down/500?cb=20150407175226",
+   "summary": "Dragonglass is a common name in the known world for the substance known as obsidian, a form of volcanic glass. Along with Valyrian steel, it is one of the two known substances capable of killing White Walkers. It is also capable of killing wights. In Old Valyria, it was known as zīrtys perzys, which translates to…",
+   "url": "https://gameofthrones.fandom.com/wiki/Dragonglass"
+  },
+  {
+   "id": "animals-and-plants",
+   "name": "Animals and plants",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/87/SummerS3.jpg/revision/latest/scale-to-width-down/500?cb=20150404133818",
+   "summary": "Many different kinds of animals and plants are found across the known world, in the three continents Westeros, Essos, and Sothoryos.",
+   "url": "https://gameofthrones.fandom.com/wiki/Animals_and_plants"
+  },
+  {
+   "id": "storm-s-end",
+   "name": "Storm's End",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/25/Storm%27s_End_Official_Guide.jpg/revision/latest/scale-to-width-down/500?cb=20221024024717",
+   "summary": "Storm's End is the ancestral seat of House Baratheon. Lord Gendry Baratheon is the Lord of Storm's End. Storm's End is a formidable fortress, located on the southeastern coast of Westeros overlooking Shipbreaker Bay.",
+   "url": "https://gameofthrones.fandom.com/wiki/Storm's_End"
+  },
+  {
+   "id": "direwolf",
+   "name": "Direwolf",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/e/eb/GreyWind_infobox.jpg/revision/latest/scale-to-width-down/500?cb=20160716040416",
+   "summary": "The direwolf is an unusually large and intelligent species of wolf that inhabit Westeros. The Starks use a grey direwolf's head as their sigil.",
+   "url": "https://gameofthrones.fandom.com/wiki/Direwolf"
+  },
+  {
+   "id": "asshai",
+   "name": "Asshai",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/4e/Asshai.png/revision/latest/scale-to-width-down/500?cb=20230103070524",
+   "summary": "Asshai is a city located in the far southeast of the continent of Essos, on the eastern shore of the Jade Sea. This places Asshai far beyond the Free Cities, the Dothraki Sea, and the Bay of Dragons. Qarth is located closer to it, given that the Straits of Qarth form the western entrance to the Jade Sea, but it…",
+   "url": "https://gameofthrones.fandom.com/wiki/Asshai"
+  },
+  {
+   "id": "house-blackfyre",
+   "name": "House Blackfyre",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/10/House_Blackfyre.svg/revision/latest/scale-to-width-down/458?cb=20230905221714",
+   "summary": "House Blackfyre is an extinct branch of House Targaryen, founded by Daemon Blackfyre, a bastard son of King Aegon IV Targaryen, following his legitimization. Their sigil was a black three-headed dragon on a red field, a reversal of the Targaryen heraldry.",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Blackfyre"
+  },
+  {
+   "id": "alchemists-guild",
+   "name": "Alchemists' Guild",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/38/Alchemist%27s_guild.png/revision/latest/scale-to-width-down/500?cb=20130416142918",
+   "summary": "The Alchemists' Guild is an ancient Westerosi order based in the city of King's Landing, claiming magical and arcane knowledge. If they ever did possess such powers, their knowledge and abilities have waned over the centuries, and they have been largely eclipsed by the Order of Maesters, who focus on scientific…",
+   "url": "https://gameofthrones.fandom.com/wiki/Alchemists'_Guild"
+  },
+  {
+   "id": "wildfire",
+   "name": "Wildfire",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/41/Wildfire_explosion.jpg/revision/latest/scale-to-width-down/500?cb=20150328212702",
+   "summary": "Wildfire, also known as the substance, is a flammable liquid which is created and controlled by the Alchemists' Guild, an ancient society of learned men using arcane knowledge and is now based in the city of King's Landing. Wildfire is a highly volatile material; when ignited, it can explode with tremendous force…",
+   "url": "https://gameofthrones.fandom.com/wiki/Wildfire"
+  },
+  {
+   "id": "twins",
+   "name": "Twins",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/0a/The-Twins-Second-Sons.jpg/revision/latest/scale-to-width-down/500?cb=20140327131156",
+   "summary": "The Twins, sometimes known as the Crossing, is a castle and the seat of House Frey, the former Great House of the Riverlands. It consists of two near-identical towers and a fortified bridge over the Green Fork of the Trident.",
+   "url": "https://gameofthrones.fandom.com/wiki/Twins"
+  },
+  {
+   "id": "white-harbor",
+   "name": "White Harbor",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1a/WhiteHarbor.jpg/revision/latest/scale-to-width-down/500?cb=20140218212230",
+   "summary": "White Harbor is the only city in the North. It is one of the major cities of Westeros, located where the White Knife River flows into the Bite. It is the seat of House Manderly, a vassal house holding fealty to House Stark of Winterfell. White Harbor is the main seaport of the North and is one of only five…",
+   "url": "https://gameofthrones.fandom.com/wiki/White_Harbor"
+  },
+  {
+   "id": "blacks",
+   "name": "Blacks",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/25/TLOTT_Blacks_Still.jpg/revision/latest/scale-to-width-down/500?cb=20221006131039",
+   "summary": "The Blacks are a political faction that support the claim of Rhaenyra Targaryen as heir to the Iron Throne. During the Dance of the Dragons, they oppose the Greens, who support Aegon II Targaryen.",
+   "url": "https://gameofthrones.fandom.com/wiki/Blacks"
+  },
+  {
+   "id": "house-hoare",
+   "name": "House Hoare",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d1/House_Hoare.svg/revision/latest/scale-to-width-down/457?cb=20260315085203",
+   "summary": "House Hoare of Harrenhal is an extinct Great House of Westeros. It ruled over the Iron Islands and the Riverlands when Aegon I Targaryen invaded the Seven Kingdoms. Their sigil depicts per saltire and with two heavy silver chains crossing between a gold longship on black (for the Iron Islands), a dark green pine on…",
+   "url": "https://gameofthrones.fandom.com/wiki/House_Hoare"
+  },
+  {
+   "id": "dragonkeepers",
+   "name": "Dragonkeepers",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/7a/Dragonkeepers.png/revision/latest/scale-to-width-down/500?cb=20220901121945",
+   "summary": "The Dragonkeepers are a monk-like order tasked with guarding and taking care of House Targaryen's dragons.",
+   "url": "https://gameofthrones.fandom.com/wiki/Dragonkeepers"
+  },
+  {
+   "id": "poison",
+   "name": "Poison",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/Jaime-and-Myrcella-S05E10.jpg/revision/latest/scale-to-width-down/500?cb=20150616102219",
+   "summary": "A poison is a toxic substance that disrupts the proper functions of the body, often with lethal effects.",
+   "url": "https://gameofthrones.fandom.com/wiki/Poison"
+  },
+  {
+   "id": "pyke",
+   "name": "Pyke",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/9/9d/Pyke.jpg/revision/latest/scale-to-width-down/500?cb=20120402161004",
+   "summary": "Pyke is the stronghold and seat of House Greyjoy, located on the island of the same name, which is one of the seven major Iron Islands. The castle is the regional capital of the Iron Islands as a whole. Pyke is an ancient stronghold and the cliff it was built on has been eroded by the sea leaving the towers…",
+   "url": "https://gameofthrones.fandom.com/wiki/Pyke"
+  },
+  {
+   "id": "bear",
+   "name": "Bear",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/c4/Black_and_brown_and_covered_in_hair.jpg/revision/latest/scale-to-width-down/500?cb=20160726062620",
+   "summary": "Bears are large predators found throughout the forests and mountains of Westeros and Essos. Distantly related to canines, they have stocky bodies, short tails, powerful jaws, and sharp claws.",
+   "url": "https://gameofthrones.fandom.com/wiki/Bear"
+  },
+  {
+   "id": "gift",
+   "name": "Gift",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/f3/The_Gift_map.png/revision/latest/scale-to-width-down/500?cb=20150511053547",
+   "summary": "The Gift is a region to the south of the Wall under the control of the Night's Watch. It lies at the northern border of the Kingdom of the North. It was donated to the Night's Watch by House Stark when the order was founded thousands of years ago, in order to support the Night's Watch with food and provisions.",
+   "url": "https://gameofthrones.fandom.com/wiki/Gift"
+  },
+  {
+   "id": "cat",
+   "name": "Cat",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/4b/Ser-Pounce-S4-EP-04.jpg/revision/latest?cb=20140510052106",
+   "summary": "Common domesticated cats are found throughout Westeros and Essos, both as pets and often as ferals in the major cities.",
+   "url": "https://gameofthrones.fandom.com/wiki/Cat"
+  },
+  {
+   "id": "eyrie",
+   "name": "Eyrie",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/59/The_Eyrie.jpg/revision/latest/scale-to-width-down/500?cb=20110615190250",
+   "summary": "The Eyrie is the principal stronghold of House Arryn. It is located in the Vale of Arryn near the east coast of Westeros. The Eyrie straddles the top of a peak in the Mountains of the Moon several thousand feet above the valley floor below. It is approached by a narrow causeway and road. Those who would approach…",
+   "url": "https://gameofthrones.fandom.com/wiki/Eyrie"
+  },
+  {
+   "id": "painted-table",
+   "name": "Painted Table",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/f/f7/Rhaenyra_Painted_Table.png/revision/latest/scale-to-width-down/500?cb=20220505211614",
+   "summary": "The Painted Table is a table carved in the shape of Westeros, engraved with its major cities, castles, and landmarks. In 132 AC, it was located in the eponymous Chamber of the Painted Table. By 299 AC, it was located in what was once Rhaenyra Targaryen's apartments.",
+   "url": "https://gameofthrones.fandom.com/wiki/Painted_Table"
+  },
+  {
+   "id": "vaes-dothrak",
+   "name": "Vaes Dothrak",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1e/S6VaesDothrak.png/revision/latest/scale-to-width-down/500?cb=20170819033612",
+   "summary": "Vaes Dothrak is the only city in the Dothraki Sea, located near the far northeastern edge of the region. It lies in the shadow of a single, vast peak known by the Dothraki as the Mother of Mountains. The entrance to Vaes Dothrak is marked by two large statues depicting a pair of stallions.",
+   "url": "https://gameofthrones.fandom.com/wiki/Vaes_Dothrak"
+  },
+  {
+   "id": "dornish-marches",
+   "name": "Dornish Marches",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/12/DornishMarches.jpg/revision/latest/scale-to-width-down/500?cb=20140220003852",
+   "summary": "The Dornish Marches, also known simply as the Marches, are an area of the southwestern Stormlands bordering Dorne, the Reach, and the Sea of Dorne. They are located in the northern end of the Red Mountains which separate Dorne from the rest of the continent. As a result they have a very cold, alpine climate.",
+   "url": "https://gameofthrones.fandom.com/wiki/Dornish_Marches"
+  },
+  {
+   "id": "dreadfort",
+   "name": "Dreadfort",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/2e/The-Dreadfort-402.jpg/revision/latest/scale-to-width-down/500?cb=20150328213033",
+   "summary": "The Dreadfort is a castle situated in the North. It was the seat of House Bolton, located on the banks of the Weeping Water east of Winterfell. The Dreadfort is ill-omened as the stronghold of House Bolton, who are famed for the flayed skins of their enemies, often rumored to have been kept on display in the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Dreadfort"
+  },
+  {
+   "id": "moat-cailin",
+   "name": "Moat Cailin",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/e/e2/S04E8_-_Moat_Cailin.png/revision/latest/scale-to-width-down/500?cb=20140605130021",
+   "summary": "Moat Cailin is a ruined collection of towers located on the Neck. It is part of the North and is subject to the rule of House Stark, but has not been permanently manned for centuries. Subsequently, it is neither a fief nor a residence of any lord, but is still the lynch-pin of the defense of the North from any…",
+   "url": "https://gameofthrones.fandom.com/wiki/Moat_Cailin"
+  },
+  {
+   "id": "raven",
+   "name": "Raven",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1d/Raven_1x10.jpg/revision/latest/scale-to-width-down/500?cb=20110526015022",
+   "summary": "Ravens are a species of large, black-feathered bird native to Westeros. In addition to holding a certain level of cultural symbolism, ravens are a primary means of long-distance communication throughout the continent.",
+   "url": "https://gameofthrones.fandom.com/wiki/Raven"
+  },
+  {
+   "id": "pyke-island",
+   "name": "Pyke (island)",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/10/Pyke_map.png/revision/latest/scale-to-width-down/194?cb=20150605195614",
+   "summary": "Pyke is one of the Iron Islands, an archipelago located on Ironman's Bay, on the western side of Westeros. The island is the site of the castle of the same name, which serves as the seat of House Greyjoy, the ruling house of the Iron Islands, and the town of Lordsport.",
+   "url": "https://gameofthrones.fandom.com/wiki/Pyke_(island)"
+  },
+  {
+   "id": "crystal-sword",
+   "name": "Crystal sword",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/7c/Whitewalker1.png/revision/latest?cb=20210722093910",
+   "summary": "Crystal swords are the weapons of the White Walkers. They are incredibly sharp, capable of decapitating a man in a single swing. Conventional bronze, iron, and steel weapons freeze and shatter when used against crystal swords, and the crystal swords are strong enough to pierce even hides and scales of dragons.…",
+   "url": "https://gameofthrones.fandom.com/wiki/Crystal_sword"
+  },
+  {
+   "id": "manticore",
+   "name": "Manticore",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/e/ea/Manticore.jpg/revision/latest/scale-to-width-down/500?cb=20130401044703",
+   "summary": "Manticores are highly aggressive and extremely venomous scorpion-like insects from the continent of Essos.",
+   "url": "https://gameofthrones.fandom.com/wiki/Manticore"
+  },
+  {
+   "id": "neck",
+   "name": "Neck",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/ba/S04E8_-_Moat_Cailin_-_distant_view.png/revision/latest/scale-to-width-down/500?cb=20140605130455",
+   "summary": "The Neck is a swamp and marsh-filled region of Westeros, located where the waters of the Bite, an inlet of the Shivering Sea, and Blazewater Bay, an inlet of the Sunset Sea, draw relatively close to one another, making it the narrowest part of the continent. The Neck is the southernmost part of the North, on the…",
+   "url": "https://gameofthrones.fandom.com/wiki/Neck"
+  },
+  {
+   "id": "joffrey-baratheon-s-crossbow",
+   "name": "Joffrey Baratheon's crossbow",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/61/The_children_Tyrion_with_Bow_S4.png/revision/latest/scale-to-width-down/500?cb=20140616190514",
+   "summary": "Joffrey Baratheon's crossbow is a specialized crossbow that requires little effort to reload. It is currently owned by Bronn. It was commissioned by Joffrey Baratheon. It has a golden lion, the sigil of House Lannister, on the prod and is ornately decorated.",
+   "url": "https://gameofthrones.fandom.com/wiki/Joffrey_Baratheon's_crossbow"
+  },
+  {
+   "id": "high-tide",
+   "name": "High Tide",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/67/High_Tide_Official_Guide.jpg/revision/latest/scale-to-width-down/500?cb=20220919030720",
+   "summary": "High Tide is a castle situated on Driftmark. It serves as the seat of House Velaryon.",
+   "url": "https://gameofthrones.fandom.com/wiki/High_Tide"
+  },
+  {
+   "id": "ice-dragon",
+   "name": "Ice dragon",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/c6/Viseron_dragon_finale.jpg/revision/latest/scale-to-width-down/500?cb=20170904183133",
+   "summary": "An ice dragon is a legendary creature somewhat resembling a dragon, but made of ice and breathing cold instead of fire.",
+   "url": "https://gameofthrones.fandom.com/wiki/Ice_dragon"
+  },
+  {
+   "id": "bloody-gate",
+   "name": "Bloody Gate",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/58/The_Bloody_Gate.png/revision/latest/scale-to-width-down/500?cb=20160821212418",
+   "summary": "The Bloody Gate is a castle that guards the western edge of the Vale of Arryn. It is a waycastle on the road to the Eyrie, the seat of House Arryn.",
+   "url": "https://gameofthrones.fandom.com/wiki/Bloody_Gate"
+  },
+  {
+   "id": "last-hearth",
+   "name": "Last Hearth",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/8/8a/801_Last_Hearth.png/revision/latest/scale-to-width-down/500?cb=20190415220141",
+   "summary": "Last Hearth, also known as the Last Hearth, is an abandoned castle in the North, formerly the seat of House Umber, a vassal house holding fealty to House Stark of Winterfell. It is located south of the Gift, east of the Kingsroad and north of the Last River.",
+   "url": "https://gameofthrones.fandom.com/wiki/Last_Hearth"
+  },
+  {
+   "id": "deepwood-motte",
+   "name": "Deepwood Motte",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1e/607_Deepwood_Motte.png/revision/latest/scale-to-width-down/500?cb=20160825174500",
+   "summary": "Deepwood Motte is the stronghold of House Glover, a vassal house holding fealty to House Stark of Winterfell. The castle is located north-west of Winterfell in the Wolfswood, near the coast of the Bay of Ice.",
+   "url": "https://gameofthrones.fandom.com/wiki/Deepwood_Motte"
+  },
+  {
+   "id": "dothraki-sea",
+   "name": "Dothraki Sea",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/67/S6_Horse_Statues.png/revision/latest/scale-to-width-down/500?cb=20170819032739",
+   "summary": "The Dothraki Sea, also known as the Great Grass Sea, is a region on the continent of Essos, thousands of miles to the east of Westeros. It is located in the continental interior, east of the Free Cities, and is a vast landscape of steppes and plains covered in low green grass which makes it look like a sea from…",
+   "url": "https://gameofthrones.fandom.com/wiki/Dothraki_Sea"
+  },
+  {
+   "id": "scorpion",
+   "name": "Scorpion",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/3f/Scorpion-the-spoils-of-war.jpg/revision/latest/scale-to-width-down/500?cb=20171109233030",
+   "summary": "Scorpions are long-range artillery weapons, resembling large mounted crossbows. A bolt fired from one carries enough velocity to pierce the skull of a dragon. It is fully pivotal and though it is best operated by a small team, it can be loaded and fired by a single soldier. A scorpion can be considered a smaller,…",
+   "url": "https://gameofthrones.fandom.com/wiki/Scorpion"
+  },
+  {
+   "id": "sunspear",
+   "name": "Sunspear",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b6/Sunspear-0.png/revision/latest/scale-to-width-down/500?cb=20170918150538",
+   "summary": "Sunspear is the capital of Dorne, southernmost of the Seven Kingdoms, located in the far southeast of the continent on the Summer Sea. It consists of a strong, fortified castle. The largest structure is Spear Tower, a 150-feet structure with a pinnacle of shining steel.",
+   "url": "https://gameofthrones.fandom.com/wiki/Sunspear"
+  },
+  {
+   "id": "lizard-lion",
+   "name": "Lizard-lion",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/c/c8/Lizard-lion.jpg/revision/latest/scale-to-width-down/500?cb=20140219191822",
+   "summary": "Lizard-lions are large carnivorous reptiles that live in the bogs and swamps of the Neck in Westeros. House Reed, the ruling house of the Crannogmen, employ as their sigil a black lizard-lion on a grey-green field.",
+   "url": "https://gameofthrones.fandom.com/wiki/Lizard-lion"
+  },
+  {
+   "id": "lion",
+   "name": "Lion",
+   "type": "creature",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/2c/H%26L_Lion.png/revision/latest/scale-to-width-down/442?cb=20181014060552",
+   "summary": "Lions are feline apex predators found primarily in Westeros and Essos. Lions feature prominently in Westerosi heraldry, such as the sigils of House Lannister, House Grandison, and the extinct House Reyne.",
+   "url": "https://gameofthrones.fandom.com/wiki/Lion"
+  },
+  {
+   "id": "arakh",
+   "name": "Arakh",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/4/48/Kovarro-foto.jpg/revision/latest?cb=20140127070840",
+   "summary": "The arakh is the standard weapon used by Dothraki warriors. It has a crescent moon-shaped, curved blade about two and a half feet long and a thick handle almost the same length, making it half-sword and half-scythe. Although unable to penetrate armor, the arakh gives the wielder tremendous maneuverability of wrists.",
+   "url": "https://gameofthrones.fandom.com/wiki/Arakh"
+  },
+  {
+   "id": "glass-candle",
+   "name": "Glass candle",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/30/Candle.png/revision/latest/scale-to-width-down/500?cb=20160829164032",
+   "summary": "A glass candle, or dragonglass candle, is an object made out of dragonglass, also known as obsidian, made in the old Valyrian Freehold before its destruction four hundred years ago in the Doom of Valyria. Allegedly, using the power of magic they could be made to burn with light.",
+   "url": "https://gameofthrones.fandom.com/wiki/Glass_candle"
+  },
+  {
+   "id": "old-warhorn",
+   "name": "Old warhorn",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d8/Dragonglass.jpg/revision/latest/scale-to-width-down/500?cb=20150407175226",
+   "summary": "An old warhorn is one of the objects found by Grenn and Samwell Tarly atop the Fist of the First Men during the great ranging. Cite error: &lt;ref&gt; tags exist for a group named \"lower-alpha\", but no corresponding &lt;references group=\"lower-alpha\"/&gt; tag was found",
+   "url": "https://gameofthrones.fandom.com/wiki/Old_warhorn"
+  },
+  {
+   "id": "far-eye",
+   "name": "Far-eye",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/50/FarEyeS8E6.png/revision/latest/scale-to-width-down/500?cb=20190525135554",
+   "summary": "A far-eye is an instrument used in navigation, consisting of glass lenses arranged inside a metal cylinder in such a way that far-away objects are visually magnified when looking through it. Cite error: &lt;ref&gt; tags exist for a group named \"lower-alpha\", but no corresponding &lt;references…",
+   "url": "https://gameofthrones.fandom.com/wiki/Far-eye"
+  }
+ ]
+}

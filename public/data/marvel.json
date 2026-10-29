@@ -1,0 +1,1806 @@
+{
+ "universe": "marvel",
+ "source": "https://marvelcinematicuniverse.fandom.com",
+ "cards": [
+  {
+   "id": "phil-coulson",
+   "name": "Phil Coulson",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/98/Phil_Coulson_Infobox.jpg/revision/latest/scale-to-width-down/349?cb=20250203215516",
+   "summary": "Phillip J. \"Phil\" Coulson was a highly decorated former agent and director of S.H.I.E.L.D. Coulson was Nick Fury's right-hand man for many important missions and his liaison to the Avengers. He served as the primary operative in the Avengers Initiative following a Skrull Invasion of Earth in 1995 that led to the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Phil_Coulson"
+  },
+  {
+   "id": "iron-man",
+   "name": "Iron Man",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Iron_Man_Infobox.jpg/revision/latest/scale-to-width-down/322?cb=20240802142023",
+   "summary": "Anthony Edward \"Tony\" Stark was the son of Howard and Maria Stark, a billionaire industrialist, the former CEO of Stark Industries, and a founding member of the Avengers. A brash but brilliant inventor, Stark was self-described as a genius, billionaire, playboy, and philanthropist. With his great wealth and…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man"
+  },
+  {
+   "id": "steve-rogers",
+   "name": "Steve Rogers",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b7/Steve_Rogers_Infobox.jpg/revision/latest/scale-to-width-down/278?cb=20260712215245",
+   "summary": "Steven Grant \"Steve\" Rogers is a World War II veteran, a founding member of the Avengers, and Earth's first known superhero. Rogers grew up suffering from numerous health problems, and upon the United States' entry into World War II, he was rejected from serving in the United States Army despite several attempts to…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Steve_Rogers"
+  },
+  {
+   "id": "jemma-simmons",
+   "name": "Jemma Simmons",
+   "type": "personnage",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f3/Jemma_Simmons_-_MAOSS6.jpg/revision/latest/scale-to-width-down/375?cb=20190412001832",
+   "summary": "Doctor Jemma Anne Simmons, Ph.D., is a genius biochemist and was one of the youngest and most prominent members of S.H.I.E.L.D.'s research division. Along with Leo Fitz, Simmons was recruited to Coulson's Team and worked with them on all of their missions. While on the team, Simmons became friends with Grant Ward…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Jemma_Simmons"
+  },
+  {
+   "id": "manhattan",
+   "name": "Manhattan",
+   "type": "lieu",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c3/New_York_City_%28Thunderbolts%2A%29.png/revision/latest/scale-to-width-down/500?cb=20260726054411",
+   "summary": "In 1924, a young Steve Rogers, son of a World War I soldier and a nurse, was playing with his toy soldiers, when his mother, Sarah, terminally ill due to the tuberculosis she contracted while in the hospital she worked, called for him.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Manhattan"
+  },
+  {
+   "id": "s-h-i-e-l-d",
+   "name": "S.H.I.E.L.D.",
+   "type": "faction",
+   "rarity": "L",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9b/S.H.I.E.L.D._logo_NEW.png/revision/latest/scale-to-width-down/500?cb=20190422151215",
+   "summary": "The Strategic Homeland Intervention, Enforcement and Logistics Division, better known by its acronym S.H.I.E.L.D., is an American extra-governmental counter-terrorism and intelligence agency tasked with maintaining both national and global security.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/S.H.I.E.L.D."
+  },
+  {
+   "id": "thor",
+   "name": "Thor",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Thor_Infobox.jpg/revision/latest/scale-to-width-down/326?cb=20231021012616",
+   "summary": "Thor Odinson is the Asgardian God of Thunder, the former king of both Asgard and New Asgard, a founding member of the Avengers, and a former member of the Guardians of the Galaxy. When his irresponsible and impetuous behavior reignited an ancient war between Asgard and Jotunheim, Thor was denied the right to become…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Thor"
+  },
+  {
+   "id": "melinda-may",
+   "name": "Melinda May",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/ca/Melinda_May_-_MAOSS6.jpg/revision/latest/scale-to-width-down/375?cb=20190412001641",
+   "summary": "Professor Melinda Qiaolian May is a highly-skilled S.H.I.E.L.D. operative, nicknamed the Cavalry. A veteran pilot and soldier with years of experience and a good friend of Phil Coulson, she withdrew from field duty after an incident in Manama, Bahrain which left her mentally damaged. However, she returned to the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Melinda_May"
+  },
+  {
+   "id": "spider-man",
+   "name": "Spider-Man",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/41/Spider-Man_Infobox.jpg/revision/latest/scale-to-width-down/375?cb=20261016004855",
+   "summary": "Peter Benjamin Parker is a young man who gained superhuman abilities after being bitten by a spider and fights crime in New York City as the superhero Spider-Man. For six months, Parker juggled his vigilante life alongside being a student at Midtown School of Science and Technology. In 2016, Parker was recruited by…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Spider-Man"
+  },
+  {
+   "id": "leo-fitz",
+   "name": "Leo Fitz",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ab/Leo_Fitz_-_MAOSS6.jpg/revision/latest/scale-to-width-down/375?cb=20190412001757",
+   "summary": "Doctor Leopold James \"Leo\" Fitz is a former S.H.I.E.L.D. agent and scientist. A genius engineer, he is one of the youngest and most prominent members of the S.H.I.E.L.D. Sci-Tech division and inseparable from his research partner and friend, Jemma Simmons. He, along with Simmons, was recruited to Phil Coulson's…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Leo_Fitz"
+  },
+  {
+   "id": "daredevil",
+   "name": "Daredevil",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d7/Daredevil_Infobox.jpg/revision/latest/scale-to-width-down/375?cb=20260319203044",
+   "summary": "Matthew Michael \"Matt\" Murdock is a former lawyer and vigilante who was blinded as a young boy when radioactive substances spilled into his eyes, which resulted in his four remaining senses being heightened to superhuman levels. When mobsters killed his father, Murdock was raised at Saint Agnes Orphanage before…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Daredevil"
+  },
+  {
+   "id": "earth",
+   "name": "Earth",
+   "type": "lieu",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/ff/Earth.better.eternalstrailer.png/revision/latest/scale-to-width-down/500?cb=20211011002532",
+   "summary": "Earth, also known as Midgard, Terra, and Planet C-53, is the third planet in the Solar System. Earth is the native home of humans, mutants, Inhumans, vampires and a vast multitude of animal species, as well as home to number of extraterrestrial immigrant species, such as Eternals, Asgardians and Skrulls.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Earth"
+  },
+  {
+   "id": "multiverse",
+   "name": "Multiverse",
+   "type": "lieu",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/The_Tree_of_Life.png/revision/latest/scale-to-width-down/500?cb=20231110031808",
+   "summary": "The Multiverse is the aggregate of all dimensions and parallel realities in existence. Although dimensions are just portions of reality within a universe, there are also parallel universes that coexist with one another. The Multiverse is believed to be explained by the eternal inflation system; however, the exact…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Multiverse"
+  },
+  {
+   "id": "alphonso-mackenzie",
+   "name": "Alphonso Mackenzie",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/Mack_-_MAOSS6.jpg/revision/latest/scale-to-width-down/375?cb=20190412001902",
+   "summary": "Director Alphonso \"Mack\" Mackenzie is a mechanical engineer and was a former member of S.H.I.E.L.D.'s engineering division before eventually taking on the role of director after Daisy Johnson and Phil Coulson. Despite the heavy casualties S.H.I.E.L.D. took during the Hydra Uprising, he stayed loyal to his oath and…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Alphonso_Mackenzie"
+  },
+  {
+   "id": "california",
+   "name": "California",
+   "type": "lieu",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Map_of_California.svg/revision/latest/scale-to-width-down/500?cb=20140427110747",
+   "summary": "California is a state located on the West Coast of the United States.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/California"
+  },
+  {
+   "id": "hulk",
+   "name": "Hulk",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/29/Hulk_Infobox.jpg/revision/latest/scale-to-width-down/360?cb=20260925124237",
+   "summary": "Doctor David Bruce Banner, M.D., Ph.D., is a renowned scientist and a founding member of the Avengers. Highly respected for his work in biochemistry, nuclear physics and gamma radiation, Banner was tasked by Thaddeus Ross to recreate the Super Soldier Serum that created Captain America. However, Ross decided not to…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hulk"
+  },
+  {
+   "id": "natasha-romanoff",
+   "name": "Natasha Romanoff",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Black_Widow_Infobox.jpg/revision/latest/scale-to-width-down/366?cb=20231025163748",
+   "summary": "Natalia Alianovna \"Natasha\" Romanoff (Russian: Наталья Альяновна \"Наташа\" Романов) was one of the most talented spies and assassins in the entire world and a founding member of the Avengers. As a child, she was indoctrinated into the Red Room by General Dreykov, and briefly lived as the adoptive daughter of Alexei…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Natasha_Romanoff"
+  },
+  {
+   "id": "grant-ward",
+   "name": "Grant Ward",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/Grant_Ward_Infobox.png/revision/latest/scale-to-width-down/302?cb=20250202193927",
+   "summary": "Grant Douglas Ward was one of the leaders of Hydra and the most personal adversary of Phil Coulson and S.H.I.E.L.D. A former Hydra infiltrator in S.H.I.E.L.D., disguised as a Level 7 operative, he was abused as a child by his family. As a teenager, he tried to burn down his family home. Ward was imprisoned until he…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Grant_Ward"
+  },
+  {
+   "id": "nick-fury",
+   "name": "Nick Fury",
+   "type": "personnage",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a3/Nick_Fury_Infobox.png/revision/latest/scale-to-width-down/393?cb=20240802141551",
+   "summary": "Director Nicholas Joseph \"Nick\" Fury is an American spy, the former Director of S.H.I.E.L.D., and the founder of the Avengers. Fury began his career of serving his nation within the United States Army, rising to the rank of Colonel before becoming a CIA operative during the Cold War. Fury then joined S.H.I.E.L.D.,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Nick_Fury"
+  },
+  {
+   "id": "avengers",
+   "name": "Avengers",
+   "type": "faction",
+   "rarity": "E",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/de/Avengers_Endgame_International.jpg/revision/latest/scale-to-width-down/500?cb=20190323034207",
+   "summary": "The Avengers are a team of extraordinary individuals who possess either superpowers or other special characteristics. Though primarily affiliated with the interests of the United States, the group's purpose was to protect global stability from inner or extraterrestrial threats. The Avengers were assembled in 2012…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers"
+  },
+  {
+   "id": "quake",
+   "name": "Quake",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/79/Quake.jpg/revision/latest/scale-to-width-down/375?cb=20190412001710",
+   "summary": "Agent Daisy Louise Johnson is an Inhuman, genius-level hacker and a S.H.I.E.L.D. operative. Born to Calvin Johnson and Jiaying, she was taken away when her mother was murdered by Hydra and raised at Saint Agnes Orphanage under the identity of Mary Sue Poots. Disliking her legal name, she adopted the alias Skye…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Quake"
+  },
+  {
+   "id": "jessica-jones",
+   "name": "Jessica Jones",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8a/Jessica_Jones_Infobox.png/revision/latest/scale-to-width-down/409?cb=20260506204207",
+   "summary": "Jessica Campbell Jones is a private investigator from New York City. Having lost the rest of her family in a car accident, the orphaned Jones was adopted by Dorothy Walker and developed a deep friendship bond with her adoptive sister, Trish Walker. Shortly after being adopted, Jones discovered she possessed…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Jessica_Jones"
+  },
+  {
+   "id": "punisher",
+   "name": "Punisher",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1c/Punisher_Infobox.png/revision/latest/scale-to-width-down/379?cb=20261015122544",
+   "summary": "Francis David \"Frank\" Castle is a former United States Marine who served in the War in Afghanistan and the Iraq War. While serving in Afghanistan alongside his friend Billy Russo, he joined a black-ops team known as Cerberus Squad led by CIA Covert Ops Director William Rawlins, with the task of capturing,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Punisher"
+  },
+  {
+   "id": "luke-cage",
+   "name": "Luke Cage",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/10/Luke_Cage.PNG/revision/latest/scale-to-width-down/422?cb=20231026013234",
+   "summary": "Carl Earl Lucas is the son of James Lucas as well as the half-brother of Willis Stryker who, while he was still serving as a policeman from Savannah, Georgia, was wrongfully convicted for a crime that he did not commit and sent into Seagate Prison, where he met and fell in love with therapist Reva Connors who tried…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Luke_Cage"
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8b/Map_of_New_York.png/revision/latest/scale-to-width-down/500?cb=20140404011810",
+   "summary": "New York is a constituent state of the United States. New York is bounded to the west and north by Lake Erie, the Canadian province of Ontario, Lake Ontario, and the Canadian province of Quebec; to the east by the New England states of Vermont, Massachusetts, and Connecticut; to the southeast by the Atlantic Ocean…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/New_York"
+  },
+  {
+   "id": "loki",
+   "name": "Loki",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Loki_Infobox.png/revision/latest/scale-to-width-down/374?cb=20250203204518",
+   "summary": "Prince Loki Laufeyson was the biological son of Laufey, king of the Frost Giants, who was abandoned and left to die shortly after his birth. Found by Odin, Loki was taken to Asgard and raised by him and Frigga as an Asgardian prince, along with Thor, becoming the Asgardian God of Mischief. When Thor was to be…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Loki"
+  },
+  {
+   "id": "hydra",
+   "name": "Hydra",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4b/H_alternate_3.png/revision/latest/scale-to-width-down/500?cb=20160331154244",
+   "summary": "Hydra (sometimes stylized as HYDRA) was a global totalitarian-subversive paramilitary terrorist organization. It was founded in ancient times as a secret cult dedicated to the fanatical worship of Hive, a powerful Inhuman that was exiled to the planet Maveth by ancient Inhumans. Ever since his banishment, his…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hydra"
+  },
+  {
+   "id": "united-states",
+   "name": "United States",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/be/Map_of_the_United_States_of_America.PNG/revision/latest/scale-to-width-down/500?cb=20130327163922",
+   "summary": "The United States of America, commonly referred to as the United States and also known as the U.S., the USA, America, or the States, is a federal constitutional republic consisting of fifty states, a federal district, several self-governing territories, and various Native American reservations.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/United_States"
+  },
+  {
+   "id": "doctor-strange",
+   "name": "Doctor Strange",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Doctor_Strange_MoM_Profile.jpeg/revision/latest/scale-to-width-down/392?cb=20231021153337",
+   "summary": "Doctor Stephen Vincent Strange, M.D., Ph.D. is a Master of the Mystic Arts and one of Earth's greatest sorcerers. Originally a brilliant but arrogant neurosurgeon, Strange got into a car accident which resulted in his hands becoming crippled. Once Western medicine failed him, Strange embarked on a journey to…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Doctor_Strange"
+  },
+  {
+   "id": "winter-soldier",
+   "name": "Winter Soldier",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/21/Winter_Soldier_Infobox.jpg/revision/latest/scale-to-width-down/375?cb=20250425194747",
+   "summary": "Congressman James Buchanan \"Bucky\" Barnes is a World War II veteran, former sergeant of the 107th Infantry Regiment, the best friend of Steve Rogers since childhood, and a founding member of the New Avengers. Barnes joined the United States Army following the attack on Pearl Harbor and was assigned to the 107th in…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Winter_Soldier"
+  },
+  {
+   "id": "hawkeye",
+   "name": "Hawkeye",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5b/Hawkeye_Infobox.jpg/revision/latest/scale-to-width-down/427?cb=20240222145717",
+   "summary": "Clinton Francis \"Clint\" Barton is an extremely skilled marksman, a former special agent of S.H.I.E.L.D. and one of the founding members of the Avengers. Known for his use of the bow and arrow as his primary weapon and his extremely keen eyesight and accuracy, which earned him the codename Hawkeye, Barton had become…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hawkeye"
+  },
+  {
+   "id": "humans",
+   "name": "Humans",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/Humans.jpg/revision/latest/scale-to-width-down/500?cb=20150610000129",
+   "summary": "Humans (Homo sapiens) are the intelligent inhabitants of Earth. The races of the Nine Realms refer to humans as Mortals, while the various extraterrestrial cultures living beyond the realms use the term Terrans, and the Demons call them Oppressors.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Humans"
+  },
+  {
+   "id": "peggy-carter",
+   "name": "Peggy Carter",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6b/Peggy_Carter_Infobox.png/revision/latest/scale-to-width-down/436?cb=20250209154948",
+   "summary": "Doctor Margaret Elizabeth \"Peggy\" Carter, Ph.D., was one of the most prominent agents of the Strategic Scientific Reserve during and after World War II and one of the founders of S.H.I.E.L.D. Originally a code-breaker working at Bletchley Park, she joined the Special Operations Executive following her brother's…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Peggy_Carter"
+  },
+  {
+   "id": "thanos",
+   "name": "Thanos",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/Thanos_Infobox.png/revision/latest/scale-to-width-down/370?cb=20250119155740",
+   "summary": "Thanos was a warlord from Titan, whose objective was to bring stability to the universe by wiping out half of all life at every level no matter what it took him and what the cost were, as he believed its massive population would inevitably use up the universe's entire supply of resources and perish. To complete…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Thanos"
+  },
+  {
+   "id": "karen-page",
+   "name": "Karen Page",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1e/Karen_Page_Infobox.png/revision/latest/scale-to-width-down/325?cb=20260505180015",
+   "summary": "Karen Page is the former Union Allied Construction employee, who got in contact with Matt Murdock and Foggy Nelson after she was framed for a murder she did not commit. She joined Nelson and Murdock out of gratitude and investigated Wilson Fisk's criminal enterprise with Ben Urich. However, her investigation…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Karen_Page"
+  },
+  {
+   "id": "yo-yo-rodriguez",
+   "name": "Yo-Yo Rodriguez",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Yo-Yo_Rodriguez.jpg/revision/latest/scale-to-width-down/375?cb=20190412001942",
+   "summary": "Agent Elena \"Yo-Yo\" Rodriguez is an Inhuman and one of S.H.I.E.L.D.'s most decorated and skilled operatives. Rodriguez underwent Terrigenesis during the Inhuman Outbreak, gaining the power to move at super-speed with the condition that she always returned to her starting space. Believing her power to be a gift from…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Yo-Yo_Rodriguez"
+  },
+  {
+   "id": "new-york-city-police-department",
+   "name": "New York City Police Department",
+   "type": "faction",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/63/NYPD.png/revision/latest/scale-to-width-down/500?cb=20170209215411",
+   "summary": "The New York City Police Department, often abbreviated as NYPD, is the largest municipal police force in the United States and is primarily responsible for law enforcement and investigation within the five boroughs of New York City.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/New_York_City_Police_Department"
+  },
+  {
+   "id": "ant-man",
+   "name": "Ant-Man",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/46/Ant-Man_Infobox.png/revision/latest/scale-to-width-down/332?cb=20231021014114",
+   "summary": "Scott Edward Harris Lang is a former convicted thief who struggled to pay child support to his estranged wife with whom he had a daughter, Cassie Lang. With the promise of money, he was convinced by Hank Pym to take on the mantle of Ant-Man, a superhero with an advanced suit designed to shrink its wearer to a tiny…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Ant-Man"
+  },
+  {
+   "id": "war-machine",
+   "name": "War Machine",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1d/War_Machine_Infobox.jpg/revision/latest/scale-to-width-down/349?cb=20231025163822",
+   "summary": "Colonel James Rupert \"Rhodey\" Rhodes is a former officer in the United States Air Force and liaison between the Department of Acquisitions and Stark Industries, where he became close friends with Tony Stark. When Stark had been kidnapped by the Ten Rings, Rhodes personally led a mission to rescue his best friend.…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/War_Machine"
+  },
+  {
+   "id": "europe",
+   "name": "Europe",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5f/Map_of_Europe.png/revision/latest/scale-to-width-down/500?cb=20131017174845",
+   "summary": "Europe is the second smallest continent out of seven on the planet Earth. It is known for its varied nature.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Europe"
+  },
+  {
+   "id": "captain-marvel",
+   "name": "Captain Marvel",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Captain_Marvel_Profile.png/revision/latest/scale-to-width-down/421?cb=20240120054800",
+   "summary": "Captain Carol Susan Jane Danvers, Princess of Aladna, is a former United States Air Force pilot who, upon being exposed to the energy of the Tesseract via the destruction of the Light-Speed Engine, obtained cosmic powers. She gained further powers when she was made into a Kree-human hybrid via a blood transfusion…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Captain_Marvel"
+  },
+  {
+   "id": "north-america",
+   "name": "North America",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a1/Map_of_North_America.png/revision/latest/scale-to-width-down/500?cb=20220430203404",
+   "summary": "North America is one of the seven continents on Earth. United States is located in North America.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/North_America"
+  },
+  {
+   "id": "washington-d-c",
+   "name": "Washington, D.C.",
+   "type": "lieu",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fb/Washington%2C_D.C._%28Thunderbolts%29.png/revision/latest/scale-to-width-down/500?cb=20250630211237",
+   "summary": "Washington, D.C., formally the District of Columbia, and commonly referred to as Washington, is the capital of the United States.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Washington%2C_D.C."
+  },
+  {
+   "id": "t-challa",
+   "name": "T'Challa",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/T%27Challa_Infobox.jpg/revision/latest/scale-to-width-down/363?cb=20231024023619",
+   "summary": "King T'Challa was the King of Wakanda and the eldest child of T'Chaka and Ramonda, who was chosen to be the holder of the Black Panther mantle. Following the death of his father in the bombing orchestrated by Helmut Zemo, T'Challa had set out to kill Winter Soldier, who was widely believed to be responsible for the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/T'Challa"
+  },
+  {
+   "id": "scarlet-witch",
+   "name": "Scarlet Witch",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Scarlet_Witch_Infobox.jpg/revision/latest/scale-to-width-down/391?cb=20250203231704",
+   "summary": "Wanda Maximoff was a Sokovian sorceress who possessed vast magical abilities as the fabled Scarlet Witch. Born with the latent mythical ability to harness Chaos Magic, Wanda grew up with her fraternal twin brother, Pietro Maximoff. She developed a hatred for Tony Stark and rallied anti-American protests after the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Scarlet_Witch"
+  },
+  {
+   "id": "star-lord",
+   "name": "Star-Lord",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6c/Star-Lord_Infobox.jpg/revision/latest/scale-to-width-down/383?cb=20241126002144",
+   "summary": "Peter Jason Quill is a human-Celestial hybrid who was abducted from Earth in 1988 by the Yondu Ravager Clan and raised as one of their members by Yondu, eventually building a reputation as the notorious intergalactic outlaw Star-Lord. In 2014, he decided to leave the Ravagers and operate individually,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Star-Lord"
+  },
+  {
+   "id": "foggy-nelson",
+   "name": "Foggy Nelson",
+   "type": "personnage",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Foggy_Nelson_Infobox.png/revision/latest/scale-to-width-down/355?cb=20250305135359",
+   "summary": "Franklin Percy \"Foggy\" Nelson was a lawyer and the best friend of Matt Murdock, with whom he co-founded the law firm Nelson and Murdock. Nelson worked on cases to get justice for the innocent, such as Karen Page and Elena Cardenas. Nelson eventually discovered that Murdock had a double life as a masked vigilante,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Foggy_Nelson"
+  },
+  {
+   "id": "inhumans",
+   "name": "Inhumans",
+   "type": "espece",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/00/Inhumans_Crowd.jpg/revision/latest/scale-to-width-down/500?cb=20170722093053",
+   "summary": "Inhumans (Inhomo supremis) are a race of altered human beings that are the result of experiments on themselves or their ancestors by the extraterrestrial race known as Kree, who manipulated their genetic code. As a result, humans with this genetic Kree DNA become Inhumans when they undergo Terrigenesis, granting…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Inhumans"
+  },
+  {
+   "id": "infinity-stones",
+   "name": "Infinity Stones",
+   "type": "objet",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1d/Infinity_Stones_VFX.png/revision/latest/scale-to-width-down/500?cb=20190427010810",
+   "summary": "The Infinity Stones were six immensely powerful gem-like objects tied to different aspects of the universe, created by the Big Bang from six singularities.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Infinity_Stones"
+  },
+  {
+   "id": "vibranium",
+   "name": "Vibranium",
+   "type": "objet",
+   "rarity": "R",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/17/Vibranium_in_Hand.jpg/revision/latest/scale-to-width-down/483?cb=20181227051528",
+   "summary": "Vibranium (Xhosa: Isipho) is a nearly indestructible element that crash-landed as meteorites from outer space millions of years ago into the Atlantic Ocean near the Yucatán and the African region that became Wakanda. The element severely impacted the environment, enriching the soil and plant life. The…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Vibranium"
+  },
+  {
+   "id": "captain-america-s-shield",
+   "name": "Captain America's Shield",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/36/Captain_America_Shield.png/revision/latest/scale-to-width-down/500?cb=20190316204818",
+   "summary": "Captain America's Shield is a vibranium shield that was extensively used by Steve Rogers. After the original shield was destroyed by Thanos during the Battle of Earth, Rogers traveled to an alternate timeline and acquired another shield, bestowing it to Sam Wilson. However, Wilson donated the shield to the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Captain_America's_Shield"
+  },
+  {
+   "id": "nebula",
+   "name": "Nebula",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/37/Nebula_Vol._3.jpg/revision/latest/scale-to-width-down/350?cb=20240802144159",
+   "summary": "Nebula is a former Luphomoid assassin, an adopted daughter of Thanos and adopted sister of Gamora. Together with Gamora, Nebula was assigned to Ronan the Accuser, during his quest to retrieve the Orb, although Gamora eventually betrayed them. Due to her hatred of Thanos, Nebula joined Ronan when he betrayed Thanos…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Nebula"
+  },
+  {
+   "id": "playground",
+   "name": "Playground",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e3/Laws3.jpg/revision/latest/scale-to-width-down/500?cb=20151001003831",
+   "summary": "The Playground, codenamed Ragtag, was a former Strategic Scientific Reserve facility that was renovated to become a top secret S.H.I.E.L.D. facility at a classified location. After the Hydra Uprising and upon Phil Coulson becoming Director of S.H.I.E.L.D., it became the headquarters for the new S.H.I.E.L.D. It was…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Playground"
+  },
+  {
+   "id": "lance-hunter",
+   "name": "Lance Hunter",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fa/Lance_Hunter.jpg/revision/latest/scale-to-width-down/333?cb=20171219211349",
+   "summary": "Amadeus Ravenclaw \"Lance\" Hunter is a former British soldier and mercenary that joined the second incarnation of S.H.I.E.L.D. on the recommendations of Isabelle Hartley and his ex-wife, Bobbi Morse. He participated in many field missions for S.H.I.E.L.D. and he stayed loyal to Director Phil Coulson during the brief…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Lance_Hunter"
+  },
+  {
+   "id": "arc-reactor",
+   "name": "Arc Reactor",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Arc_Reactor_from_Iron_Man_2_29_001.webp/revision/latest/scale-to-width-down/490?cb=20230428010341",
+   "summary": "The Arc Reactor is a power source designed by Howard Stark, Anton Vanko, and Obadiah Stane to replicate the Tesseract's energy. As the Tesseract's energy had been harnessed by Hydra during World War II, Howard studied the Tesseract attempting to do the same. Limited by the technology at his disposal, Howard and…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Arc_Reactor"
+  },
+  {
+   "id": "guardians-of-the-galaxy",
+   "name": "Guardians of the Galaxy",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/88/New_Guardians_of_the_Galaxy.png/revision/latest/scale-to-width-down/500?cb=20230706214450",
+   "summary": "The Guardians of the Galaxy are a team of intergalactic mercenaries who primarily defend the Andromeda galaxy. The team was founded in 2014 when Star-Lord, Gamora, Rocket, Groot, and Drax the Destroyer assembled to save Xandar from being decimated by Ronan the Accuser. Recognized by the Nova Empire, the Guardians…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Guardians_of_the_Galaxy"
+  },
+  {
+   "id": "bobbi-morse",
+   "name": "Bobbi Morse",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d2/Bobbi_S3_2.jpg/revision/latest/scale-to-width-down/337?cb=20200619224717",
+   "summary": "Barbara \"Bobbi\" Morse is a former S.H.I.E.L.D. agent. Despite the heavy casualties S.H.I.E.L.D. had taken during Hydra's attack on it, she stayed loyal to her oath and continued her service in the remains of S.H.I.E.L.D. under Robert Gonzales. However, as another faction of S.H.I.E.L.D. led by Phil Coulson emerged,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Bobbi_Morse"
+  },
+  {
+   "id": "new-york-city",
+   "name": "New York City",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/New_York_City_%282028%29.png/revision/latest/scale-to-width-down/500?cb=20261010153729",
+   "summary": "New York City is the largest city of the state of New York and the largest metropolitan area in the United States.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/New_York_City"
+  },
+  {
+   "id": "drax-the-destroyer",
+   "name": "Drax the Destroyer",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/Drax_Vol._3.jpg/revision/latest/scale-to-width-down/305?cb=20231113213618",
+   "summary": "Drax is an intergalactic criminal and a former member of the Guardians of the Galaxy. He sought revenge on Ronan the Accuser for killing his wife and daughter, and went on a rampage across the galaxy, ending with him becoming known as Drax the Destroyer, and being imprisoned by the Nova Corps in the Kyln. There,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Drax_the_Destroyer"
+  },
+  {
+   "id": "gamora",
+   "name": "Gamora",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Gamora_Infobox.jpg/revision/latest/scale-to-width-down/364?cb=20231024023800",
+   "summary": "Gamora Zen Whoberi Ben Titan was a former Zehoberei assassin and a former member of the Guardians of the Galaxy. She became the adopted daughter of Thanos and adopted sister of Nebula after Thanos killed half of her race. Gamora served him for years before betraying him in an attempt to free herself from his ways.…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Gamora"
+  },
+  {
+   "id": "howard-stark",
+   "name": "Howard Stark",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f6/Howard_Stark_Infobox.png/revision/latest/scale-to-width-down/349?cb=20191004205535",
+   "summary": "Howard Anthony Stark was an inventor, scientist, engineer, businessman and movie director. The founder of Stark Industries, Stark worked on various government projects during World War II, including the Manhattan Project and Project Rebirth, the latter of which resulted in using the Super Soldier Serum to create…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Howard_Stark"
+  },
+  {
+   "id": "groot",
+   "name": "Groot",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Groot_Infobox.png/revision/latest/scale-to-width-down/358?cb=20260126002142",
+   "summary": "Groot is a Flora colossus, the son of Groot, the prophesied hero of Drez-Lar, and a member of the Guardians of the Galaxy. Born out of a planted twig of his deceased father, Baby Groot began to grow and endeavored with the Guardians on many adventures. They were soon hired by the Sovereign to destroy an Abilisk,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Groot"
+  },
+  {
+   "id": "mj-lnir",
+   "name": "Mjølnir",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c9/Reformed_Mjolnir.png/revision/latest/scale-to-width-down/500?cb=20221026062139",
+   "summary": "Mjølnir is a powerful enchanted war-hammer made of Uru, forged by the Dwarves of Nidavellir for the Asgardian Royal Family, and was used by Odin before he passed it down to Hela and then Thor. The hammer was used extensively by Thor as his primary weapon until it was destroyed by Hela in 2017. The broken pieces…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Mj%C3%B8lnir"
+  },
+  {
+   "id": "asia",
+   "name": "Asia",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a7/Map_of_Asia.png/revision/latest/scale-to-width-down/500?cb=20131017180206",
+   "summary": "In 5000 B.C., a group of extraterrestrial beings called the Eternals arrived on Earth in their ship, the Domo, and they landed within Babylon, Mesopotamia. Upon their arrival, they protected a group of humans native to Babylon from a pack of Deviants, which were attempting to slaughter the humans. Once the Deviants…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Asia"
+  },
+  {
+   "id": "los-angeles",
+   "name": "Los Angeles",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c0/Los_Angeles_%28She-Hulk_Attorney_at_Law%29.png/revision/latest/scale-to-width-down/500?cb=20220913142029",
+   "summary": "Howard Stark, founder and CEO of Stark Industries, hosted a demonstration of his latest technology at Ciro's, a famous local nightclub. Stark presented Vibranium, a rare metal discovered by Stark Industries researchers in deepest Africa, that supposedly absorbed vibrations and kinetic energy naturally.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Los_Angeles"
+  },
+  {
+   "id": "united-states-armed-forces",
+   "name": "United States Armed Forces",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Armed_Forces.png/revision/latest/scale-to-width-down/500?cb=20251201125348",
+   "summary": "The United States Armed Forces are the military forces of the United States. They consist of the United States Army, United States Marine Corps, United States Navy, United States Air Force, and United States Coast Guard.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/United_States_Armed_Forces"
+  },
+  {
+   "id": "pepper-potts",
+   "name": "Pepper Potts",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d4/Rescue_Infobox.png/revision/latest/scale-to-width-down/286?cb=20231025192612",
+   "summary": "Virginia \"Pepper\" Potts is the CEO of Stark Industries. Originally working as Tony Stark's personal assistant, she would take care of his schedule and perform any task he wished. During this time, Potts became good friends with Stark and soon, they had begun developing romantic feelings for each other. However,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Pepper_Potts"
+  },
+  {
+   "id": "ultron",
+   "name": "Ultron",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6a/Ultron_Infobox.jpg/revision/latest/scale-to-width-down/273?cb=20260924003813",
+   "summary": "Ultron is an artificial intelligence who was originally designed to be part of a peacekeeping program created by both Tony Stark and Bruce Banner and was brought into existence by integrating the code of the Mind Stone encased within Loki's Scepter. Ultron's original programming directive was to protect Earth from…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Ultron"
+  },
+  {
+   "id": "maria-hill",
+   "name": "Maria Hill",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f4/Maria_Hill_Infobox.jpg/revision/latest/scale-to-width-down/370?cb=20250203210426",
+   "summary": "Maria Hill was a former Commander and Deputy Director of S.H.I.E.L.D. who was appointed by Nick Fury as his right-hand. In 2012, she oversaw the Avengers Initiative and the resurrection of Phil Coulson. Two years later, Hill helped fake Fury's death when he was attacked by Hydra, and worked alongside Captain…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Maria_Hill"
+  },
+  {
+   "id": "asgardians",
+   "name": "Asgardians",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8e/AsgardiansBifrost.png/revision/latest/scale-to-width-down/500?cb=20180419171813",
+   "summary": "The Asgardians are a race of gods who inhabited Asgard. Revered by the ancient Scandinavian cultures of Earth, they were similar in appearance to humans and possessed both highly advanced forms of technology and magic, upon which their civilization is built. They were ruled by Odin and for millennia had a…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Asgardians"
+  },
+  {
+   "id": "vision",
+   "name": "Vision",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6e/Vision_Infobox.jpg/revision/latest/scale-to-width-down/363?cb=20231024023951",
+   "summary": "The Vision was a synthezoid made from vibranium, created by Ultron with the help of Helen Cho, and given life by the powerful artifact known as the Mind Stone. Originally conceived as the perfect form for Ultron, the body was taken by the Avengers before Tony Stark and Bruce Banner proceeded to upload the remnants…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Vision"
+  },
+  {
+   "id": "helicarrier",
+   "name": "Helicarrier",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/16/Helicarrier_%282020%29.png/revision/latest/scale-to-width-down/500?cb=20200814154555",
+   "summary": "Helicarriers are advanced flying command centers that double as aircraft carriers. Specifically, Helicarriers were designed to be capable of sustained, independently powered flight, via four, massive turbine engines that provide the lift needed to keep them in the air, though they were able to retain seaborne…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Helicarrier"
+  },
+  {
+   "id": "tesseract",
+   "name": "Tesseract",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/06/Avengers_Tesseract2012.png/revision/latest/scale-to-width-down/500?cb=20170220131242",
+   "summary": "The Tesseract, also called the Cube, was a crystalline cube-shaped containment vessel for the Space Stone, one of the six Infinity Stones that predate the universe and possess unlimited energy. It was used by various ancient civilizations before coming into Asgardian hands, kept inside Odin's Vault. Eventually, it…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Tesseract"
+  },
+  {
+   "id": "lighthouse",
+   "name": "Lighthouse",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/be/Lighthouse.png/revision/latest/scale-to-width-down/500?cb=20200622140354",
+   "summary": "The Lighthouse is a massive bunker built in case of an apocalyptic-level event, constructed and equipped by S.H.I.E.L.D. under the command of Rick Stoner, and located under a lighthouse in Lake Ontario, New York. It was abandoned from 1972 until late 2017, when it became S.H.I.E.L.D.'s primary base of operations.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Lighthouse"
+  },
+  {
+   "id": "quinjet",
+   "name": "Quinjet",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6a/Avengers_Quinjet_Civil_War.jpeg/revision/latest/scale-to-width-down/500?cb=20180508185643",
+   "summary": "The Quinjet is a jet used frequently by S.H.I.E.L.D. and the Avengers. As the successor to the Quadjet, Quinjets possess unique flight capabilities thanks to their unique wings which contain turbine fans. While most Quinjets are lightly armed, Project Insight introduced a series of Quinjets with a wider range of…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Quinjet"
+  },
+  {
+   "id": "united-kingdom",
+   "name": "United Kingdom",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/96/Map_of_the_United_Kingdom.png/revision/latest/scale-to-width-down/285?cb=20260530171613",
+   "summary": "The United Kingdom, officially the United Kingdom of Great Britain and Northern Ireland, is a country located in Europe that itself consists of the three countries of England, Scotland and Northern Ireland. It formerly consisted of Wales as well prior to its independence.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/United_Kingdom"
+  },
+  {
+   "id": "germany",
+   "name": "Germany",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9e/Map_of_Germany.PNG/revision/latest/scale-to-width-down/500?cb=20240927230215",
+   "summary": "Germany, officially the Federal Republic of Germany, is a federal parliamentary republic in west-central Europe. It consists of sixteen states, and its capital and largest city is Berlin. From 1949 to 1990, the country was divided in two, forming East Germany and West Germany.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Germany"
+  },
+  {
+   "id": "england",
+   "name": "England",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/ba/Map_of_England.png/revision/latest/scale-to-width-down/285?cb=20260530172522",
+   "summary": "England is a country in Europe and one of three countries that form the United Kingdom.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/England"
+  },
+  {
+   "id": "london",
+   "name": "London",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/69/London_%28VQ%29.png/revision/latest/scale-to-width-down/500?cb=20261014175048",
+   "summary": "London is the capital city of England and the United Kingdom, and the focal point of the Convergence.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/London"
+  },
+  {
+   "id": "mind-stone",
+   "name": "Mind Stone",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Mind_Stone_VFX.png/revision/latest?cb=20220811185608",
+   "summary": "The Mind Stone was one of the six Infinity Stones, the remnant of a singularity that predated the universe, representing the element of mind. It was previously owned by Thanos inside his Scepter who lent it to Loki for the Chitauri Invasion. With the Battle of New York concluded, the Scepter was confiscated by…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Mind_Stone"
+  },
+  {
+   "id": "wakanda",
+   "name": "Wakanda",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/56/Map_of_Wakanda.png/revision/latest/scale-to-width-down/500?cb=20211017005219",
+   "summary": "Wakanda, officially known as the Kingdom of Wakanda, is a country located in Africa. It is surrounded by mountain ranges and a thick jungle. It is one of the most technologically advanced nations on Earth, known for its rich deposits of the element vibranium. Wakanda is a constitutional monarchy, with King M'Baku…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Wakanda"
+  },
+  {
+   "id": "kree",
+   "name": "Kree",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/99/Dar-Benn_Kree.jpg/revision/latest/scale-to-width-down/500?cb=20230722213905",
+   "summary": "The Kree are a militaristic race of mostly blue-skinned humanoids from the planet Hala. One of the most technically advanced races in the galaxy, the Kree are skilled in genetic engineering and are responsible for the creation of the Inhumans on Earth. Politically, they are a powerful intergalactic state,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Kree"
+  },
+  {
+   "id": "odin",
+   "name": "Odin",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Odin_Infobox.png/revision/latest/scale-to-width-down/395?cb=20250203212940",
+   "summary": "Odin Borson was the former King of Asgard, son of Bor, husband of Frigga, father of Hela and Thor, the adoptive father of Loki, and the former protector of the Nine Realms. During the ancient times, he was worshiped as the God of Wisdom by the inhabitants of Earth. Once the greatest warrior in all the Nine Realms,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Odin"
+  },
+  {
+   "id": "ten-rings-organization",
+   "name": "Ten Rings (Organization)",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6c/Ten_Rings_Chinese_Logo.png/revision/latest?cb=20221113182835",
+   "summary": "The Ten Rings (Mandarin: 十环帮) is a clandestine criminal and terrorist organization founded by Xu Wenwu in the early Middle Ages. By the 21st Century, the Ten Rings had become involved in terrorist activities across the globe. In 2024, following Wenwu's death during the Battle of Ta Lo, the organization was taken…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Ten_Rings_(Organization)"
+  },
+  {
+   "id": "new-jersey",
+   "name": "New Jersey",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c4/Map_of_New_Jersey.png/revision/latest/scale-to-width-down/500?cb=20140428213630",
+   "summary": "New Jersey is a state located in the northeastern and Mid-Atlantic regions of the United States.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/New_Jersey"
+  },
+  {
+   "id": "fbi",
+   "name": "FBI",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b6/FBI.png/revision/latest/scale-to-width-down/485?cb=20170322214808",
+   "summary": "The Federal Bureau of Investigation, better known by its acronym FBI, is the domestic intelligence and security service of the United States and is its principal federal law enforcement agency, operating under the United States Department of Justice.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/FBI"
+  },
+  {
+   "id": "russia",
+   "name": "Russia",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/59/Map_of_Russia.png/revision/latest/scale-to-width-down/500?cb=20150123175828",
+   "summary": "Russia, officially known as the Russian Federation, is a country located in Asia and Europe on Earth. Formerly known as the Russian Soviet Federative Socialist Republic, it was part of the Soviet Union from 1922 until its dissolution in December 1991.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Russia"
+  },
+  {
+   "id": "super-soldier-serum",
+   "name": "Super Soldier Serum",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d0/Super_Soldier_Serum.png/revision/latest/scale-to-width-down/500?cb=20171029000714",
+   "summary": "The Super Soldier Serum is a chemical solution originally created by Abraham Erskine. The serum, formulated to enhance the human body and mind, was intended to be utilized by the United States Armed Forces during World War II in order to transform Allied soldiers into super soldiers.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Super_Soldier_Serum"
+  },
+  {
+   "id": "asgard",
+   "name": "Asgard",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/26/AsgardFull.jpg/revision/latest/scale-to-width-down/500?cb=20220709021326",
+   "summary": "Asgard was a plane within the Nine Realms and the former home world of the Asgardians. Asgard was destroyed in 2017, when Thor ordered Loki to unleash Ragnarök in order to kill Hela, killing 9,719 Asgardians in the process. The surviving Asgardians relocated to Earth, transforming the town of Tønsberg, Norway into…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Asgard"
+  },
+  {
+   "id": "hand",
+   "name": "Hand",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b8/The_Hand_of_Damage_Control.png/revision/latest/scale-to-width-down/500?cb=20261013221426",
+   "summary": "The Yami no te (Japanese: 闇の手, lit. 'Hand of Darkness'), commonly known as the Hand, is an ancient and powerful secret society and ninja clan with the ultimate goal of gaining immortality. The Hand originated in K'un-Lun, when the organization's five founders were banished from the city and have since lived on in…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hand"
+  },
+  {
+   "id": "chitauri",
+   "name": "Chitauri",
+   "type": "espece",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6c/Chitauri.png/revision/latest/scale-to-width-down/500?cb=20141201060242",
+   "summary": "The Chitauri are a sentient species of cybernetically enhanced beings operating under a hive mind intelligence.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Chitauri"
+  },
+  {
+   "id": "coulson-s-team",
+   "name": "Coulson's Team",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6e/Agents_of_SHIELD.jpg/revision/latest/scale-to-width-down/500?cb=20140418035158",
+   "summary": "Coulson's Team was the S.H.I.E.L.D. special operative unit led by Phil Coulson and tasked to investigate the unclassified cases. By Nick Fury's orders, the team was put together by Melinda May following the Battle of New York and Coulson's resurrection. When Hydra came out of the shadows and into the light during…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Coulson's_Team"
+  },
+  {
+   "id": "afghanistan",
+   "name": "Afghanistan",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/00/Map_of_Afghanistan.png/revision/latest/scale-to-width-down/500?cb=20231017173220",
+   "summary": "Afghanistan, officially the Islamic Emirate of Afghanistan and formerly known as the Islamic Republic of Afghanistan, is a landlocked country in Asia.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Afghanistan"
+  },
+  {
+   "id": "zephyr-one",
+   "name": "Zephyr One",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/66/Zephyr_One_Wallpaper.jpg/revision/latest/scale-to-width-down/500?cb=20210128093829",
+   "summary": "Zephyr One, also known as Z1 or simply the Zephyr, is a mobile airborne command plane designed by Leo Fitz to be S.H.I.E.L.D.'s main aircraft and mobile headquarters after the Bus was destroyed during an attack on a Hydra facility. Upon being upgraded, it was used by S.H.I.E.L.D. to travel through space and time.…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Zephyr_One"
+  },
+  {
+   "id": "sokovia",
+   "name": "Sokovia",
+   "type": "lieu",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d4/Map_of_Sokovia.png/revision/latest/scale-to-width-down/500?cb=20240601033955",
+   "summary": "Sokovia (Sokovian Cyrillic: Соковиja; Sokovian Latin: Sokovija) was a former landlocked country in Central-Southeastern Europe, bordered by Slovakia and the Czech Republic. In 2015, its capital city was destroyed by Ultron, destabilizing the nation. Sokovia then ceased to exist as a nation, with its territory…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Sokovia"
+  },
+  {
+   "id": "time-variance-authority",
+   "name": "Time Variance Authority",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/TimeVarianceAuthorityLogo.png/revision/latest/scale-to-width-down/500?cb=20210417200846",
+   "summary": "The Time Variance Authority (TVA) is a bureaucratic organization created by He Who Remains and located outside of time and space that originally served as a temporal law enforcement agency tasked with preserving the Sacred Timeline by preventing the creation of alternate timelines. Following Loki's decision to…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Time_Variance_Authority"
+  },
+  {
+   "id": "strategic-scientific-reserve",
+   "name": "Strategic Scientific Reserve",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f4/SSR-2.png/revision/latest/scale-to-width-down/500?cb=20170223153103",
+   "summary": "The Strategic Scientific Reserve, or SSR, was a top-secret Allied intelligence agency during World War II. It was formed in 1940 by U.S. President Franklin D. Roosevelt to combat Hydra, the Nazi special weapons division. After the war, the SSR came in conflict with the Soviet deep science division Leviathan and the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Strategic_Scientific_Reserve"
+  },
+  {
+   "id": "stark-industries",
+   "name": "Stark Industries",
+   "type": "faction",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2e/Stark_Industries_-_Infobox_Logo.png/revision/latest/scale-to-width-down/500?cb=20250316162922",
+   "summary": "Stark Industries is a multinational industrial company and the largest tech conglomerate in the world. Founded in 1939 by Howard Stark, the elder Stark ran the company from its inception up until his death in 1991, after which Obadiah Stane was appointed interim CEO, with Tony Stark officially assuming the position…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Stark_Industries"
+  },
+  {
+   "id": "framework",
+   "name": "Framework",
+   "type": "objet",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c9/Frameworkwarping.png/revision/latest/scale-to-width-down/500?cb=20260917172353",
+   "summary": "The Framework is a simulated world created by Leo Fitz as a training program for S.H.I.E.L.D. agents. In 2017, Holden Radcliffe upgraded the Framework into a fully immersive global virtual reality.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Framework"
+  },
+  {
+   "id": "iron-fist",
+   "name": "Iron Fist",
+   "type": "personnage",
+   "rarity": "PC",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e7/Iron_Fist_%28S2%29.jpg/revision/latest/scale-to-width-down/365?cb=20240308171726",
+   "summary": "Daniel Thomas \"Danny\" Rand is the son of Wendell and Heather Rand and the Co-CEO of Rand Enterprises. Rand lost his parents in a plane crash which resulted with the young Rand being rescued by monks and taken to K'un-Lun where he trained and eventually took the title of the Iron Fist. Rand returned to New York City…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Iron_Fist"
+  },
+  {
+   "id": "kingpin",
+   "name": "Kingpin",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9c/Kingpin_Infobox.jpg/revision/latest/scale-to-width-down/375?cb=20260313171448",
+   "summary": "Wilson Grant Fisk is a powerful businessman and crime lord with a controlling interest in New York City. Decades after he murdered his abusive father when he was a child, Fisk formed alliances with other criminal enterprises and used the aftermath of the Battle of New York to gain power in the city, as he attempted…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Kingpin"
+  },
+  {
+   "id": "mariah-stokes",
+   "name": "Mariah Stokes",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Mariah_Stokes_Infobox.png/revision/latest/scale-to-width-down/470?cb=20231026013330",
+   "summary": "Mariah Stokes Dillard (née Stokes) was a powerful woman working in Harlem politics, looking to bring a new era of change to the streets that she had grown up. Dillard's own personal life and professional career were thrown into turmoil by Luke Cage, and her cousin, Cottonmouth's ongoing nefarious acts. As her…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Mariah_Stokes"
+  },
+  {
+   "id": "jigsaw",
+   "name": "Jigsaw",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/de/BRussoProfilePic.jpg/revision/latest/scale-to-width-down/347?cb=20231020224732",
+   "summary": "William \"Billy\" Russo was a United States Marine who served beside Frank Castle in Afghanistan, and the duo eventually became close friends. Russo and Castle were both recruited into Cerberus Squad under William Rawlins' leadership, where they assisted in assassination missions. Upon leaving the Marine Corps, Russo…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Jigsaw"
+  },
+  {
+   "id": "captain-america",
+   "name": "Captain America",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Captain_America_Infobox.jpg/revision/latest/scale-to-width-down/351?cb=20250117164205",
+   "summary": "Samuel Thomas \"Sam\" Wilson is a former United States Air Force pararescue airman who wielded an experimental military wingsuit, operating under the callsign Falcon. Following the death of his wingman Ronald Riley, Wilson left active duty and devoted himself to helping veterans suffering from post-traumatic stress…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Captain_America"
+  },
+  {
+   "id": "graviton",
+   "name": "Graviton",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Graviton_Infobox.jpg/revision/latest/scale-to-width-down/342?cb=20230827163422",
+   "summary": "Glenn Talbot was a former high-ranking officer in the United States Air Force. Following the terrorist attacks that arose from the Hydra Uprising, Talbot was tasked with capturing the remaining S.H.I.E.L.D. facilities, for which he was promoted. Despite their long-standing feud and constant attempts to outdo one…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Graviton"
+  },
+  {
+   "id": "dinah-madani",
+   "name": "Dinah Madani",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f6/Dinah_Madani_Infobox.jpg/revision/latest/scale-to-width-down/399?cb=20250814193129",
+   "summary": "Agent Dinah Madani is a CIA agent and former Homeland Security agent who, upon returning to New York City from her active duty in Kandahar, opened up her own investigation into the death of her partner Ahmad Zubair, with the aid of her new partner, Sam Stein. Upon gaining her leadership position after the sudden…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Dinah_Madani"
+  },
+  {
+   "id": "bus",
+   "name": "Bus",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/89/Bus_%281x21%29.png/revision/latest/scale-to-width-down/500?cb=20190303005006",
+   "summary": "The CXD 23215 Airborne Mobile Command Station were specialized Boeing C-17 Globemaster III airplanes used by S.H.I.E.L.D. and created by Stark Industries. The planes were in heavy rotation until 2008, when S.H.I.E.L.D. replaced their primary mode of air transport with Helicarriers to divert funding to the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Bus"
+  },
+  {
+   "id": "alisa-jones",
+   "name": "Alisa Jones",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/58/Jessica_Jones_mom.png/revision/latest/scale-to-width-down/335?cb=20180311220651",
+   "summary": "Alisa Jones (née Campbell) was Jessica and Phillip Jones' mother, as well as Brian Jones' wife, with whom she was in a loveless marriage. However, following a serious car accident, Jones lost her husband and son, with herself and her daughter as the only survivors. The survivors were then saved from death by Karl…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Alisa_Jones"
+  },
+  {
+   "id": "shades",
+   "name": "Shades",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f8/Shades.PNG/revision/latest/scale-to-width-down/455?cb=20231026013420",
+   "summary": "Hernán Enrique Salazar Álvarez, also known as Shades, is a criminal and member of the Rivals. As an inmate at Seagate Penitentiary, he worked for Albert Rackham, organizing illegal prison fights. Once released from Seagate, Shades was recruited by Diamondback and was sent to Harlem to watch over the criminal…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Shades"
+  },
+  {
+   "id": "rocket-raccoon",
+   "name": "Rocket Raccoon",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/Rocket_Vol._3.jpg/revision/latest?cb=20231114031203",
+   "summary": "Subject 89P13 is a raccoon who was genetically and cybernetically modified by High Evolutionary, giving him enhanced intelligence and the ability to speak. Naming himself Rocket, he befriended fellow captive Halfworlders Lylla, Teefs, and Floor, with the four believing they would soon be allowed to live in peace on…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Rocket_Raccoon"
+  },
+  {
+   "id": "bullseye",
+   "name": "Bullseye",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1c/Bullseye_Infobox.png/revision/latest/scale-to-width-down/382?cb=20260506203755",
+   "summary": "Benjamin Leonard \"Dex\" Poindexter is a veteran of the United States Army and a former FBI agent who possesses a remarkable talent for accuracy. Struggling with a mental illness throughout his life, Poindexter relied on structure and rules to maintain his sanity with the counseling of Eileen Mercer, whose death…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Bullseye"
+  },
+  {
+   "id": "davos",
+   "name": "Davos",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b3/Davos.jpg/revision/latest/scale-to-width-down/301?cb=20190531095929",
+   "summary": "Davos is a member of the Order of the Crane Mother, the son of Lei Kung and Priya, and a contender for the Iron Fist mantle. Davos had became friends with Danny Rand, but grew jealous of Rand once he received the honor of becoming the Iron Fist. Davos' jealousy turned to anger as Rand had left his post at K'un-Lun…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Davos"
+  },
+  {
+   "id": "curtis-hoyle",
+   "name": "Curtis Hoyle",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d9/Curtis_Hoyle_Infobox.jpg/revision/latest/scale-to-width-down/316?cb=20191002154919",
+   "summary": "Curtis \"Curt\" Hoyle is a former Navy SARC who lost his leg during his service. Following a discharge from his military service, Hoyle served as a counselor for other veterans suffering with PTSD, including Lewis Wilson. Having found out that his friend, Frank Castle, was alive following the massacre of his family,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Curtis_Hoyle"
+  },
+  {
+   "id": "micro",
+   "name": "Micro",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/55/Micro_Infobox.png/revision/latest/scale-to-width-down/352?cb=20240808195035",
+   "summary": "David Linus Lieberman, known also by his Hebrew name David ben Baruch Benyamin (Hebrew: דוד בן ברוך בנימין), is a former NSA analyst and member of the Rising Tide who operated under the name Micro. A legendary hacker, Micro faked his own death in order to hide from the authorities who sought to kill him. Seeking to…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Micro"
+  },
+  {
+   "id": "amy-bendix",
+   "name": "Amy Bendix",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/Amy_Bendix_-_Portal.jpg/revision/latest/scale-to-width-down/356?cb=20231020224929",
+   "summary": "Amy Bendix is a street-smart grifter and a member of Fiona's Crew who was recruited by the Russian Mafia to take compromising pictures of Senator David Schultz. However, once Schultz's family learned of this, they sent John Pilgrim to assassinate Bendix and all of her friends, as Bendix escaped and fell under the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Amy_Bendix"
+  },
+  {
+   "id": "gideon-malick",
+   "name": "Gideon Malick",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/db/Malickg.jpg/revision/latest/scale-to-width-down/333?cb=20160121014351",
+   "summary": "Gideon Malick was a powerful businessman, political figure and one of the leaders of Hydra, while he eventually became the Hydra head that other heads feared. Having been raised by his father to help with Hydra's ancient goal to return Hive to Earth through sacrifices, Malick become one of Hydra's infiltrators…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Gideon_Malick"
+  },
+  {
+   "id": "nico-minoru",
+   "name": "Nico Minoru",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Nico_Minoru_S3_-_Poster.jpg/revision/latest/scale-to-width-down/400?cb=20231020204233",
+   "summary": "Nico Minoru is a wicca sorceress and the daughter of Robert and Tina Minoru. Following the death of her older sister, Amy Minoru, Nico crafted a goth appearance to isolate herself. Upon reuniting with her childhood friends, they discovered that their parents used PRIDE to cover up ceremonial sacrifices of the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Nico_Minoru"
+  },
+  {
+   "id": "elektra",
+   "name": "Elektra",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e3/Elektra_Infobox.png/revision/latest/scale-to-width-down/329?cb=20230629114045",
+   "summary": "Elektra Natchios is an assassin who was trained under Stick to join the Chaste. She fell in love with Matt Murdock during a mission for Stick to bring Murdock into the organization. She returned to his life after years of absence, putting her beliefs and methods at conflict with his own. Later, she was revealed to…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Elektra"
+  },
+  {
+   "id": "uatu",
+   "name": "Uatu",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e5/Uatu_the_Watcher.png/revision/latest/scale-to-width-down/347?cb=20241230223134",
+   "summary": "Uatu is a fifth-dimensional being who observed the Multiverse from the Observational Plane. Taking an oath that prohibited him from interfering with events occurring within the Multiverse, Uatu joined the Order of the Watchers and stepped into his role as a Watcher. This changed when an Infinity Stones-wielding…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Uatu"
+  },
+  {
+   "id": "solar-system",
+   "name": "Solar System",
+   "type": "lieu",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/12/Sun_and_Jupter.png/revision/latest/scale-to-width-down/500?cb=20210724015100",
+   "summary": "The Solar System is the gravitational bound system of the Sun.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Solar_System"
+  },
+  {
+   "id": "hellcat",
+   "name": "Hellcat",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/80/Trish_Walker.jpg/revision/latest/scale-to-width-down/358?cb=20221120194040",
+   "summary": "Patricia \"Trish\" Walker is a former model and child TV star, former successful radio talk show host, and the adoptive sister of Jessica Jones. She was the star of It's Patsy, becoming known as Patsy Walker. By overcoming her past as an abused child star that led to a drug addiction, Walker became instrumental in…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hellcat"
+  },
+  {
+   "id": "moon-knight",
+   "name": "Moon Knight",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ea/Moon_Knight_Poster_Textless.png/revision/latest/scale-to-width-down/326?cb=20231026000412",
+   "summary": "Marc Spector is a former United States Marine and mercenary with dissociative identity disorder. During his childhood, Spector's brother Randall drowned in a cave while they were playing, starting a strenuous and spiteful relationship with his mother, who frequently abused him. To find comfort within himself,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Moon_Knight"
+  },
+  {
+   "id": "brett-mahoney",
+   "name": "Brett Mahoney",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2a/Brett_Mahoney_Infobox.png/revision/latest/scale-to-width-down/354?cb=20190128052734",
+   "summary": "Chief of Detectives Brett Mahoney is a former officer with the New York City Police Department, who aided Nelson and Murdock with legal cases, leading to an investigation of Wilson Fisk. Attempting to remain an honest officer in Hell's Kitchen, Mahoney built an uneasy alliance with Daredevil, who despite his…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Brett_Mahoney"
+  },
+  {
+   "id": "sarge",
+   "name": "Sarge",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f8/Sarge_-_MAOSS6.jpg/revision/latest/scale-to-width-down/375?cb=20190412001603",
+   "summary": "Pachakutiq was a non-corporeal entity from the Fear Dimension who planned on taking over the universe with his lover, Izel, by his side by having the others of his kind possess individuals across the galaxy. This plan went awry, however, when his memories were disarranged after he possessed a duplicate body of Phil…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Sarge"
+  },
+  {
+   "id": "patriot",
+   "name": "Patriot",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/31/PatriotProfilePic.jpg/revision/latest/scale-to-width-down/302?cb=20200331200810",
+   "summary": "Director Jeffrey Solomon Mace was a former journalist working for International Affairs who survived Helmut Zemo's terrorist attack in Vienna, resulting in him getting recruited by Brigadier General Glenn Talbot to partake in an experiment that would give him super strength under the name Project Patriot. Now a…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Patriot"
+  },
+  {
+   "id": "lincoln-campbell",
+   "name": "Lincoln Campbell",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/be/Lincoln_Campbell.png/revision/latest/scale-to-width-down/333?cb=20160304031121",
+   "summary": "Doctor Lincoln Campbell, M.D. was an Inhuman agent of S.H.I.E.L.D. and a member of the Secret Warriors. His own Inhuman potential was discovered by Gordon just as Campbell was struggling with a crippling alcohol problem. He was saved and worked in Afterlife as a transitioner and helped Skye understand the true…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Lincoln_Campbell"
+  },
+  {
+   "id": "enoch",
+   "name": "Enoch",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/bf/Enoch_7x09.jpg/revision/latest/scale-to-width-down/319?cb=20200803113128",
+   "summary": "Enoch was a former Chronicom anthropologist, from Chronyca-2, created thirty two thousand years ago. He was mentored by Atarah, later lover, before they had a falling out and grew to despise each other. He was sent to Earth in order to study and record the history of humans.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Enoch"
+  },
+  {
+   "id": "red-hulk",
+   "name": "Red Hulk",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Red_Hulk_Infobox.png/revision/latest/scale-to-width-down/355?cb=20250610000230",
+   "summary": "Thaddeus E. \"Thunderbolt\" Ross is a former President of the United States, a former Lieutenant General in the United States Army, and a former Secretary of State under President Matthew Ellis' administration. During his career, he was put in charge of Project Gamma Pulse, with Ross' goal being to recreate the Super…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Red_Hulk"
+  },
+  {
+   "id": "agatha-harkness",
+   "name": "Agatha Harkness",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Agatha_Harkness_Infobox.jpg/revision/latest/scale-to-width-down/395?cb=20250404171313",
+   "summary": "Agatha Harkness was the daughter of Evanora Harkness and an infamous witch from Salem, Massachusetts, who mastered in practicing dark magic. She later gave birth to her son, Nicholas Scratch, who was born sick and frail, and initially lived a quiet life with him, killing witches every once in a while to steal their…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Agatha_Harkness"
+  },
+  {
+   "id": "karolina-dean",
+   "name": "Karolina Dean",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ac/Karolina_Dean_S3_-_Poster.jpg/revision/latest/scale-to-width-down/345?cb=20231020204211",
+   "summary": "Karolina Dean is a Gibborim-human hybrid and the daughter of Jonah and Leslie Dean. Upon removing her Gibborim bracelet for the first time, Karolina discovered her powers of light generation. Having reunited with her childhood friends, they discovered that their parents used PRIDE to cover up ceremonial sacrifices…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Karolina_Dean"
+  },
+  {
+   "id": "ms-marvel",
+   "name": "Ms. Marvel",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Ms._Marvel_Infobox.png/revision/latest/scale-to-width-down/393?cb=20240120054811",
+   "summary": "Kamala Khan (Urdu: کمالہ خان) is a mutant hybrid, a student at Coles Academic High School, and a big fan of the Avengers, particularly Captain Marvel. Being a descendant of Aisha, Khan discovered her abilities to manipulate Noor, harnessing it through Aisha's bangle. Khan's newfound powers attracted the attention…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Ms._Marvel"
+  },
+  {
+   "id": "krista-dumont",
+   "name": "Krista Dumont",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/Krista_Dumont.png/revision/latest/scale-to-width-down/303?cb=20190623132914",
+   "summary": "Doctor Krista Dumont is a psychotherapist who had a strong compassion for military veterans following her father's suicide many years earlier. When Dumont was tasked with overseeing the treatments for Billy Russo following his disfigurement, she found herself developing feelings for Russo, and aided him in his…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Krista_Dumont"
+  },
+  {
+   "id": "gregory-sallinger",
+   "name": "Gregory Sallinger",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6a/Gregory_Sallinger_Infobox.jpg/revision/latest/scale-to-width-down/385?cb=20251217212040",
+   "summary": "Gregory P. Sallinger was a highly intelligent serial killer who became entangled with Jessica Jones and Erik Gelden when they both discovered Sallinger’s heinous activities. Sallinger continued murdering until Jones exposed his victims to the New York City Police Department, prompting Sallinger to kidnap Gelden,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Gregory_Sallinger"
+  },
+  {
+   "id": "holden-radcliffe",
+   "name": "Holden Radcliffe",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ed/HRadcliffe-S3-ProfilePic.jpg/revision/latest/scale-to-width-down/303?cb=20200402160359",
+   "summary": "Holden Radcliffe was a transhumanist whose theories got him fired from GT Agrochemical. He was kidnapped and recruited by Hive in order to recreate the Kree experiment which had created the Inhumans. Despite Radcliffe's enthusiasm, he struggled to perfect the experiment, inadvertently creating the Primitives. He…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Holden_Radcliffe"
+  },
+  {
+   "id": "she-hulk",
+   "name": "She-Hulk",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5a/She-Hulk_-_Infobox.jpg/revision/latest/scale-to-width-down/370?cb=20231020212153",
+   "summary": "Jennifer Susan \"Jen\" Walters, Esq. is a former attorney at Goodman, Lieber, Kurtzberg & Holliway and former Deputy District Attorney for the City of Los Angeles. Upon accidentally receiving drops of Bruce Banner's blood, she underwent a physical transformation similar to his and became known as She-Hulk. She was…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/She-Hulk"
+  },
+  {
+   "id": "jeri-hogarth",
+   "name": "Jeri Hogarth",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Jeri_Hogarth.jpg/revision/latest/scale-to-width-down/339?cb=20240124225717",
+   "summary": "Jeryn \"Jeri\" Hogarth is a no-nonsense and resourceful lawyer who started her legal career as an intern for Rand Enterprises. Following the supposed deaths of the Rand family, she eventually became a partner in the firm Hogarth, Chao & Benowitz. While running her own firm, she began to hire Jessica Jones to help her…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Jeri_Hogarth"
+  },
+  {
+   "id": "dagger",
+   "name": "Dagger",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/Dagger_Infobox.png/revision/latest/scale-to-width-down/338?cb=20260509053709",
+   "summary": "Tandy Bowen is a former street thief who gained the ability to channel Lightforce in the aftermath of the collapse of the Roxxon Gulf Platform, during which she and Tyrone Johnson, whose powers are connected to Bowen's, were exposed to a mixture of Lightforce and Darkforce. Bowen remained ignorant of her powers for…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Dagger"
+  },
+  {
+   "id": "black-widow",
+   "name": "Black Widow",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8e/Yelena_Belova_Infobox.jpg/revision/latest/scale-to-width-down/381?cb=20261017030110",
+   "summary": "Yelena Belova (Russian: Елена Белова) is the adoptive younger sister of Natasha Romanoff, a Red Room operative who worked for General Dreykov as one of the Black Widows, and a founding member and leader of the New Avengers. Following Romanoff's defection from the Red Room, Belova and other Black Widows were put…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Black_Widow"
+  },
+  {
+   "id": "wiccan",
+   "name": "Wiccan",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/83/Wiccan_Infobox.png/revision/latest/scale-to-width-down/419?cb=20241018202830",
+   "summary": "William \"Billy\" Maximoff is the son of Wanda Maximoff and Vision and the younger twin brother of Tommy Maximoff. Created by Wanda using chaos magic, Billy was born and raised within the Westview Anomaly, where he and his brother were rapidly aged up. While Tommy received their uncle's super speed, Billy was…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Wiccan"
+  },
+  {
+   "id": "mighty-thor",
+   "name": "Mighty Thor",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/db/Mighty_Thor_Infobox.jpg/revision/latest/scale-to-width-down/391?cb=20240802141811",
+   "summary": "Doctor Jane Foster was one of the world's leading astrophysicists, the world's foremost astronomer, the creator of the Foster Theory, as well as one of the premiere experts on Asgard. She found Thor after he was banished from Asgard and fell to Earth while she and her team were in New Mexico studying astronomical…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Mighty_Thor"
+  },
+  {
+   "id": "izel",
+   "name": "Izel",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/Izel_-_MAOSS6.jpg/revision/latest/scale-to-width-down/375?cb=20190711125330",
+   "summary": "Izel was an ancient entity and the creator of the Shrike. Along with her creations, Izel was responsible for the destruction of multiple planets in her quest to reclaim the Di'Allas. Another entity, Pachakutiq, who was under the false impression that Izel killed his family, attempted to kill her multiple times, but…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Izel"
+  },
+  {
+   "id": "chase-stein",
+   "name": "Chase Stein",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/66/Chase_Stein_S3_-_Poster.jpg/revision/latest/scale-to-width-down/389?cb=20231020204109",
+   "summary": "Victor Chase Stein is a former player of the Atlas Academy lacrosse team and the son of Victor and Janet Stein. Upon reuniting with his childhood friends, they discovered that their parents used PRIDE to cover up ceremonial sacrifices of the Church of Gibborim. Interested in technology and engineering, Stein…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Chase_Stein"
+  },
+  {
+   "id": "deathlok",
+   "name": "Deathlok",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/af/Deathloknewpro.jpg/revision/latest/scale-to-width-down/333?cb=20161203221220",
+   "summary": "Michael \"Mike\" Peterson is the single father of Ace Peterson and a Centipede Project test subject recruited by Raina, who promised to cure his injuries and enhance his powers through the use of Centipede Serum. When he compromised the secrecy of the project, the Centipede Project decided to eliminate him, but were…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Deathlok"
+  },
+  {
+   "id": "daniel-whitehall",
+   "name": "Daniel Whitehall",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0c/Hen26.jpg/revision/latest/scale-to-width-down/333?cb=20141016191710",
+   "summary": "Doctor Werner Reinhardt was one of the most prominent leaders of Hydra. Originally a high-ranking officer of the Nazi Schutzstaffel, during World War II, he led many expeditions to recover mysterious artifacts for Hydra, working under the command of Red Skull. Despite his capture by the Strategic Scientific Reserve…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Daniel_Whitehall"
+  },
+  {
+   "id": "wasp",
+   "name": "Wasp",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Wasp_Quantumania.jpg/revision/latest/scale-to-width-down/347?cb=20231124223547",
+   "summary": "Hope van Dyne is the daughter of Hank Pym and Janet van Dyne and a former chairwoman of the board of Pym Technologies. When Darren Cross attempted to create and sell a new weapon based on her father's Ant-Man Suit, van Dyne reunited with her father and, along with Scott Lang, who succeeded Hank as Ant-Man, was able…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Wasp"
+  },
+  {
+   "id": "spider-man-suit",
+   "name": "Spider-Man Suit",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/94/Spider-Man_Red_and_Blue.jpg/revision/latest/scale-to-width-down/337?cb=20220417141216",
+   "summary": "The Spider-Man Suit is a specialized suit used by Peter Parker to protect his identity as Spider-Man. It originally consisted of a red hoodie with a spider symbol, blue garments and a mask with goggles.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Spider-Man_Suit"
+  },
+  {
+   "id": "mary-walker",
+   "name": "Mary Walker",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8f/Mary_Walker.jpg/revision/latest/scale-to-width-down/336?cb=20190427121504",
+   "summary": "Mary Alice Walker is a private investigator, mercenary, and former special ops soldier in the United States Army who, after being captured and raped in Sokovia, developed dissociative identity disorder, which manifested mainly into two distinct identities: the naïve Mary and the ruthless Walker. Walker was…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Mary_Walker"
+  },
+  {
+   "id": "ghost-rider",
+   "name": "Ghost Rider",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/80/Ghost_Rider_RR.jpg/revision/latest/scale-to-width-down/295?cb=20160927161605",
+   "summary": "Roberto \"Robbie\" Reyes is a car mechanic who, after being killed by the Fifth Street Locos, was resurrected by Johnny Blaze and found himself imbued with the power to transform into Ghost Rider. Seeking vengeance for his death, and his brother's disability following the attack on their lives, Ghost Rider proceeded…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Ghost_Rider"
+  },
+  {
+   "id": "hive",
+   "name": "Hive",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/83/Hive_True_Face.png/revision/latest/scale-to-width-down/375?cb=20260424154518",
+   "summary": "Alveus was a parasitic Inhuman capable of infesting and possessing the corpses of dead humans and controlling other Inhumans through a hive mind. Because of his great power, Alveus was eventually banished to his barren planet, leaving him trapped for centuries. His followers had then founded a secret society with…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hive"
+  },
+  {
+   "id": "abomination",
+   "name": "Abomination",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a4/Abomination_Infobox.jpg/revision/latest/scale-to-width-down/347?cb=20231020212349",
+   "summary": "Emil Blonsky is a former special-ops commander of the British Royal Marines who was loaned to SOCOM. In his efforts to apprehend Hulk, Blonsky was recruited by United States Army General Thaddeus Ross and injected with a variant of the Super Soldier Serum. After losing to Hulk during a battle, Blonsky had himself…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Abomination"
+  },
+  {
+   "id": "john-pilgrim",
+   "name": "John Pilgrim",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/66/John_Pilgrim.jpg/revision/latest/scale-to-width-down/304?cb=20200524154816",
+   "summary": "Robert is a retired assassin and former member of the Aryan Brotherhood who changed his ways after meeting Anderson Schultz and converting to Christianity, with Schultz giving him the opportunity to live a new life as John Pilgrim. In 2018, he was forced to resume his life as an assassin by Anderson and Eliza…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/John_Pilgrim"
+  },
+  {
+   "id": "xu-wenwu",
+   "name": "Xu Wenwu",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3a/Wenwu_Infobox.jpg/revision/latest/scale-to-width-down/403?cb=20231210193802",
+   "summary": "Xu Wenwu (Mandarin: 徐文武) was a legendary and nearly mythical figure who rose to power after discovering a set of mythical rings, and founded the army known as the Ten Rings. Xu established himself as a powerful warlord who conquered kingdoms over the millennia, the rings' power gifting him immortality. In the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Xu_Wenwu"
+  },
+  {
+   "id": "baron-zemo",
+   "name": "Baron Zemo",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d5/TF%26TWS_Textless_Character_Posters_02.jpg/revision/latest/scale-to-width-down/346?cb=20231021161327",
+   "summary": "Baron Helmut J. Zemo is a Sokovian nobleman, former Colonel of the Sokovian Armed Forces, and commander of EKO Scorpion, dubbed Baron Zemo. Following the Battle of Sokovia, Zemo became a criminal mastermind who sought revenge against the Avengers and other enhanced individuals, after losing his entire family.…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Baron_Zemo"
+  },
+  {
+   "id": "colleen-wing",
+   "name": "Colleen Wing",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Colleen_Wing.jpg/revision/latest/scale-to-width-down/321?cb=20170306022333",
+   "summary": "Colleen Wing is a martial arts expert who served as a loyal soldier of the Hand upon her recruitment by Bakuto. While running her own dojo within New York City, she helped Danny Rand to adapt upon his return and gained his trust while he sought answers about his own company's role with the heroin trade within New…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Colleen_Wing"
+  },
+  {
+   "id": "alex-wilder",
+   "name": "Alex Wilder",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3c/Alex_Wilder_Infobox.jpg/revision/latest/scale-to-width-down/359?cb=20231020204253",
+   "summary": "Alex Wilder is the son of Geoffrey and Catherine Wilder. Upon reuniting with his childhood friends, they discovered that their parents used PRIDE to cover up ceremonial sacrifices of the Church of Gibborim. Wilder put his strategizing and hacking skills into practice. He teamed up with his friends and formed the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Alex_Wilder"
+  },
+  {
+   "id": "john-garrett",
+   "name": "John Garrett",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2a/JGarrett-ShieldProfile.jpg/revision/latest/scale-to-width-down/407?cb=20170303030026",
+   "summary": "Jonathan \"John\" Garrett was a turncoat S.H.I.E.L.D. agent who joined Hydra after being refused aid by S.H.I.E.L.D. when he was injured during a mission in Sarajevo. He survived his injury by becoming the first subject of the Project Deathlok. While maintaining his cover as a loyal S.H.I.E.L.D. agent, he used his…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/John_Garrett"
+  },
+  {
+   "id": "claire-temple",
+   "name": "Claire Temple",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/40/Claire_Temple.png/revision/latest/scale-to-width-down/487?cb=20240802141123",
+   "summary": "Claire Temple is a former night shift nurse who worked at Metro-General Hospital and took care of Matt Murdock whenever he was injured during his missions as Daredevil. Meeting Jessica Jones and Luke Cage, Temple assisted them medically as they dealt with Kilgrave. However, in the aftermath of a battle against the…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Claire_Temple"
+  },
+  {
+   "id": "u-s-agent",
+   "name": "U.S. Agent",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/ba/U.S._Agent_Infobox.png/revision/latest/scale-to-width-down/375?cb=20260313234727",
+   "summary": "Jonathan F. \"John\" Walker is a former Captain of the United States Army's 75th Ranger Regiment and a founding member of the New Avengers. Due to his successful operations around the world, Walker was chosen to succeed Steve Rogers as the second Captain America. However, his aspirations of living up to Rogers'…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/U.S._Agent"
+  },
+  {
+   "id": "r-hale",
+   "name": "R. Hale",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3b/Hale_pro.png/revision/latest/scale-to-width-down/301?cb=20191119004831",
+   "summary": "Brigadier General R. Hale was a high-ranking officer of the United States Air Force and the last surviving Hydra leader, who had also been previously tasked by Daniel Whitehall to birth the future leader of Hydra. While she raised Ruby Hale, she witnessed the Destruction of Hydra and tried to push Project Destroyer…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/R._Hale"
+  },
+  {
+   "id": "vanessa-fisk",
+   "name": "Vanessa Fisk",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/85/Vanessa_Marianna_Fisk_Infobox.png/revision/latest/scale-to-width-down/365?cb=20260321161304",
+   "summary": "First Lady Vanessa Fisk (née Marianna) was an art dealer, crime lady, wife of Wilson Fisk, and first lady of New York City. She remained loyal to Fisk even after learning of his criminal empire and vowed to stay with him in the wake of her being poisoned by Madame Gao and Leland Owlsley, in their attempt to refocus…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Vanessa_Fisk"
+  },
+  {
+   "id": "misty-knight",
+   "name": "Misty Knight",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e0/Misty_Knight.PNG/revision/latest/scale-to-width-down/495?cb=20231026013304",
+   "summary": "Detective Mercedes Kelly \"Misty\" Knight is a police officer with the New York City Police Department stationed at the 29th Precinct Police Station. During her criminal investigation of Cottonmouth and the Stokes Crime Family, Knight encountered Luke Cage who had been involved in every aspect of her current…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Misty_Knight"
+  },
+  {
+   "id": "kilgrave",
+   "name": "Kilgrave",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/da/Kilgrave-Profile-JJ.jpg/revision/latest/scale-to-width-down/308?cb=20191114200307",
+   "summary": "Kevin Thompson was a man who was experimented on by his parents since his childhood in order to treat a neurodegenerative disease, but the treatment ended up giving him the new ability to control people's minds at his will. Assuming the name Kilgrave, he began to use his powers for personal gain and developed a…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Kilgrave"
+  },
+  {
+   "id": "bushmaster",
+   "name": "Bushmaster",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ed/Bushmaster.PNG/revision/latest/scale-to-width-down/473?cb=20231026013447",
+   "summary": "John McIver, also known as Bushmaster, is an enhanced individual who had previously witnessed his family being murdered by Mama Mabel and vowed revenge on the Stokes family. With a mission of vengeance, Bushmaster had soon arrived in Harlem to kill Mariah Stokes, the last member of the Stokes family, only to be…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Bushmaster"
+  },
+  {
+   "id": "hank-pym",
+   "name": "Hank Pym",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0e/Hank_Pym_Quantumania.jpg/revision/latest/scale-to-width-down/357?cb=20231124223815",
+   "summary": "Doctor Henry Jonathan \"Hank\" Pym is an entomologist and physicist who developed the Ant-Man Suit after discovering the Pym Particles. For a time, he worked for S.H.I.E.L.D. as a consultant and became the original Ant-Man, fighting beside his own wife, Janet van Dyne, who operated as Wasp. However, during a mission…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hank_Pym"
+  },
+  {
+   "id": "eddy-costa",
+   "name": "Eddy Costa",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9c/Eddy_Costa.png/revision/latest/scale-to-width-down/331?cb=20200928200920",
+   "summary": "Detective Eddy Costa is a New York City Police Department detective. In the wake of a traumatic encounter with Kilgrave, Costa put his trust into Jessica Jones as he investigated a series of murders. Once they eventually discovered that the killer was actually Jones' own mother, Alisa Jones, Costa would continue…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Eddy_Costa"
+  },
+  {
+   "id": "madame-gao",
+   "name": "Madame Gao",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d5/Madame_Gao_Infobox.jpg/revision/latest/scale-to-width-down/329?cb=20170831170507",
+   "summary": "Madame Gao (Chinese: 高夫人) is one of the five leading founders of the Hand. Over the many years of her life, Gao focused on running their heroin trade within New York City and using Rand Enterprises' infrastructure as means to it, aligning with Wilson Fisk in order to further her goals. Gao's goals were disrupted by…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Madame_Gao"
+  },
+  {
+   "id": "calvin-zabo",
+   "name": "Calvin Zabo",
+   "type": "personnage",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/20/TheDoctorSkyesFather876.jpg/revision/latest/scale-to-width-down/375?cb=20150102202931",
+   "summary": "Doctor Calvin L. \"Cal\" Johnson, M.D., is a physician who was a former member of Doctors Without Borders. Having been separated from his wife, Jiaying, who was murdered by Werner Reinhardt, Johnson witnessed his infant daughter, Daisy, being taken by Hydra and S.H.I.E.L.D. In the wake of this, Johnson changed his…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Calvin_Zabo"
+  },
+  {
+   "id": "runaways",
+   "name": "Runaways",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5e/The_Runaways_-_Season_3_Final_Scene_%28Promotional%29.jpg/revision/latest/scale-to-width-down/500?cb=20191218093547",
+   "summary": "The Runaways are a team of teenagers who banded together with the purpose of taking down PRIDE, a group formed by their respective parents. After witnessing them sacrifice Destiny Gonzalez, the kids made it their mission to thwart their parents' project. However, the Runaways were forced to run as they had been…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Runaways"
+  },
+  {
+   "id": "pride",
+   "name": "PRIDE",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b3/PRIDE.png/revision/latest/scale-to-width-down/500?cb=20210826165440",
+   "summary": "Promoting Resilience, Independence, Dedication & Excellence, more commonly known as PRIDE, is a Los Angeles-based charity organization whose members are some of the most rich and prominent families in L.A. However, it serves as a front for their true agenda, tied to the ceremonial sacrifices of the Church of…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/PRIDE"
+  },
+  {
+   "id": "captain-america-s-uniform",
+   "name": "Captain America's Uniform",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/40/Cap%27s_Uniform.png/revision/latest/scale-to-width-down/423?cb=20141214075735",
+   "summary": "Captain America's Uniforms are uniforms used by Captain America with a design representative of the United States. The uniforms were primarily used by Steve Rogers as the first Captain America. Upon his retirement, John Walker became the second Captain America and was given a uniform. Following Walker's demotion,…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Captain_America's_Uniform"
+  },
+  {
+   "id": "hawkeye-s-bow-and-quiver",
+   "name": "Hawkeye's Bow and Quiver",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f1/Hawkeye%27s_Arsenal.png/revision/latest/scale-to-width-down/500?cb=20160928163529",
+   "summary": "Hawkeye's Bow and Quiver are a pair of specialized tools used by former S.H.I.E.L.D. agent and Avenger, Hawkeye. Serving as his primary weapons, Hawkeye carries a unique, collapsible recurve bow along with a mechanized quiver that stores and deploys his trick arrows.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Hawkeye's_Bow_and_Quiver"
+  },
+  {
+   "id": "space-stone",
+   "name": "Space Stone",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0a/Space_Stone_VFX.png/revision/latest?cb=20220811185744",
+   "summary": "The Space Stone was one of the six Infinity Stones, the remnant of a singularity that predated the universe, representing the element of space. Housed within the Tesseract, over the course of history it was wielded by many individuals, including Johann Schmidt of Hydra, Mar-Vell of the Kree Empire, the Skrulls, and…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Space_Stone"
+  },
+  {
+   "id": "darkhold",
+   "name": "Darkhold",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/48/Darkhold_Marvel_Studios.jpg/revision/latest/scale-to-width-down/500?cb=20240926192736",
+   "summary": "The Darkhold, also known as the Book of Sins, the Book of Spells, or the Book of the Damned, was a book of spells containing transcribed dark magic based on ancient engravings carved by Chthon. Only two copies of the Darkhold have surfaced in recent times.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Darkhold"
+  },
+  {
+   "id": "iron-man-armor-mark-iii",
+   "name": "Iron Man Armor: Mark III",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/47/Iron_Man_Armor_-_Mark_III.png/revision/latest/scale-to-width-down/204?cb=20170424185316",
+   "summary": "Nearly perfecting his Mark II armor, Tony Stark discovered a nearly fatal icing problem in the suit during a high-altitude test flight, so he decided to move on and develop the Mark III suit. Stark solved the suit's icing problem by using a gold-titanium alloy from an earlier satellite design that was not prone to…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man_Armor%3A_Mark_III"
+  },
+  {
+   "id": "mutants",
+   "name": "Mutants",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6e/Fox_Legacy_Henchmen.png/revision/latest/scale-to-width-down/500?cb=20241004083142",
+   "summary": "Mutants (Homo superior) are an enhanced species that are born with unique genes that, when activated at a certain age, grants them distinct characteristics, such as extraordinary abilities or altered physical appearances. Due to their unique genetics and paranormal traits, mutants are often marginalized and…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Mutants"
+  },
+  {
+   "id": "power-stone",
+   "name": "Power Stone",
+   "type": "objet",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d7/Power_Stone_VFX.png/revision/latest?cb=20220811185251",
+   "summary": "The Power Stone was one of the six Infinity Stones, the remnant of a singularity that predated the universe, representing the element of power. It was used by the Celestial Eson the Searcher until it was contained within the Orb and hidden for millennia in a temple on Morag.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Power_Stone"
+  },
+  {
+   "id": "demons",
+   "name": "Demons",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/87/Realm_of_the_Winged_Demons.png/revision/latest/scale-to-width-down/500?cb=20220914220530",
+   "summary": "Demons are otherworldly beings whose interactions with humanity left them with a sinister and enduring reputation. Their impact in the collective psyche is such that evil acts or malevolent events are often ascribed to them, whether they are justified or not. Several prominent demons have come to be known by…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Demons"
+  },
+  {
+   "id": "whih-world-news",
+   "name": "WHiH World News",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fe/WHIH-2023.png/revision/latest/scale-to-width-down/500?cb=20210726041025",
+   "summary": "WHiH World News is a television network and a subsidiary of VistaCorp specializing in world news and reports on political, scientific, and entertainment news.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/WHiH_World_News"
+  },
+  {
+   "id": "masters-of-the-mystic-arts",
+   "name": "Masters of the Mystic Arts",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/58/Masters_of_the_Mystic_Arts_%28Multiverse_of_Madness%29.png/revision/latest/scale-to-width-down/500?cb=20220503094803",
+   "summary": "The Masters of the Mystic Arts are an order of sorcerers who are committed to protecting the Earth from mystical threats.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Masters_of_the_Mystic_Arts"
+  },
+  {
+   "id": "dogs",
+   "name": "Dogs",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/85/Lucky_the_Pizza_Dog.png/revision/latest/scale-to-width-down/500?cb=20211125195440",
+   "summary": "Dogs (Canis lupus familiaris) are a race of mammals native to Earth. Dogs, while commonly feral in wildlife, are one of the most widely domesticated fauna on the planet, with humans frequently adopting them as pets and domestic companions.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Dogs"
+  },
+  {
+   "id": "eternals",
+   "name": "Eternals",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2f/Eternals_profile_pic.png/revision/latest/scale-to-width-down/500?cb=20210910175009",
+   "summary": "The Eternals are a race of near-immortal synthetic beings created by the Celestials. They were sent to multiple planets to protect and help evolve sentient lifeforms to power a Celestial seed inside the planet, which would absorb the energy made from the sentient lifeforms. Ten of these Eternals arrived on Earth…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Eternals"
+  },
+  {
+   "id": "church-of-gibborim",
+   "name": "Church of Gibborim",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Church_of_Gibborim.png/revision/latest/scale-to-width-down/500?cb=20171205061014",
+   "summary": "The Church of Gibborim is a Los Angeles-based religious organization that follows the teachings of David Ellerh. While publicly appearing as an open and charitable organization, the Church engaged in forced \"reindoctrination\" to those deemed troublesome or rebellious by the church's leadership and also provided…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Church_of_Gibborim"
+  },
+  {
+   "id": "new-avengers",
+   "name": "New Avengers",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/88/Thunderbolts_profile.png/revision/latest/scale-to-width-down/500?cb=20250827104805",
+   "summary": "The New Avengers, previously named the Thunderbolts by Alexei Shostakov, are a team consisting of extraordinary individuals, with either superpowers or other special characteristics. They were assembled in 2027 as a result of being targeted by Valentina Allegra de Fontaine and working together to stop the Void from…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/New_Avengers"
+  },
+  {
+   "id": "golden-tribe",
+   "name": "Golden Tribe",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c7/Wakandan_Royal_Family_BP_Promo.jpg/revision/latest/scale-to-width-down/500?cb=20221116143958",
+   "summary": "The Golden Tribe, also called the Bashenga Tribe, is the Wakandan royal tribe, consisting of the descendants of Bashenga.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Golden_Tribe"
+  },
+  {
+   "id": "skrulls",
+   "name": "Skrulls",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2e/Captain_Marvel_EW_03.jpg/revision/latest/scale-to-width-down/500?cb=20180918180931",
+   "summary": "The Skrulls are a technologically advanced race of reptilian humanoids, native to the destroyed planet Skrullos. They are notable for their shapeshifting abilities, which allow them to replicate other lifeforms seamlessly, and infiltrate planets without suspicion.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Skrulls"
+  },
+  {
+   "id": "cia",
+   "name": "CIA",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4f/CIA.png/revision/latest/scale-to-width-down/500?cb=20140409103134",
+   "summary": "The Central Intelligence Agency, better known by its acronym CIA, is a major intelligence service that specializes in foreign operations on behalf of the United States.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/CIA"
+  },
+  {
+   "id": "new-york-bulletin",
+   "name": "New York Bulletin",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b7/NYB.png/revision/latest/scale-to-width-down/500?cb=20170421150016",
+   "summary": "The New York Bulletin is a tabloid newspaper from New York City.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/New_York_Bulletin"
+  },
+  {
+   "id": "celestials",
+   "name": "Celestials",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cf/The_Eternals_-_Concept_Art1.jpg/revision/latest/scale-to-width-down/500?cb=20210501202747",
+   "summary": "The Celestials are a race older than the universe, cosmological entities with vastly powerful matter and energy manipulation abilities. A group of Celestials were responsible for the Big Bang, bringing planets and lifeforms into existence throughout the cosmos.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Celestials"
+  },
+  {
+   "id": "frost-giants",
+   "name": "Frost Giants",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d5/FrostGiants-Thor.png/revision/latest/scale-to-width-down/500?cb=20140927170507",
+   "summary": "The Jotunn, also called Jötuns or otherwise colloquially referred to as the Frost Giants, coined by the Asgardians, are a race of humanoid giants that live on Jotunheim, one of the Nine Realms.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Frost_Giants"
+  },
+  {
+   "id": "guardians-of-the-multiverse",
+   "name": "Guardians of the Multiverse",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/What_If..._The_Watcher_Disappeared%3F_Thumbnail.jpeg/revision/latest/scale-to-width-down/500?cb=20241228141504",
+   "summary": "The Guardians of the Multiverse are a group made up of individuals from across the Multiverse who were recruited by Watcher to stop Ultron from succeeding on his multiversal conquest. During the final battle with Ultron, the group was betrayed by one of its members, Erik Killmonger, who tried to use the Infinity…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Guardians_of_the_Multiverse"
+  },
+  {
+   "id": "united-states-department-of-damage-control",
+   "name": "United States Department of Damage Control",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ee/DODC_Icon.png/revision/latest/scale-to-width-down/500?cb=20200824225255",
+   "summary": "The United States Department of Damage Control, also known by its acronym DODC or simply Damage Control, is a federal executive department responsible for dealing with enhanced conflicts. Initially a subsidiary of S.H.I.E.L.D., Damage Control specialized in cleaning up the post-battle damage caused by individuals.…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/United_States_Department_of_Damage_Control"
+  },
+  {
+   "id": "asgardian-royal-family",
+   "name": "Asgardian Royal Family",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b6/Asgardian_royal_family.jpg/revision/latest/scale-to-width-down/500?cb=20180421115427",
+   "summary": "The Asgardian Royal Family was the ruling dynasty of Asgard, established by Buri, the first king of the Asgardians. The family ceased to stay in power in 2023, when Buri's last living descendant, Thor, abdicated from the throne and named Valkyrie as King.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Asgardian_Royal_Family"
+  },
+  {
+   "id": "howling-commandos",
+   "name": "Howling Commandos",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/32/Howling_Commandos.jpg/revision/latest/scale-to-width-down/500?cb=20120614222236",
+   "summary": "The Howling Commandos were an elite combat unit that had been led by Captain America during World War II. At the end of the war and Captain America's apparent demise, their unit continued to be active and was led by Dum Dum Dugan. The team was given its name by Junior Juniper, one of their members who was killed in…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Howling_Commandos"
+  },
+  {
+   "id": "minutemen",
+   "name": "Minutemen",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/df/Deadpool_%26_Wolverine_Teaser_Trailer_%2822%29.png/revision/latest/scale-to-width-down/500?cb=20240212210841",
+   "summary": "The Minutemen are the prime soldiers of the Time Variance Authority. Minutemen are sent to various points in space and time to locate and detain people who mess with or create a nexus event in the Sacred Timeline and reset the timelines to prevent chaos within the Multiverse.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Minutemen"
+  },
+  {
+   "id": "advanced-threat-containment-unit",
+   "name": "Advanced Threat Containment Unit",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f6/ATCU.png/revision/latest/scale-to-width-down/500?cb=20171204122130",
+   "summary": "The Advanced Threat Containment Unit, also known by its acronym ATCU, is a United States government organization created to deal with the emergence of new Inhumans following the accidental release of the Terrigen Mist at the bottom of the ocean.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Advanced_Threat_Containment_Unit"
+  },
+  {
+   "id": "black-order",
+   "name": "Black Order",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5c/Avengers_Infinity_War_Promotional.jpg/revision/latest/scale-to-width-down/356?cb=20180306202112",
+   "summary": "The Black Order, also known as the Children of Thanos, was an elite team comprised of powerful individuals who used their abilities to serve their adoptive father Thanos.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Black_Order"
+  },
+  {
+   "id": "ants",
+   "name": "Ants",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/53/Ant-Man_screenshot_1.jpg/revision/latest/scale-to-width-down/500?cb=20150710203223",
+   "summary": "Ants are eusocial insects native to Earth. They are among the most socially advanced species on the planet, being one of the few earthly creatures capable of operating as a unified entity. Ants form organized colonies that may occupy large territories and consist of millions of workers. Most colonies consist mostly…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Ants"
+  },
+  {
+   "id": "nelson-and-murdock",
+   "name": "Nelson and Murdock",
+   "type": "faction",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/84/NelsonMurdock.jpg/revision/latest/scale-to-width-down/500?cb=20150114035852",
+   "summary": "Nelson and Murdock was a law firm in New York City founded by Foggy Nelson and Matt Murdock. Following the recruitment of Karen Page as the firm's office manager, they were instrumental in taking down Wilson Fisk and defended Frank Castle before ultimately disbanding due to complications caused by Murdock's…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Nelson_and_Murdock"
+  },
+  {
+   "id": "zombies",
+   "name": "Zombies",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3a/Okoye_and_Zombies.jpg/revision/latest/scale-to-width-down/500?cb=20250902170804",
+   "summary": "Zombies are a race of monsters created through the resurrection or viral infection of humanoid beings. Although some zombies are the result of illusions or magical reanimation meant to torture people, zombies created through viruses that hunger for flesh exist in some universes.",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Zombies"
+  },
+  {
+   "id": "dark-elves",
+   "name": "Dark Elves",
+   "type": "espece",
+   "rarity": "C",
+   "image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Thor-dark-world-pictures-1.jpg/revision/latest/scale-to-width-down/500?cb=20131120022830",
+   "summary": "The Dark Elves (known as Svartálfar by the Ancient Norse, Älfeneel or Harudheeniksel by the Dark Elves themselves) are among the oldest known species in existence, hailing from the realm Svartalfheim. They are one of the mortal enemies of the Asgardians, the other being the Frost Giants. Some members of their race…",
+   "url": "https://marvelcinematicuniverse.fandom.com/wiki/Dark_Elves"
+  }
+ ]
+}
